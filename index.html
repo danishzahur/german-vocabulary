@@ -787,7 +787,7 @@
     }
 
     // Load the JSON data
-    fetch('/german_english_dict.json')
+    fetch('german_english_dict.json')
         .then(response => {
             if (!response.ok) throw new Error(`HTTP error ${response.status}`);
             return response.json();
