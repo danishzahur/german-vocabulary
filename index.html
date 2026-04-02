@@ -95,6 +95,7 @@
         }
         .filter-row {
             display: flex;
+            align-items: center;
             flex-wrap: wrap;
             gap: 12px;
             margin-bottom: 16px;
@@ -430,7 +431,6 @@
 <div class="app-container">
     <div class="german-flag"><div class="flag-black"></div><div class="flag-red"></div><div class="flag-gold"></div></div>
     <h1>🇩🇪 German Flashcards</h1>
-    <!--div class="subtitle">A1–B1 • Plurals • Verb forms • Audio • Progress</div-->
     <div class="subtitle">A1–B1</div>
 
     <!-- Loading indicator -->
@@ -449,7 +449,7 @@
 
         <div class="filter-section">
             <div class="filter-row">
-                <label style="padding-top: 6px;">📚 Level</label>
+                <label>📚 Level</label>
                 <div class="level-buttons" id="levelFilters">
                     <button class="level-btn active" data-level="all">All</button>
                     <button class="level-btn" data-level="A1">A1</button>
