@@ -175,7 +175,7 @@
             cursor: pointer;
             transform-style: preserve-3d;
             transition: transform 0.5s;
-            touch-action: pan-y; /* <-- Add this line to prevent browser swipe navigation */
+            touch-action: pan-y;
         }
         .flashcard.flipped {
             transform: rotateY(180deg);
@@ -389,6 +389,7 @@
             background: #f8fafc;
             border-radius: 24px;
             padding: 12px;
+            scroll-behavior: smooth;
         }
         @media (min-width: 500px) {
             .word-grid {
@@ -409,11 +410,18 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            transition: 0.1s;
+            transition: all 0.2s ease;
         }
         .word-item.known { border-left-color: #10b981; }
         .word-item.review { border-left-color: #f59e0b; }
         .word-item:active { background: #fef9e3; }
+        .word-item.active-word {
+            background: #e0e7ff;
+            border-left-color: #4338ca;
+            transform: scale(1.02);
+            box-shadow: 0 4px 10px rgba(67, 56, 202, 0.15);
+            z-index: 1;
+        }
         .level-mini {
             background: #e2e8f0;
             padding: 2px 8px;
@@ -433,10 +441,8 @@
     <h1>🇩🇪 German Flashcards</h1>
     <div class="subtitle">A1–B1</div>
 
-    <!-- Loading indicator -->
     <div id="loading" class="loading">📖 Loading vocabulary...</div>
 
-    <!-- Main app content (hidden until data loaded) -->
     <div id="appContent" style="display: none;">
         <div class="stats-container">
             <div class="stat-card"><div class="stat-value" id="levelCountA1">0</div><div class="stat-label">A1</div></div>
@@ -552,8 +558,8 @@
                 <h3>📖 Word list</h3>
                 <div id="wordListCount" style="font-size:0.9rem; color:#555;"></div>
                 <select class="sort-select" id="sortSelect" onchange="sortWords()">
-                    <option value="level">Sort by level</option>
                     <option value="alphabetical">Sort A–Z</option>
+                    <option value="level">Sort by level</option>
                     <option value="pos">Sort by part of speech</option>
                     <option value="status">Sort by status</option>
                 </select>
@@ -684,7 +690,6 @@
             document.getElementById('englishWord').textContent = 'adjust filters';
             document.getElementById('frontPos').textContent = '';
             document.getElementById('frontLevel').textContent = '';
-            document.getElementById('extraForms').textContent = '—';
             document.getElementById('extraInfo').innerHTML = '&nbsp;';
             return;
         }
@@ -715,6 +720,28 @@
 
         document.getElementById('prevBtn').disabled = currentIndex === 0;
         document.getElementById('nextBtn').disabled = currentIndex === filteredWords.length - 1;
+
+        // Trigger highlight in word grid
+        highlightActiveWordInGrid();
+    }
+
+    // NEW: Highlight and scroll to the active word in the list
+    function highlightActiveWordInGrid() {
+        if (!filteredWords.length) return;
+        const currentWord = filteredWords[currentIndex];
+
+        // Remove active-word class from all items
+        document.querySelectorAll('.word-item').forEach(item => {
+            item.classList.remove('active-word');
+        });
+
+        // Find the active item by its newly assigned ID
+        const activeItem = document.getElementById(`grid-item-${currentWord.id}`);
+        if (activeItem) {
+            activeItem.classList.add('active-word');
+            // Smoothly scroll the item into view inside the grid
+            activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
     }
 
     function flipCard() { document.getElementById('flashcard').classList.toggle('flipped'); }
@@ -745,6 +772,8 @@
         filteredWords.forEach(w => {
             const status = wordProgress[w.id];
             const div = document.createElement('div');
+            // Assigning an ID to easily target it for scrolling
+            div.id = `grid-item-${w.id}`; 
             div.className = `word-item ${status}`;
             div.onclick = () => {
                 currentIndex = filteredWords.findIndex(f => f.id === w.id);
@@ -825,7 +854,7 @@
             if (e.key === 'r' || e.key === 'R') markForReview();
         });
         
-        // --- NEW SWIPE LOGIC START ---
+        // --- SWIPE LOGIC START ---
         const flashcardElement = document.getElementById('flashcard');
         let touchStartX = 0;
         let touchEndX = 0;
@@ -854,7 +883,7 @@
                 }
             }
         }
-        // --- NEW SWIPE LOGIC END ---
+        // --- SWIPE LOGIC END ---
     }
 
     // Load the JSON data
