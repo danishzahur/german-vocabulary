@@ -725,7 +725,6 @@
         highlightActiveWordInGrid();
     }
 
-    // NEW: Highlight and scroll to the active word in the list
     function highlightActiveWordInGrid() {
         if (!filteredWords.length) return;
         const currentWord = filteredWords[currentIndex];
@@ -739,8 +738,16 @@
         const activeItem = document.getElementById(`grid-item-${currentWord.id}`);
         if (activeItem) {
             activeItem.classList.add('active-word');
-            // Smoothly scroll the item into view inside the grid
-            activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            
+            // Scroll only the grid div to place the item at the top
+            const grid = document.getElementById('wordGrid');
+            const gridRect = grid.getBoundingClientRect();
+            const itemRect = activeItem.getBoundingClientRect();
+            
+            grid.scrollBy({
+                top: itemRect.top - gridRect.top - 12, // 12px offset for the grid's padding
+                behavior: 'smooth'
+            });
         }
     }
 
