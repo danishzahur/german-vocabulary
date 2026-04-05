@@ -3,13 +3,17 @@
     "german": "(ein) paar",
     "level": "B1",
     "english": "a few, a couple of",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Wir haben ein paar Äpfel gekauft.",
+    "example_en": "We bought a few apples."
   },
   {
     "german": "ab",
     "level": "A1",
     "english": "from, off, starting from",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Der Zug fährt ab Gleis 3.",
+    "example_en": "The train departs from track 3."
   },
   {
     "german": "abbiegen",
@@ -17,40 +21,52 @@
     "english": "to turn",
     "pos": "verb",
     "past": "bog ab",
-    "perfect": "ist abgebogen"
+    "perfect": "ist abgebogen",
+    "example_de": "Du musst an der Ampel rechts abbiegen.",
+    "example_en": "You have to turn right at the traffic light."
   },
   {
     "german": "die Abbildung",
     "level": "B1",
     "english": "illustration, figure, image",
     "pos": "noun",
-    "plural": "die Abbildungen"
+    "plural": "die Abbildungen",
+    "example_de": "Die Abbildung zeigt ein Haus.",
+    "example_en": "The illustration shows a house."
   },
   {
     "german": "der Abend",
     "level": "A2",
     "english": "evening",
     "pos": "noun",
-    "plural": "die Abende"
+    "plural": "die Abende",
+    "example_de": "Wir sehen uns heute Abend.",
+    "example_en": "We will see each other this evening."
   },
   {
     "german": "abends",
     "level": "A2",
     "english": "in the evenings",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Abends lese ich gern.",
+    "example_en": "In the evenings, I like to read."
   },
   {
     "german": "das Abenteuer",
     "level": "B1",
     "english": "adventure",
     "pos": "noun",
-    "plural": "die Abenteuer"
+    "plural": "die Abenteuer",
+    "example_de": "Das war ein tolles Abenteuer.",
+    "example_en": "That was a great adventure."
   },
   {
     "german": "aber",
     "level": "A1",
     "english": "but, however",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Ich bin müde, aber glücklich.",
+    "example_en": "I am tired, but happy."
   },
   {
     "german": "abfahren",
@@ -58,28 +74,36 @@
     "english": "to depart, to leave",
     "pos": "verb",
     "past": "fuhr ab",
-    "perfect": "ist abgefahren"
+    "perfect": "ist abgefahren",
+    "example_de": "Wann wird der Zug abfahren?",
+    "example_en": "When will the train depart?"
   },
   {
     "german": "die Abfahrt",
     "level": "A1",
     "english": "departure",
     "pos": "noun",
-    "plural": "die Abfahrten"
+    "plural": "die Abfahrten",
+    "example_de": "Die Abfahrt ist um 8 Uhr.",
+    "example_en": "The departure is at 8 o'clock."
   },
   {
     "german": "der Abfall",
     "level": "B1",
     "english": "waste, trash, rubbish",
     "pos": "noun",
-    "plural": "die Abfälle"
+    "plural": "die Abfälle",
+    "example_de": "Werfen Sie den Abfall in den Mülleimer.",
+    "example_en": "Throw the trash in the bin."
   },
   {
     "german": "der Abfalleimer",
     "level": "B1",
     "english": "trash can, rubbish bin",
     "pos": "noun",
-    "plural": "die Abfalleimer"
+    "plural": "die Abfalleimer",
+    "example_de": "Der Abfalleimer ist voll.",
+    "example_en": "The trash can is full."
   },
   {
     "german": "abfliegen",
@@ -87,21 +111,27 @@
     "english": "to take off, to depart (by plane)",
     "pos": "verb",
     "past": "flog ab",
-    "perfect": "ist abgeflogen"
+    "perfect": "ist abgeflogen",
+    "example_de": "Das Flugzeug wird bald abfliegen.",
+    "example_en": "The plane will take off soon."
   },
   {
     "german": "der Abflug",
     "level": "A1",
     "english": "departure (by plane)",
     "pos": "noun",
-    "plural": "die Abflüge"
+    "plural": "die Abflüge",
+    "example_de": "Der Abflug ist pünktlich.",
+    "example_en": "The departure is on time."
   },
   {
     "german": "die Abgase",
     "level": "B1",
     "english": "exhaust fumes",
     "pos": "noun",
-    "plural": "die Abgase (Plural only)"
+    "plural": "die Abgase (Plural only)",
+    "example_de": "Die Abgase riechen schlecht.",
+    "example_en": "The exhaust fumes smell bad."
   },
   {
     "german": "abgeben",
@@ -109,7 +139,9 @@
     "english": "to hand in, to submit, to drop off",
     "pos": "verb",
     "past": "gab ab",
-    "perfect": "hat abgegeben"
+    "perfect": "hat abgegeben",
+    "example_de": "Ich muss meine Hausaufgaben abgeben.",
+    "example_en": "I have to hand in my homework."
   },
   {
     "german": "abhängen",
@@ -117,13 +149,17 @@
     "english": "to depend",
     "pos": "verb",
     "past": "hing ab",
-    "perfect": "hat abgehangen"
+    "perfect": "hat abgehangen",
+    "example_de": "Es wird vom Wetter abhängen.",
+    "example_en": "It will depend on the weather."
   },
   {
     "german": "abhängig",
     "level": "B1",
     "english": "dependent",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Kinder sind von ihren Eltern abhängig.",
+    "example_en": "Children are dependent on their parents."
   },
   {
     "german": "abheben",
@@ -131,7 +167,9 @@
     "english": "to withdraw (money), to lift off",
     "pos": "verb",
     "past": "hob ab",
-    "perfect": "hat abgehoben"
+    "perfect": "hat abgehoben",
+    "example_de": "Ich möchte Geld abheben.",
+    "example_en": "I want to withdraw money."
   },
   {
     "german": "abholen",
@@ -139,14 +177,18 @@
     "english": "to pick up, to collect",
     "pos": "verb",
     "past": "holte ab",
-    "perfect": "hat abgeholt"
+    "perfect": "hat abgeholt",
+    "example_de": "Ich werde dich am Bahnhof abholen.",
+    "example_en": "I will pick you up at the train station."
   },
   {
     "german": "das Abitur",
     "level": "A2",
     "english": "high school diploma",
     "pos": "noun",
-    "plural": "die Abiture"
+    "plural": "die Abiture",
+    "example_de": "Sie hat letztes Jahr ihr Abitur gemacht.",
+    "example_en": "She got her high school diploma last year."
   },
   {
     "german": "ablehnen",
@@ -154,7 +196,9 @@
     "english": "to reject, to decline, to refuse",
     "pos": "verb",
     "past": "lehnte ab",
-    "perfect": "hat abgelehnt"
+    "perfect": "hat abgelehnt",
+    "example_de": "Er hat das Angebot abgelehnt.",
+    "example_en": "He rejected the offer."
   },
   {
     "german": "abmachen",
@@ -162,7 +206,9 @@
     "english": "to agree on, to take off (colloquial)",
     "pos": "verb",
     "past": "machte ab",
-    "perfect": "hat abgemacht"
+    "perfect": "hat abgemacht",
+    "example_de": "Wir haben einen Preis abgemacht.",
+    "example_en": "We agreed on a price."
   },
   {
     "german": "abnehmen",
@@ -170,14 +216,18 @@
     "english": "to remove, to lose weight",
     "pos": "verb",
     "past": "nahm ab",
-    "perfect": "hat abgenommen"
+    "perfect": "hat abgenommen",
+    "example_de": "Ich möchte fünf Kilo abnehmen.",
+    "example_en": "I want to lose five kilos."
   },
   {
     "german": "das Abonnement",
     "level": "B1",
     "english": "subscription",
     "pos": "noun",
-    "plural": "die Abonnements"
+    "plural": "die Abonnements",
+    "example_de": "Das Abonnement für die Zeitschrift ist teuer.",
+    "example_en": "The subscription for the magazine is expensive."
   },
   {
     "german": "abonnieren",
@@ -185,7 +235,9 @@
     "english": "to subscribe",
     "pos": "verb",
     "past": "abonnierte",
-    "perfect": "hat abonniert"
+    "perfect": "hat abonniert",
+    "example_de": "Ich habe die Zeitung abonniert.",
+    "example_en": "I subscribed to the newspaper."
   },
   {
     "german": "absagen",
@@ -193,7 +245,9 @@
     "english": "to cancel",
     "pos": "verb",
     "past": "sagte ab",
-    "perfect": "hat abgesagt"
+    "perfect": "hat abgesagt",
+    "example_de": "Ich muss den Termin leider absagen.",
+    "example_en": "Unfortunately, I have to cancel the appointment."
   },
   {
     "german": "abschließen",
@@ -201,21 +255,27 @@
     "english": "to lock, to finish, to complete",
     "pos": "verb",
     "past": "schloss ab",
-    "perfect": "hat abgeschlossen"
+    "perfect": "hat abgeschlossen",
+    "example_de": "Hast du die Tür abgeschlossen?",
+    "example_en": "Did you lock the door?"
   },
   {
     "german": "der Abschluss",
     "level": "B1",
     "english": "degree, diploma, completion",
     "pos": "noun",
-    "plural": "die Abschlüsse"
+    "plural": "die Abschlüsse",
+    "example_de": "Er feiert heute seinen Abschluss.",
+    "example_en": "He is celebrating his degree today."
   },
   {
     "german": "der Abschnitt",
     "level": "B1",
     "english": "section, paragraph",
     "pos": "noun",
-    "plural": "die Abschnitte"
+    "plural": "die Abschnitte",
+    "example_de": "Lesen Sie den ersten Abschnitt.",
+    "example_en": "Read the first paragraph."
   },
   {
     "german": "abschreiben",
@@ -223,27 +283,35 @@
     "english": "to copy, to plagiarize",
     "pos": "verb",
     "past": "schrieb ab",
-    "perfect": "hat abgeschrieben"
+    "perfect": "hat abgeschrieben",
+    "example_de": "Du darfst in der Prüfung nicht abschreiben.",
+    "example_en": "You must not copy during the exam."
   },
   {
     "german": "der Absender",
     "level": "A1",
     "english": "sender, return address",
     "pos": "noun",
-    "plural": "die Absender"
+    "plural": "die Absender",
+    "example_de": "Der Absender steht auf dem Brief.",
+    "example_en": "The sender is on the letter."
   },
   {
     "german": "die Absicht",
     "level": "B1",
     "english": "intention, purpose",
     "pos": "noun",
-    "plural": "die Absichten"
+    "plural": "die Absichten",
+    "example_de": "Das war keine Absicht!",
+    "example_en": "That was not intentional!"
   },
   {
     "german": "absolut",
     "level": "B1",
     "english": "absolutely, completely",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Du hast absolut recht.",
+    "example_en": "You are absolutely right."
   },
   {
     "german": "abstimmen",
@@ -251,27 +319,35 @@
     "english": "to vote",
     "pos": "verb",
     "past": "stimmte ab",
-    "perfect": "hat abgestimmt"
+    "perfect": "hat abgestimmt",
+    "example_de": "Wir stimmen morgen über den Plan ab.",
+    "example_en": "We will vote on the plan tomorrow."
   },
   {
     "german": "die Abteilung",
     "level": "B1",
     "english": "department",
     "pos": "noun",
-    "plural": "die Abteilungen"
+    "plural": "die Abteilungen",
+    "example_de": "Sie arbeitet in der Marketing-Abteilung.",
+    "example_en": "She works in the marketing department."
   },
   {
     "german": "der Abwart",
     "level": "B1",
     "english": "caretaker, janitor (swiss german)",
     "pos": "noun",
-    "plural": "die Abwarte"
+    "plural": "die Abwarte",
+    "example_de": "Der Abwart repariert die Heizung.",
+    "example_en": "The janitor is repairing the heater."
   },
   {
     "german": "abwärts",
     "level": "B1",
     "english": "downwards, downhill",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Der Weg führt steil abwärts.",
+    "example_en": "The path leads steeply downwards."
   },
   {
     "german": "abwaschen",
@@ -279,13 +355,17 @@
     "english": "to wash up, to do the dishes",
     "pos": "verb",
     "past": "wusch ab",
-    "perfect": "hat abgewaschen"
+    "perfect": "hat abgewaschen",
+    "example_de": "Ich muss noch das Geschirr abwaschen.",
+    "example_en": "I still have to wash the dishes."
   },
   {
     "german": "abwesend",
     "level": "B1",
     "english": "absent",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Er war gestern krank und deshalb abwesend.",
+    "example_en": "He was sick yesterday and therefore absent."
   },
   {
     "german": "achten",
@@ -293,59 +373,77 @@
     "english": "to pay attention, to watch out",
     "pos": "verb",
     "past": "achtete",
-    "perfect": "hat geachtet"
+    "perfect": "hat geachtet",
+    "example_de": "Bitte achten Sie auf die Stufen.",
+    "example_en": "Please pay attention to the steps."
   },
   {
     "german": "Achtung",
     "level": "A1",
     "english": "attention, watch out",
-    "pos": "interjection"
+    "pos": "interjection",
+    "example_de": "Achtung, ein Auto kommt!",
+    "example_en": "Watch out, a car is coming!"
   },
   {
     "german": "die Achtung",
     "level": "A2",
     "english": "attention, watch out",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Ich habe große Achtung vor ihrer Arbeit.",
+    "example_en": "I have great respect for her work."
   },
   {
     "german": "die Adresse",
     "level": "A1",
     "english": "address",
     "pos": "noun",
-    "plural": "die Adressen"
+    "plural": "die Adressen",
+    "example_de": "Wie ist deine neue Adresse?",
+    "example_en": "What is your new address?"
   },
   {
     "german": "die Ahnung",
     "level": "A2",
     "english": "idea, clue",
     "pos": "noun",
-    "plural": "die Ahnungen"
+    "plural": "die Ahnungen",
+    "example_de": "Ich habe keine Ahnung.",
+    "example_en": "I have no idea."
   },
   {
     "german": "die Aktion",
     "level": "B1",
     "english": "campaign, action, special offer",
     "pos": "noun",
-    "plural": "die Aktionen"
+    "plural": "die Aktionen",
+    "example_de": "Die Aktion gilt nur heute.",
+    "example_en": "The special offer is only valid today."
   },
   {
     "german": "aktiv",
     "level": "A2",
     "english": "active",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Mein Großvater ist noch sehr aktiv.",
+    "example_en": "My grandfather is still very active."
   },
   {
     "german": "die Aktivität",
     "level": "B1",
     "english": "activity",
     "pos": "noun",
-    "plural": "die Aktivitäten"
+    "plural": "die Aktivitäten",
+    "example_de": "Welche Aktivität machst du am liebsten?",
+    "example_en": "What activity do you like doing the most?"
   },
   {
     "german": "aktuell",
     "level": "A2",
     "english": "current, up-to-date",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das sind die aktuellen Nachrichten.",
+    "example_en": "These are the current news."
   },
   {
     "german": "akzeptieren",
@@ -353,207 +451,273 @@
     "english": "to accept",
     "pos": "verb",
     "past": "akzeptierte",
-    "perfect": "hat akzeptiert"
+    "perfect": "hat akzeptiert",
+    "example_de": "Ich akzeptiere deine Entscheidung.",
+    "example_en": "I accept your decision."
   },
   {
     "german": "der Alarm",
     "level": "B1",
     "english": "alarm",
     "pos": "noun",
-    "plural": "die Alarme"
+    "plural": "die Alarme",
+    "example_de": "Der Alarm war sehr laut.",
+    "example_en": "The alarm was very loud."
   },
   {
     "german": "der Alkohol",
     "level": "B1",
     "english": "alcohol",
     "pos": "noun",
-    "plural": "die Alkohole"
+    "plural": "die Alkohole",
+    "example_de": "Er trinkt keinen Alkohol.",
+    "example_en": "He drinks no alcohol."
   },
   {
     "german": "all-",
     "level": "A1",
     "english": "all, everything",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "All das gehört mir.",
+    "example_en": "All of this belongs to me."
   },
   {
     "german": "alle",
     "level": "B1",
     "english": "all, everyone, everything",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Alle Kinder spielen im Garten.",
+    "example_en": "All children are playing in the garden."
   },
   {
     "german": "allein",
     "level": "A1",
     "english": "alone",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich lebe allein in Berlin.",
+    "example_en": "I live alone in Berlin."
   },
   {
     "german": "allerdings",
     "level": "B1",
     "english": "however, certainly",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Das Auto ist gut, allerdings sehr teuer.",
+    "example_en": "The car is good, however very expensive."
   },
   {
     "german": "allgemein",
     "level": "B1",
     "english": "general",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist ein allgemeines Problem.",
+    "example_en": "That is a general problem."
   },
   {
     "german": "der Alltag",
     "level": "B1",
     "english": "everyday life, daily routine",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Mein Alltag ist oft stressig.",
+    "example_en": "My everyday life is often stressful."
   },
   {
     "german": "alltäglich",
     "level": "B1",
     "english": "everyday, ordinary",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist ein alltägliches Problem.",
+    "example_en": "That is an everyday problem."
   },
   {
     "german": "das Alphabet",
     "level": "B1",
     "english": "alphabet",
     "pos": "noun",
-    "plural": "die Alphabete"
+    "plural": "die Alphabete",
+    "example_de": "Die Kinder lernen das Alphabet.",
+    "example_en": "The children are learning the alphabet."
   },
   {
     "german": "als",
     "level": "A2",
     "english": "than, as, when",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Er ist größer als ich.",
+    "example_en": "He is taller than me."
   },
   {
     "german": "als ob",
     "level": "B1",
     "english": "as if",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Er tat so, als ob er schliefe.",
+    "example_en": "He acted as if he were sleeping."
   },
   {
     "german": "also",
     "level": "A1",
     "english": "so, therefore",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich habe Hunger, also esse ich etwas.",
+    "example_en": "I am hungry, so I am eating something."
   },
   {
     "german": "alt",
     "level": "A1",
     "english": "old",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Wie alt bist du?",
+    "example_en": "How old are you?"
   },
   {
     "german": "das Altenheim",
     "level": "B1",
     "english": "retirement home, old people's home",
     "pos": "noun",
-    "plural": "die Altenheime"
+    "plural": "die Altenheime",
+    "example_de": "Meine Oma wohnt im Altenheim.",
+    "example_en": "My grandma lives in the retirement home."
   },
   {
     "german": "das Alter",
     "level": "A1",
     "english": "age",
     "pos": "noun",
-    "plural": "die Alter"
+    "plural": "die Alter",
+    "example_de": "Alter ist nur eine Zahl.",
+    "example_en": "Age is just a number."
   },
   {
     "german": "alternativ",
     "level": "B1",
     "english": "alternative",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Wir suchen eine alternative Route.",
+    "example_en": "We are looking for an alternative route."
   },
   {
     "german": "die Alternative",
     "level": "B1",
     "english": "alternative",
     "pos": "noun",
-    "plural": "die Alternativen"
+    "plural": "die Alternativen",
+    "example_de": "Es gibt keine andere Alternative.",
+    "example_en": "There is no other alternative."
   },
   {
     "german": "am besten",
     "level": "A2",
     "english": "best",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am besten bleiben wir heute zu Hause.",
+    "example_en": "It's best if we stay at home today."
   },
   {
     "german": "am Dienstag",
     "level": "A2",
     "english": "on tuesday",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am Dienstag gehe ich zum Sport.",
+    "example_en": "On Tuesday I go to sports."
   },
   {
     "german": "am Donnerstag",
     "level": "A2",
     "english": "on thursday",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am Donnerstag habe ich frei.",
+    "example_en": "On Thursday I have the day off."
   },
   {
     "german": "am Freitag",
     "level": "A2",
     "english": "on friday",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Wir sehen uns am Freitag.",
+    "example_en": "We will see each other on Friday."
   },
   {
     "german": "am liebsten",
     "level": "A2",
     "english": "most of all, preferably",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am liebsten trinke ich Kaffee.",
+    "example_en": "Most of all, I like to drink coffee."
   },
   {
     "german": "am Mittwoch",
     "level": "A2",
     "english": "on wednesday",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am Mittwoch besuche ich meine Eltern.",
+    "example_en": "On Wednesday I visit my parents."
   },
   {
     "german": "am Montag",
     "level": "A2",
     "english": "on monday",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am Montag beginnt die Schule wieder.",
+    "example_en": "On Monday school starts again."
   },
   {
     "german": "am Samstag",
     "level": "A2",
     "english": "on saturday",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am Samstag schlafe ich lange.",
+    "example_en": "On Saturday I sleep in."
   },
   {
     "german": "am Sonntag",
     "level": "A2",
     "english": "on sunday",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Am Sonntag backe ich einen Kuchen.",
+    "example_en": "On Sunday I bake a cake."
   },
   {
     "german": "am Wochenende",
     "level": "A2",
     "english": "at the weekend",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Was machst du am Wochenende?",
+    "example_en": "What are you doing at the weekend?"
   },
   {
     "german": "die Ampel",
     "level": "A2",
     "english": "traffic light",
     "pos": "noun",
-    "plural": "die Ampeln"
+    "plural": "die Ampeln",
+    "example_de": "Die Ampel ist jetzt grün.",
+    "example_en": "The traffic light is green now."
   },
   {
     "german": "das Amt",
     "level": "B1",
     "english": "office, department, authority",
     "pos": "noun",
-    "plural": "die Ämter"
+    "plural": "die Ämter",
+    "example_de": "Ich muss morgen zum Amt gehen.",
+    "example_en": "I have to go to the office tomorrow."
   },
   {
     "german": "an",
     "level": "A1",
     "english": "on, at, to",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Das Bild hängt an der Wand.",
+    "example_en": "The picture hangs on the wall."
   },
   {
     "german": "an sein",
     "level": "A1",
     "english": "to be on",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Das Radio ist noch an.",
+    "example_en": "The radio is still on."
   },
   {
     "german": "analysieren",
@@ -561,7 +725,9 @@
     "english": "to analyze",
     "pos": "verb",
     "past": "analysierte",
-    "perfect": "hat analysiert"
+    "perfect": "hat analysiert",
+    "example_de": "Wir müssen das Problem analysieren.",
+    "example_en": "We need to analyze the problem."
   },
   {
     "german": "anbieten",
@@ -569,38 +735,50 @@
     "english": "to offer",
     "pos": "verb",
     "past": "bot an",
-    "perfect": "hat angeboten"
+    "perfect": "hat angeboten",
+    "example_de": "Kann ich dir ein Getränk anbieten?",
+    "example_en": "Can I offer you a drink?"
   },
   {
     "german": "der Anbieter",
     "level": "B1",
     "english": "provider, supplier",
     "pos": "noun",
-    "plural": "die Anbieter"
+    "plural": "die Anbieter",
+    "example_de": "Mein Internet-Anbieter ist sehr schnell.",
+    "example_en": "My internet provider is very fast."
   },
   {
     "german": "ander-",
     "level": "A1",
     "english": "other, different",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Ich brauche ein anderes Buch.",
+    "example_en": "I need a different book."
   },
   {
     "german": "andere",
     "level": "B1",
     "english": "other, another",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Andere Leute denken das auch.",
+    "example_en": "Other people think so too."
   },
   {
     "german": "andererseits",
     "level": "B1",
     "english": "on the other hand",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Andererseits ist es zu teuer.",
+    "example_en": "On the other hand, it is too expensive."
   },
   {
     "german": "anders",
     "level": "A2",
     "english": "differently, otherwise",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Er macht das ganz anders.",
+    "example_en": "He does it completely differently."
   },
   {
     "german": "anerkennen",
@@ -608,14 +786,18 @@
     "english": "to recognize, to acknowledge",
     "pos": "verb",
     "past": "erkannte an",
-    "perfect": "hat anerkannt"
+    "perfect": "hat anerkannt",
+    "example_de": "Mein Diplom wird hier anerkannt.",
+    "example_en": "My diploma is recognized here."
   },
   {
     "german": "der Anfang",
     "level": "A1",
     "english": "beginning, start",
     "pos": "noun",
-    "plural": "die Anfänge"
+    "plural": "die Anfänge",
+    "example_de": "Der Anfang war sehr schwer.",
+    "example_en": "The beginning was very difficult."
   },
   {
     "german": "anfangen",
@@ -623,20 +805,26 @@
     "english": "to begin, to start",
     "pos": "verb",
     "past": "fing an",
-    "perfect": "hat angefangen"
+    "perfect": "hat angefangen",
+    "example_de": "Wann wird der Film anfangen?",
+    "example_en": "When will the movie start?"
   },
   {
     "german": "anfangs",
     "level": "B1",
     "english": "initially, at first",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Anfangs war ich oft müde.",
+    "example_en": "Initially, I was often tired."
   },
   {
     "german": "die Angabe",
     "level": "B1",
     "english": "information, statement",
     "pos": "noun",
-    "plural": "die Angaben"
+    "plural": "die Angaben",
+    "example_de": "Wir brauchen genaue Angaben.",
+    "example_en": "We need precise information."
   },
   {
     "german": "angeben",
@@ -644,55 +832,71 @@
     "english": "to state, to indicate, to show off",
     "pos": "verb",
     "past": "gab an",
-    "perfect": "hat angegeben"
+    "perfect": "hat angegeben",
+    "example_de": "Bitte geben Sie Ihre Adresse an.",
+    "example_en": "Please state your address."
   },
   {
     "german": "das Angebot",
     "level": "A1",
     "english": "offer, special offer",
     "pos": "noun",
-    "plural": "die Angebote"
+    "plural": "die Angebote",
+    "example_de": "Dieses Angebot ist fantastisch.",
+    "example_en": "This offer is fantastic."
   },
   {
     "german": "der Angehörige",
     "level": "B1",
     "english": "relative, family member",
     "pos": "noun",
-    "plural": "die Angehörigen"
+    "plural": "die Angehörigen",
+    "example_de": "Die Angehörigen wurden informiert.",
+    "example_en": "The relatives were informed."
   },
   {
     "german": "angenehm",
     "level": "B1",
     "english": "pleasant",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Wasser ist sehr angenehm.",
+    "example_en": "The water is very pleasant."
   },
   {
     "german": "die Angestellte",
     "level": "A2",
     "english": "employee (female)",
     "pos": "noun",
-    "plural": "die Angestellten"
+    "plural": "die Angestellten",
+    "example_de": "Die Angestellte am Schalter hilft mir.",
+    "example_en": "The female employee at the counter helps me."
   },
   {
     "german": "der Angestellte",
     "level": "B1",
     "english": "employee",
     "pos": "noun",
-    "plural": "die Angestellten"
+    "plural": "die Angestellten",
+    "example_de": "Er ist ein Angestellter der Bank.",
+    "example_en": "He is an employee of the bank."
   },
   {
     "german": "der Angestellter",
     "level": "A2",
     "english": "employee (male)",
     "pos": "noun",
-    "plural": "die Angestellten"
+    "plural": "die Angestellten",
+    "example_de": "Mein Bruder ist Angestellter.",
+    "example_en": "My brother is an employee."
   },
   {
     "german": "die Angst",
     "level": "A2",
     "english": "fear, anxiety",
     "pos": "noun",
-    "plural": "die Ängste"
+    "plural": "die Ängste",
+    "example_de": "Ich habe Angst im Dunkeln.",
+    "example_en": "I am afraid in the dark."
   },
   {
     "german": "anhaben",
@@ -700,7 +904,9 @@
     "english": "to wear, to have on",
     "pos": "verb",
     "past": "hatte an",
-    "perfect": "hat angehabt"
+    "perfect": "hat angehabt",
+    "example_de": "Sie hat ein rotes Kleid an.",
+    "example_en": "She is wearing a red dress."
   },
   {
     "german": "anklicken",
@@ -708,7 +914,9 @@
     "english": "to click on",
     "pos": "verb",
     "past": "klickte an",
-    "perfect": "hat angeklickt"
+    "perfect": "hat angeklickt",
+    "example_de": "Bitte das Bild anklicken.",
+    "example_en": "Please click on the image."
   },
   {
     "german": "ankommen",
@@ -716,7 +924,9 @@
     "english": "to arrive",
     "pos": "verb",
     "past": "kam an",
-    "perfect": "ist angekommen"
+    "perfect": "ist angekommen",
+    "example_de": "Wir werden um 10 Uhr ankommen.",
+    "example_en": "We will arrive at 10 o'clock."
   },
   {
     "german": "ankreuzen",
@@ -724,7 +934,9 @@
     "english": "to check, to mark with a cross",
     "pos": "verb",
     "past": "kreuzte an",
-    "perfect": "hat angekreuzt"
+    "perfect": "hat angekreuzt",
+    "example_de": "Bitte kreuzen Sie 'Ja' oder 'Nein' an.",
+    "example_en": "Please check 'Yes' or 'No'."
   },
   {
     "german": "ankündigen",
@@ -732,28 +944,36 @@
     "english": "to announce",
     "pos": "verb",
     "past": "kündigte an",
-    "perfect": "hat angekündigt"
+    "perfect": "hat angekündigt",
+    "example_de": "Der Chef wird eine Pause ankündigen.",
+    "example_en": "The boss will announce a break."
   },
   {
     "german": "die Ankunft",
     "level": "A1",
     "english": "arrival",
     "pos": "noun",
-    "plural": "die Ankünfte"
+    "plural": "die Ankünfte",
+    "example_de": "Wir warten auf deine Ankunft.",
+    "example_en": "We are waiting for your arrival."
   },
   {
     "german": "die Anlage",
     "level": "B1",
     "english": "system, facility, attachment (email), park",
     "pos": "noun",
-    "plural": "die Anlagen"
+    "plural": "die Anlagen",
+    "example_de": "Das Hotel hat eine schöne Anlage.",
+    "example_en": "The hotel has a beautiful facility."
   },
   {
     "german": "die Anleitung",
     "level": "B1",
     "english": "instructions, manual",
     "pos": "noun",
-    "plural": "die Anleitungen"
+    "plural": "die Anleitungen",
+    "example_de": "Lesen Sie zuerst die Anleitung.",
+    "example_en": "Read the instructions first."
   },
   {
     "german": "anmachen",
@@ -761,7 +981,9 @@
     "english": "to turn on, to switch on",
     "pos": "verb",
     "past": "machte an",
-    "perfect": "hat angemacht"
+    "perfect": "hat angemacht",
+    "example_de": "Kannst du das Licht anmachen?",
+    "example_en": "Can you turn on the light?"
   },
   {
     "german": "anmelden",
@@ -769,14 +991,18 @@
     "english": "to register, to sign up",
     "pos": "verb",
     "past": "meldete an",
-    "perfect": "hat angemeldet"
+    "perfect": "hat angemeldet",
+    "example_de": "Ich möchte mich für den Kurs anmelden.",
+    "example_en": "I want to sign up for the course."
   },
   {
     "german": "die Anmeldung",
     "level": "A1",
     "english": "registration, application",
     "pos": "noun",
-    "plural": "die Anmeldungen"
+    "plural": "die Anmeldungen",
+    "example_de": "Die Anmeldung ist hier.",
+    "example_en": "The registration is here."
   },
   {
     "german": "annehmen",
@@ -784,35 +1010,45 @@
     "english": "to accept, to assume",
     "pos": "verb",
     "past": "nahm an",
-    "perfect": "hat angenommen"
+    "perfect": "hat angenommen",
+    "example_de": "Ich nehme dein Geschenk an.",
+    "example_en": "I accept your gift."
   },
   {
     "german": "die Annonce",
     "level": "B1",
     "english": "advertisement",
     "pos": "noun",
-    "plural": "die Annoncen"
+    "plural": "die Annoncen",
+    "example_de": "Er hat eine Annonce in der Zeitung aufgegeben.",
+    "example_en": "He placed an advertisement in the newspaper."
   },
   {
     "german": "die Anrede",
     "level": "A1",
     "english": "salutation, form of address",
     "pos": "noun",
-    "plural": "die Anreden"
+    "plural": "die Anreden",
+    "example_de": "Vergessen Sie nicht die richtige Anrede im Brief.",
+    "example_en": "Do not forget the correct salutation in the letter."
   },
   {
     "german": "der Anruf",
     "level": "A1",
     "english": "(phone) call",
     "pos": "noun",
-    "plural": "die Anrufe"
+    "plural": "die Anrufe",
+    "example_de": "Ich erwarte einen wichtigen Anruf.",
+    "example_en": "I am expecting an important call."
   },
   {
     "german": "der Anrufbeantworter",
     "level": "A1",
     "english": "answering machine",
     "pos": "noun",
-    "plural": "die Anrufbeantworter"
+    "plural": "die Anrufbeantworter",
+    "example_de": "Sprechen Sie bitte auf den Anrufbeantworter.",
+    "example_en": "Please speak onto the answering machine."
   },
   {
     "german": "anrufen",
@@ -820,14 +1056,18 @@
     "english": "to call (on the phone)",
     "pos": "verb",
     "past": "rief an",
-    "perfect": "hat angerufen"
+    "perfect": "hat angerufen",
+    "example_de": "Ich werde dich heute Abend anrufen.",
+    "example_en": "I will call you tonight."
   },
   {
     "german": "die Ansage",
     "level": "A1",
     "english": "announcement",
     "pos": "noun",
-    "plural": "die Ansagen"
+    "plural": "die Ansagen",
+    "example_de": "Hören Sie auf die Ansage.",
+    "example_en": "Listen to the announcement."
   },
   {
     "german": "anschaffen",
@@ -835,7 +1075,9 @@
     "english": "to acquire, to buy",
     "pos": "verb",
     "past": "schaffte an",
-    "perfect": "hat angeschafft"
+    "perfect": "hat angeschafft",
+    "example_de": "Wir wollen uns ein Auto anschaffen.",
+    "example_en": "We want to buy a car."
   },
   {
     "german": "anschließen",
@@ -843,14 +1085,18 @@
     "english": "to connect",
     "pos": "verb",
     "past": "schloss an",
-    "perfect": "hat angeschlossen"
+    "perfect": "hat angeschlossen",
+    "example_de": "Bitte den Computer an den Strom anschließen.",
+    "example_en": "Please connect the computer to the power."
   },
   {
     "german": "der Anschluss",
     "level": "A1",
     "english": "connection, transfer",
     "pos": "noun",
-    "plural": "die Anschlüsse"
+    "plural": "die Anschlüsse",
+    "example_de": "Ich habe in Frankfurt den Anschluss verpasst.",
+    "example_en": "I missed the connection in Frankfurt."
   },
   {
     "german": "anschnallen",
@@ -858,7 +1104,9 @@
     "english": "to buckle up, to fasten seatbelt",
     "pos": "verb",
     "past": "schnallte an",
-    "perfect": "hat angeschnallt"
+    "perfect": "hat angeschnallt",
+    "example_de": "Bitte anschnallen!",
+    "example_en": "Please buckle up!"
   },
   {
     "german": "ansehen",
@@ -866,7 +1114,9 @@
     "english": "to look at, to watch",
     "pos": "verb",
     "past": "sah an",
-    "perfect": "hat angesehen"
+    "perfect": "hat angesehen",
+    "example_de": "Ich möchte mir einen Film ansehen.",
+    "example_en": "I want to watch a movie."
   },
   {
     "german": "ansprechen",
@@ -874,14 +1124,18 @@
     "english": "to speak to, to address",
     "pos": "verb",
     "past": "sprach an",
-    "perfect": "hat angesprochen"
+    "perfect": "hat angesprochen",
+    "example_de": "Darf ich Sie kurz ansprechen?",
+    "example_en": "May I speak to you briefly?"
   },
   {
     "german": "der Anspruch",
     "level": "B1",
     "english": "claim, right",
     "pos": "noun",
-    "plural": "die Ansprüche"
+    "plural": "die Ansprüche",
+    "example_de": "Sie haben Anspruch auf Urlaub.",
+    "example_en": "You have a right to vacation."
   },
   {
     "german": "anstellen",
@@ -889,34 +1143,44 @@
     "english": "to turn on, to employ, to stand in line",
     "pos": "verb",
     "past": "stellte an",
-    "perfect": "hat angestellt"
+    "perfect": "hat angestellt",
+    "example_de": "Bitte stellen Sie sich hinten an.",
+    "example_en": "Please stand in line at the back."
   },
   {
     "german": "anstrengend",
     "level": "B1",
     "english": "exhausting, strenuous",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Die Reise war sehr anstrengend.",
+    "example_en": "The journey was very exhausting."
   },
   {
     "german": "der Antrag",
     "level": "B1",
     "english": "application",
     "pos": "noun",
-    "plural": "die Anträge"
+    "plural": "die Anträge",
+    "example_de": "Haben Sie den Antrag ausgefüllt?",
+    "example_en": "Did you fill out the application?"
   },
   {
     "german": "die Antwort",
     "level": "A1",
     "english": "answer, reply",
     "pos": "noun",
-    "plural": "die Antworten"
+    "plural": "die Antworten",
+    "example_de": "Das ist die richtige Antwort.",
+    "example_en": "That is the correct answer."
   },
   {
     "german": "der Antwortbogen",
     "level": "A2",
     "english": "answer sheet",
     "pos": "noun",
-    "plural": "die Antwortbögen"
+    "plural": "die Antwortbögen",
+    "example_de": "Schreiben Sie auf den Antwortbogen.",
+    "example_en": "Write on the answer sheet."
   },
   {
     "german": "antworten",
@@ -924,14 +1188,18 @@
     "english": "to answer, to reply",
     "pos": "verb",
     "past": "antwortete",
-    "perfect": "hat geantwortet"
+    "perfect": "hat geantwortet",
+    "example_de": "Er hat auf meine E-Mail geantwortet.",
+    "example_en": "He replied to my email."
   },
   {
     "german": "der Anwalt",
     "level": "B1",
     "english": "lawyer",
     "pos": "noun",
-    "plural": "die Anwälte"
+    "plural": "die Anwälte",
+    "example_de": "Ich muss meinen Anwalt anrufen.",
+    "example_en": "I need to call my lawyer."
   },
   {
     "german": "anwenden",
@@ -939,20 +1207,26 @@
     "english": "to apply, to use",
     "pos": "verb",
     "past": "wandte an",
-    "perfect": "hat angewandt"
+    "perfect": "hat angewandt",
+    "example_de": "Du musst diese Regel anwenden.",
+    "example_en": "You must apply this rule."
   },
   {
     "german": "anwesend",
     "level": "B1",
     "english": "present",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Sind heute alle Schüler anwesend?",
+    "example_en": "Are all students present today?"
   },
   {
     "german": "die Anzeige",
     "level": "A1",
     "english": "advertisement, ad",
     "pos": "noun",
-    "plural": "die Anzeigen"
+    "plural": "die Anzeigen",
+    "example_de": "Ich habe die Anzeige im Internet gesehen.",
+    "example_en": "I saw the ad on the internet."
   },
   {
     "german": "anzeigen",
@@ -960,7 +1234,9 @@
     "english": "to report, to indicate",
     "pos": "verb",
     "past": "zeigte an",
-    "perfect": "hat angezeigt"
+    "perfect": "hat angezeigt",
+    "example_de": "Der Computer zeigt einen Fehler an.",
+    "example_en": "The computer indicates an error."
   },
   {
     "german": "anziehen",
@@ -968,69 +1244,89 @@
     "english": "to put on, to get dressed",
     "pos": "verb",
     "past": "zog an",
-    "perfect": "hat angezogen"
+    "perfect": "hat angezogen",
+    "example_de": "Zieh dir bitte eine Jacke an.",
+    "example_en": "Please put on a jacket."
   },
   {
     "german": "der Anzug",
     "level": "A2",
     "english": "suit",
     "pos": "noun",
-    "plural": "die Anzüge"
+    "plural": "die Anzüge",
+    "example_de": "Der Mann trägt einen schwarzen Anzug.",
+    "example_en": "The man is wearing a black suit."
   },
   {
     "german": "das Apartment",
     "level": "A1",
     "english": "apartment",
     "pos": "noun",
-    "plural": "die Apartments"
+    "plural": "die Apartments",
+    "example_de": "Wir haben ein kleines Apartment gemietet.",
+    "example_en": "We rented a small apartment."
   },
   {
     "german": "der Apfel",
     "level": "A1",
     "english": "apple",
     "pos": "noun",
-    "plural": "die Äpfel"
+    "plural": "die Äpfel",
+    "example_de": "Dieser Apfel ist sehr süß.",
+    "example_en": "This apple is very sweet."
   },
   {
     "german": "die Apotheke",
     "level": "A2",
     "english": "pharmacy, drugstore",
     "pos": "noun",
-    "plural": "die Apotheken"
+    "plural": "die Apotheken",
+    "example_de": "Die Apotheke ist gleich an der Ecke.",
+    "example_en": "The pharmacy is right on the corner."
   },
   {
     "german": "der Apparat",
     "level": "A2",
     "english": "device, apparatus, machine",
     "pos": "noun",
-    "plural": "die Apparate"
+    "plural": "die Apparate",
+    "example_de": "Wer ist am Apparat?",
+    "example_en": "Who is on the phone?"
   },
   {
     "german": "der Appetit",
     "level": "A1",
     "english": "appetite",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Guten Appetit!",
+    "example_en": "Enjoy your meal!"
   },
   {
     "german": "die Aprikose",
     "level": "B1",
     "english": "apricot",
     "pos": "noun",
-    "plural": "die Aprikosen"
+    "plural": "die Aprikosen",
+    "example_de": "Ich esse gerne frische Aprikosen.",
+    "example_en": "I like eating fresh apricots."
   },
   {
     "german": "der April",
     "level": "A2",
     "english": "april",
     "pos": "noun",
-    "plural": "die Aprile"
+    "plural": "die Aprile",
+    "example_de": "Im April regnet es oft.",
+    "example_en": "In April it often rains."
   },
   {
     "german": "die Arbeit",
     "level": "A1",
     "english": "work, job",
     "pos": "noun",
-    "plural": "die Arbeiten"
+    "plural": "die Arbeiten",
+    "example_de": "Die Arbeit macht mir viel Spaß.",
+    "example_en": "The work is a lot of fun for me."
   },
   {
     "german": "arbeiten",
@@ -1038,107 +1334,139 @@
     "english": "to work",
     "pos": "verb",
     "past": "arbeitete",
-    "perfect": "hat gearbeitet"
+    "perfect": "hat gearbeitet",
+    "example_de": "Sie arbeiten jeden Tag sehr hart.",
+    "example_en": "They work very hard every day."
   },
   {
     "german": "der Arbeiter",
     "level": "B1",
     "english": "worker",
     "pos": "noun",
-    "plural": "die Arbeiter"
+    "plural": "die Arbeiter",
+    "example_de": "Der Arbeiter trägt einen gelben Helm.",
+    "example_en": "The worker is wearing a yellow helmet."
   },
   {
     "german": "die Arbeitserlaubnis",
     "level": "B1",
     "english": "work permit",
     "pos": "noun",
-    "plural": "die Arbeitserlaubnisse"
+    "plural": "die Arbeitserlaubnisse",
+    "example_de": "Haben Sie eine gültige Arbeitserlaubnis?",
+    "example_en": "Do you have a valid work permit?"
   },
   {
     "german": "arbeitslos",
     "level": "A1",
     "english": "unemployed",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Mein Bruder ist leider arbeitslos.",
+    "example_en": "Unfortunately, my brother is unemployed."
   },
   {
     "german": "die Arbeitslosigkeit",
     "level": "B1",
     "english": "unemployment",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Die Arbeitslosigkeit im Land sinkt.",
+    "example_en": "Unemployment in the country is falling."
   },
   {
     "german": "der Arbeitsplatz",
     "level": "A1",
     "english": "workplace, job",
     "pos": "noun",
-    "plural": "die Arbeitsplätze"
+    "plural": "die Arbeitsplätze",
+    "example_de": "Mein Arbeitsplatz ist hell und groß.",
+    "example_en": "My workplace is bright and large."
   },
   {
     "german": "die Arbeitsstelle",
     "level": "B1",
     "english": "job, position",
     "pos": "noun",
-    "plural": "die Arbeitsstellen"
+    "plural": "die Arbeitsstellen",
+    "example_de": "Er sucht eine neue Arbeitsstelle.",
+    "example_en": "He is looking for a new job."
   },
   {
     "german": "der Arbeitstag",
     "level": "A2",
     "english": "working day",
     "pos": "noun",
-    "plural": "die Arbeitstage"
+    "plural": "die Arbeitstage",
+    "example_de": "Das war heute ein langer Arbeitstag.",
+    "example_en": "That was a long working day today."
   },
   {
     "german": "der Architekt",
     "level": "B1",
     "english": "architect",
     "pos": "noun",
-    "plural": "die Architekten"
+    "plural": "die Architekten",
+    "example_de": "Der Architekt plant das neue Haus.",
+    "example_en": "The architect plans the new house."
   },
   {
     "german": "arm",
     "level": "A2",
     "english": "poor",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Der alte Mann auf der Straße ist arm.",
+    "example_en": "The old man on the street is poor."
   },
   {
     "german": "der Arm",
     "level": "A1",
     "english": "arm",
     "pos": "noun",
-    "plural": "die Arme"
+    "plural": "die Arme",
+    "example_de": "Mein rechter Arm tut weh.",
+    "example_en": "My right arm hurts."
   },
   {
     "german": "die Art",
     "level": "B1",
     "english": "type, kind, way",
     "pos": "noun",
-    "plural": "die Arten"
+    "plural": "die Arten",
+    "example_de": "Das ist eine sehr seltene Art von Vogel.",
+    "example_en": "That is a very rare kind of bird."
   },
   {
     "german": "der Artikel",
     "level": "A2",
     "english": "article",
     "pos": "noun",
-    "plural": "die Artikel"
+    "plural": "die Artikel",
+    "example_de": "Ich habe einen interessanten Artikel gelesen.",
+    "example_en": "I read an interesting article."
   },
   {
     "german": "der Arzt",
     "level": "A1",
     "english": "doctor, physician",
     "pos": "noun",
-    "plural": "die Ärzte"
+    "plural": "die Ärzte",
+    "example_de": "Der Arzt untersucht den Patienten.",
+    "example_en": "The doctor examines the patient."
   },
   {
     "german": "das Asyl",
     "level": "B1",
     "english": "asylum",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Er beantragt politisches Asyl.",
+    "example_en": "He is applying for political asylum."
   },
   {
     "german": "der Atem",
     "level": "B1",
     "english": "breath",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Nach dem Laufen war er außer Atem.",
+    "example_en": "After running he was out of breath."
   },
   {
     "german": "atmen",
@@ -1146,50 +1474,66 @@
     "english": "to breathe",
     "pos": "verb",
     "past": "atmete",
-    "perfect": "hat geatmet"
+    "perfect": "hat geatmet",
+    "example_de": "Der Patient atmet ganz ruhig.",
+    "example_en": "The patient is breathing quite calmly."
   },
   {
     "german": "auch",
     "level": "A1",
     "english": "also, too",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich komme auch zur Party.",
+    "example_en": "I am coming to the party too."
   },
   {
     "german": "auf",
     "level": "A1",
     "english": "on, upon, at",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Das Buch liegt auf dem Tisch.",
+    "example_en": "The book lies on the table."
   },
   {
     "german": "auf Deutsch",
     "level": "A2",
     "english": "in german",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Wie sagt man das auf Deutsch?",
+    "example_en": "How do you say that in German?"
   },
   {
     "german": "auf jeden/keinen Fall",
     "level": "A2",
     "english": "in any case / in no case",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Ich komme auf jeden Fall zur Feier.",
+    "example_en": "I am definitely coming to the celebration."
   },
   {
     "german": "auf sein",
     "level": "A1",
     "english": "to be open",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Die Tür ist noch auf.",
+    "example_en": "The door is still open."
   },
   {
     "german": "Auf Wiedersehen",
     "level": "A1",
     "english": "goodbye",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Auf Wiedersehen, bis bald!",
+    "example_en": "Goodbye, see you soon!"
   },
   {
     "german": "der Aufenthalt",
     "level": "B1",
     "english": "stay, stopover",
     "pos": "noun",
-    "plural": "die Aufenthalte"
+    "plural": "die Aufenthalte",
+    "example_de": "Wir wünschen Ihnen einen angenehmen Aufenthalt.",
+    "example_en": "We wish you a pleasant stay."
   },
   {
     "german": "auffallen",
@@ -1197,7 +1541,9 @@
     "english": "to stand out, to notice",
     "pos": "verb",
     "past": "fiel auf",
-    "perfect": "ist aufgefallen"
+    "perfect": "ist aufgefallen",
+    "example_de": "Ihr rotes Kleid fällt sofort auf.",
+    "example_en": "Her red dress immediately stands out."
   },
   {
     "german": "auffordern",
@@ -1205,14 +1551,18 @@
     "english": "to request, to ask, to invite (to dance)",
     "pos": "verb",
     "past": "forderte auf",
-    "perfect": "hat aufgefordert"
+    "perfect": "hat aufgefordert",
+    "example_de": "Er fordert sie zum Tanzen auf.",
+    "example_en": "He invites her to dance."
   },
   {
     "german": "die Aufforderung",
     "level": "B1",
     "english": "request, demand",
     "pos": "noun",
-    "plural": "die Aufforderungen"
+    "plural": "die Aufforderungen",
+    "example_de": "Ich habe eine Aufforderung zur Zahlung erhalten.",
+    "example_en": "I received a request for payment."
   },
   {
     "german": "aufführen",
@@ -1220,14 +1570,18 @@
     "english": "to perform, to put on (a show)",
     "pos": "verb",
     "past": "führte auf",
-    "perfect": "hat aufgeführt"
+    "perfect": "hat aufgeführt",
+    "example_de": "Die Kinder führen ein Theaterstück auf.",
+    "example_en": "The children are performing a play."
   },
   {
     "german": "die Aufgabe",
     "level": "A1",
     "english": "task, exercise, assignment",
     "pos": "noun",
-    "plural": "die Aufgaben"
+    "plural": "die Aufgaben",
+    "example_de": "Das ist eine schwere Aufgabe.",
+    "example_en": "That is a difficult task."
   },
   {
     "german": "aufgeben",
@@ -1235,7 +1589,9 @@
     "english": "to give up, to post (a package)",
     "pos": "verb",
     "past": "gab auf",
-    "perfect": "hat aufgegeben"
+    "perfect": "hat aufgegeben",
+    "example_de": "Du darfst jetzt nicht aufgeben!",
+    "example_en": "You must not give up now!"
   },
   {
     "german": "aufhalten",
@@ -1243,7 +1599,9 @@
     "english": "to stop, to delay, to hold open, to stay (at a place)",
     "pos": "verb",
     "past": "hielt auf",
-    "perfect": "hat aufgehalten"
+    "perfect": "hat aufgehalten",
+    "example_de": "Lass dich nicht aufhalten!",
+    "example_en": "Don't let me stop you!"
   },
   {
     "german": "aufheben",
@@ -1251,7 +1609,9 @@
     "english": "to pick up, to keep, to save",
     "pos": "verb",
     "past": "hob auf",
-    "perfect": "hat aufgehoben"
+    "perfect": "hat aufgehoben",
+    "example_de": "Können Sie bitte meinen Stift aufheben?",
+    "example_en": "Could you please pick up my pen?"
   },
   {
     "german": "aufhören",
@@ -1259,7 +1619,9 @@
     "english": "to stop, to end",
     "pos": "verb",
     "past": "hörte auf",
-    "perfect": "hat aufgehört"
+    "perfect": "hat aufgehört",
+    "example_de": "Es hat endlich aufgehört zu regnen.",
+    "example_en": "It finally stopped raining."
   },
   {
     "german": "aufladen",
@@ -1267,7 +1629,9 @@
     "english": "to charge (battery), to load",
     "pos": "verb",
     "past": "lud auf",
-    "perfect": "hat aufgeladen"
+    "perfect": "hat aufgeladen",
+    "example_de": "Ich muss mein Handy aufladen.",
+    "example_en": "I have to charge my phone."
   },
   {
     "german": "auflösen",
@@ -1275,7 +1639,9 @@
     "english": "to dissolve",
     "pos": "verb",
     "past": "löste auf",
-    "perfect": "hat aufgelöst"
+    "perfect": "hat aufgelöst",
+    "example_de": "Zucker löst sich im heißen Wasser auf.",
+    "example_en": "Sugar dissolves in hot water."
   },
   {
     "german": "aufmachen",
@@ -1283,20 +1649,26 @@
     "english": "to open",
     "pos": "verb",
     "past": "machte auf",
-    "perfect": "hat aufgemacht"
+    "perfect": "hat aufgemacht",
+    "example_de": "Bitte machen Sie das Fenster auf.",
+    "example_en": "Please open the window."
   },
   {
     "german": "aufmerksam",
     "level": "B1",
     "english": "attentive",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Der Schüler hörte dem Lehrer aufmerksam zu.",
+    "example_en": "The student listened attentively to the teacher."
   },
   {
     "german": "die Aufnahme",
     "level": "B1",
     "english": "recording, admission",
     "pos": "noun",
-    "plural": "die Aufnahmen"
+    "plural": "die Aufnahmen",
+    "example_de": "Die Aufnahme im Studio beginnt jetzt.",
+    "example_en": "The recording in the studio starts now."
   },
   {
     "german": "aufnehmen",
@@ -1304,7 +1676,9 @@
     "english": "to record, to admit, to accept",
     "pos": "verb",
     "past": "nahm auf",
-    "perfect": "hat aufgenommen"
+    "perfect": "hat aufgenommen",
+    "example_de": "Wir nehmen den neuen Film auf.",
+    "example_en": "We are recording the new movie."
   },
   {
     "german": "aufpassen",
@@ -1312,7 +1686,9 @@
     "english": "to pay attention, to watch out",
     "pos": "verb",
     "past": "passte auf",
-    "perfect": "hat aufgepasst"
+    "perfect": "hat aufgepasst",
+    "example_de": "Du musst auf der Straße gut aufpassen.",
+    "example_en": "You have to watch out carefully on the street."
   },
   {
     "german": "aufräumen",
@@ -1320,7 +1696,9 @@
     "english": "to clean up, to tidy up",
     "pos": "verb",
     "past": "räumte auf",
-    "perfect": "hat aufgeräumt"
+    "perfect": "hat aufgeräumt",
+    "example_de": "Du musst heute dein Zimmer aufräumen.",
+    "example_en": "You have to tidy up your room today."
   },
   {
     "german": "aufregen",
@@ -1328,13 +1706,17 @@
     "english": "to upset, to excite, to annoy",
     "pos": "verb",
     "past": "regte auf",
-    "perfect": "hat aufgeregt"
+    "perfect": "hat aufgeregt",
+    "example_de": "Reg dich bitte nicht auf!",
+    "example_en": "Please do not get upset!"
   },
   {
     "german": "aufregend",
     "level": "A2",
     "english": "exciting",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Der Film war sehr aufregend.",
+    "example_en": "The movie was very exciting."
   },
   {
     "german": "aufschreiben",
@@ -1342,7 +1724,9 @@
     "english": "to write down",
     "pos": "verb",
     "past": "schrieb auf",
-    "perfect": "hat aufgeschrieben"
+    "perfect": "hat aufgeschrieben",
+    "example_de": "Ich werde mir deine Nummer aufschreiben.",
+    "example_en": "I will write down your number."
   },
   {
     "german": "aufstehen",
@@ -1350,14 +1734,18 @@
     "english": "to get up, to stand up",
     "pos": "verb",
     "past": "stand auf",
-    "perfect": "ist aufgestanden"
+    "perfect": "ist aufgestanden",
+    "example_de": "Ich muss morgen früh aufstehen.",
+    "example_en": "I have to get up early tomorrow."
   },
   {
     "german": "der Auftrag",
     "level": "B1",
     "english": "order, assignment, commission",
     "pos": "noun",
-    "plural": "die Aufträge"
+    "plural": "die Aufträge",
+    "example_de": "Wir haben einen neuen Auftrag bekommen.",
+    "example_en": "We received a new order."
   },
   {
     "german": "auftreten",
@@ -1365,14 +1753,18 @@
     "english": "to perform, to appear",
     "pos": "verb",
     "past": "trat auf",
-    "perfect": "ist aufgetreten"
+    "perfect": "ist aufgetreten",
+    "example_de": "Der Sänger wird heute Abend auftreten.",
+    "example_en": "The singer will perform tonight."
   },
   {
     "german": "der Auftritt",
     "level": "B1",
     "english": "performance, appearance",
     "pos": "noun",
-    "plural": "die Auftritte"
+    "plural": "die Auftritte",
+    "example_de": "Ihr Auftritt auf der Bühne war fantastisch.",
+    "example_en": "Her performance on stage was fantastic."
   },
   {
     "german": "aufwachen",
@@ -1380,67 +1772,87 @@
     "english": "to wake up",
     "pos": "verb",
     "past": "wachte auf",
-    "perfect": "ist aufgewacht"
+    "perfect": "ist aufgewacht",
+    "example_de": "Ich wache jeden Tag um 7 Uhr auf.",
+    "example_en": "I wake up every day at 7 o'clock."
   },
   {
     "german": "aufwärts",
     "level": "B1",
     "english": "upwards, uphill",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Der Weg geht steil aufwärts.",
+    "example_en": "The path goes steeply upwards."
   },
   {
     "german": "der Aufzug",
     "level": "A1",
     "english": "elevator, lift",
     "pos": "noun",
-    "plural": "die Aufzüge"
+    "plural": "die Aufzüge",
+    "example_de": "Wir nehmen den Aufzug in den dritten Stock.",
+    "example_en": "We take the elevator to the third floor."
   },
   {
     "german": "das Auge",
     "level": "A1",
     "english": "eye",
     "pos": "noun",
-    "plural": "die Augen"
+    "plural": "die Augen",
+    "example_de": "Sie hat schöne blaue Augen.",
+    "example_en": "She has beautiful blue eyes."
   },
   {
     "german": "der Augenblick",
     "level": "B1",
     "english": "moment",
     "pos": "noun",
-    "plural": "die Augenblicke"
+    "plural": "die Augenblicke",
+    "example_de": "Einen Augenblick, bitte.",
+    "example_en": "One moment, please."
   },
   {
     "german": "der August",
     "level": "A2",
     "english": "august",
     "pos": "noun",
-    "plural": "die Auguste"
+    "plural": "die Auguste",
+    "example_de": "Wir fliegen im August nach Spanien.",
+    "example_en": "We are flying to Spain in August."
   },
   {
     "german": "aus",
     "level": "A1",
     "english": "from, out of",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Er kommt aus der Türkei.",
+    "example_en": "He comes from Turkey."
   },
   {
     "german": "aus sein",
     "level": "A1",
     "english": "to be off, to be over",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Der Film ist gleich aus.",
+    "example_en": "The movie is almost over."
   },
   {
     "german": "die Ausbildung",
     "level": "A2",
     "english": "training, apprenticeship, education",
     "pos": "noun",
-    "plural": "die Ausbildungen"
+    "plural": "die Ausbildungen",
+    "example_de": "Er macht eine Ausbildung zum Bäcker.",
+    "example_en": "He is doing an apprenticeship as a baker."
   },
   {
     "german": "der Ausdruck",
     "level": "B1",
     "english": "expression, printout",
     "pos": "noun",
-    "plural": "die Ausdrücke"
+    "plural": "die Ausdrücke",
+    "example_de": "Dieser Ausdruck ist mir neu.",
+    "example_en": "This expression is new to me."
   },
   {
     "german": "ausdrucken",
@@ -1448,20 +1860,26 @@
     "english": "to print out",
     "pos": "verb",
     "past": "druckte aus",
-    "perfect": "hat ausgedruckt"
+    "perfect": "hat ausgedruckt",
+    "example_de": "Kannst du das Dokument für mich ausdrucken?",
+    "example_en": "Can you print out the document for me?"
   },
   {
     "german": "auseinander",
     "level": "B1",
     "english": "apart",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Sie wohnen weit auseinander.",
+    "example_en": "They live far apart."
   },
   {
     "german": "die Ausfahrt",
     "level": "B1",
     "english": "exit (vehicle), driveway",
     "pos": "noun",
-    "plural": "die Ausfahrten"
+    "plural": "die Ausfahrten",
+    "example_de": "Wir müssen auf der Autobahn die nächste Ausfahrt nehmen.",
+    "example_en": "We have to take the next exit on the highway."
   },
   {
     "german": "ausfallen",
@@ -1469,14 +1887,18 @@
     "english": "to be cancelled, to fail",
     "pos": "verb",
     "past": "fiel aus",
-    "perfect": "ist ausgefallen"
+    "perfect": "ist ausgefallen",
+    "example_de": "Der Unterricht fällt heute aus.",
+    "example_en": "The class is cancelled today."
   },
   {
     "german": "der Ausflug",
     "level": "A1",
     "english": "trip, excursion",
     "pos": "noun",
-    "plural": "die Ausflüge"
+    "plural": "die Ausflüge",
+    "example_de": "Wir machen am Wochenende einen Ausflug.",
+    "example_en": "We are taking a trip on the weekend."
   },
   {
     "german": "ausfüllen",
@@ -1484,21 +1906,27 @@
     "english": "to fill out, to complete",
     "pos": "verb",
     "past": "füllte aus",
-    "perfect": "hat ausgefüllt"
+    "perfect": "hat ausgefüllt",
+    "example_de": "Bitte dieses Formular ausfüllen.",
+    "example_en": "Please fill out this form."
   },
   {
     "german": "die Ausgabe",
     "level": "B1",
     "english": "expense, edition, issue, distribution",
     "pos": "noun",
-    "plural": "die Ausgaben"
+    "plural": "die Ausgaben",
+    "example_de": "Die Firma hat zu viele Ausgaben.",
+    "example_en": "The company has too many expenses."
   },
   {
     "german": "der Ausgang",
     "level": "A1",
     "english": "exit",
     "pos": "noun",
-    "plural": "die Ausgänge"
+    "plural": "die Ausgänge",
+    "example_de": "Wo ist der nächste Ausgang?",
+    "example_en": "Where is the nearest exit?"
   },
   {
     "german": "ausgeben",
@@ -1506,13 +1934,17 @@
     "english": "to spend (money)",
     "pos": "verb",
     "past": "gab aus",
-    "perfect": "hat ausgegeben"
+    "perfect": "hat ausgegeben",
+    "example_de": "Ich möchte nicht so viel Geld ausgeben.",
+    "example_en": "I don't want to spend so much money."
   },
   {
     "german": "ausgebildet",
     "level": "B1",
     "english": "trained, qualified",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Sie ist eine gut ausgebildete Lehrerin.",
+    "example_en": "She is a well-trained teacher."
   },
   {
     "german": "ausgehen",
@@ -1520,46 +1952,60 @@
     "english": "to go out",
     "pos": "verb",
     "past": "ging aus",
-    "perfect": "ist ausgegangen"
+    "perfect": "ist ausgegangen",
+    "example_de": "Wir wollen heute Abend ausgehen.",
+    "example_en": "We want to go out tonight."
   },
   {
     "german": "ausgezeichnet",
     "level": "B1",
     "english": "excellent",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Essen im Restaurant war ausgezeichnet.",
+    "example_en": "The food in the restaurant was excellent."
   },
   {
     "german": "die Aushilfe",
     "level": "B1",
     "english": "temporary help, assistant",
     "pos": "noun",
-    "plural": "die Aushilfen"
+    "plural": "die Aushilfen",
+    "example_de": "Wir suchen eine Aushilfe für den Sommer.",
+    "example_en": "We are looking for temporary help for the summer."
   },
   {
     "german": "die Auskunft",
     "level": "A1",
     "english": "information, information desk",
     "pos": "noun",
-    "plural": "die Auskünfte"
+    "plural": "die Auskünfte",
+    "example_de": "Fragen Sie bitte an der Auskunft am Bahnhof.",
+    "example_en": "Please ask at the information desk at the train station."
   },
   {
     "german": "das Ausland",
     "level": "A1",
     "english": "abroad, foreign country",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Sie arbeitet jetzt im Ausland.",
+    "example_en": "She works abroad now."
   },
   {
     "german": "der Ausländer",
     "level": "A1",
     "english": "foreigner",
     "pos": "noun",
-    "plural": "die Ausländer"
+    "plural": "die Ausländer",
+    "example_de": "Viele Ausländer leben in dieser Stadt.",
+    "example_en": "Many foreigners live in this city."
   },
   {
     "german": "ausländisch",
     "level": "A1",
     "english": "foreign",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Wir haben viele ausländische Gäste im Hotel.",
+    "example_en": "We have many foreign guests in the hotel."
   },
   {
     "german": "ausmachen",
@@ -1567,14 +2013,18 @@
     "english": "to turn off, to switch off",
     "pos": "verb",
     "past": "machte aus",
-    "perfect": "hat ausgemacht"
+    "perfect": "hat ausgemacht",
+    "example_de": "Mach bitte den Fernseher aus.",
+    "example_en": "Please turn off the TV."
   },
   {
     "german": "die Ausnahme",
     "level": "B1",
     "english": "exception",
     "pos": "noun",
-    "plural": "die Ausnahmen"
+    "plural": "die Ausnahmen",
+    "example_de": "Das ist eine sehr seltene Ausnahme.",
+    "example_en": "That is a very rare exception."
   },
   {
     "german": "auspacken",
@@ -1582,7 +2032,9 @@
     "english": "to unpack",
     "pos": "verb",
     "past": "packte aus",
-    "perfect": "hat ausgepackt"
+    "perfect": "hat ausgepackt",
+    "example_de": "Ich muss noch meinen Koffer auspacken.",
+    "example_en": "I still have to unpack my suitcase."
   },
   {
     "german": "ausreichen",
@@ -1590,13 +2042,17 @@
     "english": "to suffice, to be enough",
     "pos": "verb",
     "past": "reichte aus",
-    "perfect": "hat ausgereicht"
+    "perfect": "hat ausgereicht",
+    "example_de": "Das Geld wird nicht ausreichen.",
+    "example_en": "The money will not suffice."
   },
   {
     "german": "ausreichend",
     "level": "B1",
     "english": "sufficient",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Wir haben ausreichend Zeit für die Aufgabe.",
+    "example_en": "We have sufficient time for the task."
   },
   {
     "german": "ausrichten",
@@ -1604,7 +2060,9 @@
     "english": "to pass on (a message)",
     "pos": "verb",
     "past": "richtete aus",
-    "perfect": "hat ausgerichtet"
+    "perfect": "hat ausgerichtet",
+    "example_de": "Kann ich ihm etwas ausrichten?",
+    "example_en": "Can I pass on a message to him?"
   },
   {
     "german": "ausruhen",
@@ -1612,14 +2070,18 @@
     "english": "to rest, to relax",
     "pos": "verb",
     "past": "ruhte aus",
-    "perfect": "hat ausgeruht"
+    "perfect": "hat ausgeruht",
+    "example_de": "Du bist krank und solltest dich ausruhen.",
+    "example_en": "You are sick and should rest."
   },
   {
     "german": "die Aussage",
     "level": "A1",
     "english": "statement, sentence",
     "pos": "noun",
-    "plural": "die Aussagen"
+    "plural": "die Aussagen",
+    "example_de": "Die Aussage des Zeugen ist sehr wichtig.",
+    "example_en": "The witness's statement is very important."
   },
   {
     "german": "ausschließen",
@@ -1627,13 +2089,17 @@
     "english": "to exclude, to rule out",
     "pos": "verb",
     "past": "schloss aus",
-    "perfect": "hat ausgeschlossen"
+    "perfect": "hat ausgeschlossen",
+    "example_de": "Das kann ich nicht völlig ausschließen.",
+    "example_en": "I cannot completely rule that out."
   },
   {
     "german": "ausschließlich",
     "level": "B1",
     "english": "exclusively",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Das Produkt ist ausschließlich online erhältlich.",
+    "example_en": "The product is available exclusively online."
   },
   {
     "german": "aussehen",
@@ -1641,45 +2107,59 @@
     "english": "to look, to appear",
     "pos": "verb",
     "past": "sah aus",
-    "perfect": "hat ausgesehen"
+    "perfect": "hat ausgesehen",
+    "example_de": "Du siehst heute wirklich gut aus!",
+    "example_en": "You look really good today!"
   },
   {
     "german": "außen",
     "level": "B1",
     "english": "outside",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Das Haus ist außen komplett weiß.",
+    "example_en": "The house is completely white on the outside."
   },
   {
     "german": "außer",
     "level": "A2",
     "english": "except for, besides",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Niemand war im Büro außer mir.",
+    "example_en": "Nobody was in the office except for me."
   },
   {
     "german": "außerdem",
     "level": "A2",
     "english": "besides, in addition",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Außerdem ist es heute viel zu kalt.",
+    "example_en": "Besides, it is way too cold today."
   },
   {
     "german": "außerhalb",
     "level": "A2",
     "english": "outside of",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Er wohnt etwas außerhalb der Stadt.",
+    "example_en": "He lives a bit outside of the city."
   },
   {
     "german": "die Aussicht",
     "level": "B1",
     "english": "view, prospect",
     "pos": "noun",
-    "plural": "die Aussichten"
+    "plural": "die Aussichten",
+    "example_de": "Von diesem Turm hat man eine tolle Aussicht.",
+    "example_en": "From this tower you have a great view."
   },
   {
     "german": "die Aussprache",
     "level": "B1",
     "english": "pronunciation",
     "pos": "noun",
-    "plural": "die Aussprachen"
+    "plural": "die Aussprachen",
+    "example_de": "Seine englische Aussprache ist sehr gut.",
+    "example_en": "His English pronunciation is very good."
   },
   {
     "german": "aussprechen",
@@ -1687,7 +2167,9 @@
     "english": "to pronounce",
     "pos": "verb",
     "past": "sprach aus",
-    "perfect": "hat ausgesprochen"
+    "perfect": "hat ausgesprochen",
+    "example_de": "Wie spricht man dieses schwierige Wort aus?",
+    "example_en": "How do you pronounce this difficult word?"
   },
   {
     "german": "aussteigen",
@@ -1695,7 +2177,9 @@
     "english": "to get off, to disembark",
     "pos": "verb",
     "past": "stieg aus",
-    "perfect": "ist ausgestiegen"
+    "perfect": "ist ausgestiegen",
+    "example_de": "Wir müssen an der nächsten Station aussteigen.",
+    "example_en": "We have to get off at the next station."
   },
   {
     "german": "ausstellen",
@@ -1703,14 +2187,18 @@
     "english": "to exhibit, to issue (document)",
     "pos": "verb",
     "past": "stellte aus",
-    "perfect": "hat ausgestellt"
+    "perfect": "hat ausgestellt",
+    "example_de": "Der Künstler stellt seine neuen Bilder aus.",
+    "example_en": "The artist exhibits his new pictures."
   },
   {
     "german": "die Ausstellung",
     "level": "A2",
     "english": "exhibition, show",
     "pos": "noun",
-    "plural": "die Ausstellungen"
+    "plural": "die Ausstellungen",
+    "example_de": "Die Ausstellung im Museum war sehr interessant.",
+    "example_en": "The exhibition in the museum was very interesting."
   },
   {
     "german": "austauschen",
@@ -1718,7 +2206,9 @@
     "english": "to exchange, to replace",
     "pos": "verb",
     "past": "tauschte aus",
-    "perfect": "hat ausgetauscht"
+    "perfect": "hat ausgetauscht",
+    "example_de": "Wir sollten unsere Telefonnummern austauschen.",
+    "example_en": "We should exchange our phone numbers."
   },
   {
     "german": "austragen",
@@ -1726,14 +2216,18 @@
     "english": "to deliver (mail, newspapers)",
     "pos": "verb",
     "past": "trug aus",
-    "perfect": "hat ausgetragen"
+    "perfect": "hat ausgetragen",
+    "example_de": "Er trägt jeden Morgen Zeitungen aus.",
+    "example_en": "He delivers newspapers every morning."
   },
   {
     "german": "die Auswahl",
     "level": "B1",
     "english": "selection, choice",
     "pos": "noun",
-    "plural": "die Auswahlen"
+    "plural": "die Auswahlen",
+    "example_de": "Wir haben eine große Auswahl an Schuhen.",
+    "example_en": "We have a large selection of shoes."
   },
   {
     "german": "auswählen",
@@ -1741,14 +2235,18 @@
     "english": "to select, to choose",
     "pos": "verb",
     "past": "wählte aus",
-    "perfect": "hat ausgewählt"
+    "perfect": "hat ausgewählt",
+    "example_de": "Du kannst dir ein Buch auswählen.",
+    "example_en": "You can choose a book."
   },
   {
     "german": "der Ausweis",
     "level": "A1",
     "english": "id card, identification",
     "pos": "noun",
-    "plural": "die Ausweise"
+    "plural": "die Ausweise",
+    "example_de": "Bitte zeigen Sie Ihren Ausweis.",
+    "example_en": "Please show your ID card."
   },
   {
     "german": "ausziehen",
@@ -1756,68 +2254,88 @@
     "english": "to take off (clothes), to move out",
     "pos": "verb",
     "past": "zog aus",
-    "perfect": "ist ausgezogen"
+    "perfect": "ist ausgezogen",
+    "example_de": "Ich werde meine dreckigen Schuhe ausziehen.",
+    "example_en": "I will take off my dirty shoes."
   },
   {
     "german": "die Auszubildende",
     "level": "A2",
     "english": "trainee, apprentice (female)",
     "pos": "noun",
-    "plural": "die Auszubildenden"
+    "plural": "die Auszubildenden",
+    "example_de": "Die Auszubildende lernt sehr schnell.",
+    "example_en": "The female trainee learns very quickly."
   },
   {
     "german": "der Auszubildender",
     "level": "A2",
     "english": "trainee, apprentice (male)",
     "pos": "noun",
-    "plural": "die Auszubildenden"
+    "plural": "die Auszubildenden",
+    "example_de": "Der Auszubildende fängt heute an.",
+    "example_en": "The trainee starts today."
   },
   {
     "german": "das Auto",
     "level": "A1",
     "english": "car",
     "pos": "noun",
-    "plural": "die Autos"
+    "plural": "die Autos",
+    "example_de": "Er kauft ein neues Auto.",
+    "example_en": "He is buying a new car."
   },
   {
     "german": "die Autobahn",
     "level": "A1",
     "english": "highway, motorway",
     "pos": "noun",
-    "plural": "die Autobahnen"
+    "plural": "die Autobahnen",
+    "example_de": "Es gibt viel Stau auf der Autobahn.",
+    "example_en": "There is a lot of traffic jam on the highway."
   },
   {
     "german": "der Automat",
     "level": "A1",
     "english": "vending machine, ticket machine, atm",
     "pos": "noun",
-    "plural": "die Automaten"
+    "plural": "die Automaten",
+    "example_de": "Ich hole mir einen Kaffee am Automaten.",
+    "example_en": "I am getting a coffee at the vending machine."
   },
   {
     "german": "automatisch",
     "level": "A1",
     "english": "automatic, automatically",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Die Tür schließt ganz automatisch.",
+    "example_en": "The door closes completely automatically."
   },
   {
     "german": "der Autor",
     "level": "A2",
     "english": "author (male)",
     "pos": "noun",
-    "plural": "die Autoren"
+    "plural": "die Autoren",
+    "example_de": "Der Autor liest aus seinem neuen Buch.",
+    "example_en": "The author reads from his new book."
   },
   {
     "german": "die Autorin",
     "level": "A2",
     "english": "author (female)",
     "pos": "noun",
-    "plural": "die Autorinnen"
+    "plural": "die Autorinnen",
+    "example_de": "Sie ist eine bekannte und erfolgreiche Autorin.",
+    "example_en": "She is a well-known and successful author."
   },
   {
     "german": "ähnlich",
     "level": "B1",
     "english": "similar",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Meine Schwester sieht mir sehr ähnlich.",
+    "example_en": "My sister looks very similar to me."
   },
   {
     "german": "ändern",
@@ -1825,32 +2343,42 @@
     "english": "to change",
     "pos": "verb",
     "past": "änderte",
-    "perfect": "hat geändert"
+    "perfect": "hat geändert",
+    "example_de": "Du musst dein Passwort ändern.",
+    "example_en": "You must change your password."
   },
   {
     "german": "die Änderung",
     "level": "B1",
     "english": "change, alteration",
     "pos": "noun",
-    "plural": "die Änderungen"
+    "plural": "die Änderungen",
+    "example_de": "Es gibt leider eine Änderung im Programm.",
+    "example_en": "Unfortunately, there is a change in the program."
   },
   {
     "german": "ängstlich",
     "level": "B1",
     "english": "anxious, fearful",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das kleine Kind ist sehr ängstlich im Dunkeln.",
+    "example_en": "The little child is very fearful in the dark."
   },
   {
     "german": "der Ärger",
     "level": "B1",
     "english": "trouble, anger",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Ich will wirklich keinen Ärger.",
+    "example_en": "I really don't want any trouble."
   },
   {
     "german": "ärgerlich",
     "level": "B1",
     "english": "annoying, angry",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist wirklich sehr ärgerlich.",
+    "example_en": "That is really very annoying."
   },
   {
     "german": "ärgern",
@@ -1858,34 +2386,44 @@
     "english": "to annoy, to anger",
     "pos": "verb",
     "past": "ärgerte",
-    "perfect": "hat geärgert"
+    "perfect": "hat geärgert",
+    "example_de": "Ärgere deinen kleinen Bruder nicht!",
+    "example_en": "Don't annoy your little brother!"
   },
   {
     "german": "die Ärztin",
     "level": "A2",
     "english": "doctor (female)",
     "pos": "noun",
-    "plural": "die Ärztinnen"
+    "plural": "die Ärztinnen",
+    "example_de": "Meine Ärztin ist immer sehr nett.",
+    "example_en": "My doctor is always very nice."
   },
   {
     "german": "äußerlich",
     "level": "B1",
     "english": "external, outwardly",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Äußerlich sieht das alte Haus noch gut aus.",
+    "example_en": "Outwardly, the old house still looks good."
   },
   {
     "german": "das Baby",
     "level": "A1",
     "english": "baby",
     "pos": "noun",
-    "plural": "die Babys"
+    "plural": "die Babys",
+    "example_de": "Das süße Baby schläft tief.",
+    "example_en": "The sweet baby is sleeping deeply."
   },
   {
     "german": "der Babysitter",
     "level": "A2",
     "english": "babysitter",
     "pos": "noun",
-    "plural": "die Babysitter"
+    "plural": "die Babysitter",
+    "example_de": "Der Babysitter passt heute auf die Kinder auf.",
+    "example_en": "The babysitter looks after the children today."
   },
   {
     "german": "backen",
@@ -1893,35 +2431,45 @@
     "english": "to bake",
     "pos": "verb",
     "past": "backte / buk",
-    "perfect": "hat gebacken"
+    "perfect": "hat gebacken",
+    "example_de": "Wir backen heute eine leckere Pizza.",
+    "example_en": "We are baking a delicious pizza today."
   },
   {
     "german": "der Bäcker",
     "level": "A2",
     "english": "baker (male)",
     "pos": "noun",
-    "plural": "die Bäcker"
+    "plural": "die Bäcker",
+    "example_de": "Der Bäcker macht früh morgens frisches Brot.",
+    "example_en": "The baker makes fresh bread early in the morning."
   },
   {
     "german": "die Bäckerei",
     "level": "A1",
     "english": "bakery",
     "pos": "noun",
-    "plural": "die Bäckereien"
+    "plural": "die Bäckereien",
+    "example_de": "Ich gehe zur Bäckerei an der Ecke.",
+    "example_en": "I am going to the bakery on the corner."
   },
   {
     "german": "die Bäckerin",
     "level": "A2",
     "english": "baker (female)",
     "pos": "noun",
-    "plural": "die Bäckerinnen"
+    "plural": "die Bäckerinnen",
+    "example_de": "Die Bäckerin verkauft Kuchen und Brot.",
+    "example_en": "The baker sells cakes and bread."
   },
   {
     "german": "das Bad",
     "level": "A2",
     "english": "bath, bathroom",
     "pos": "noun",
-    "plural": "die Bäder"
+    "plural": "die Bääder",
+    "example_de": "Das Bad in meiner Wohnung ist sehr klein.",
+    "example_en": "The bathroom in my apartment is very small."
   },
   {
     "german": "baden",
@@ -1929,116 +2477,150 @@
     "english": "to bath, to swim",
     "pos": "verb",
     "past": "badete",
-    "perfect": "hat gebadet"
+    "perfect": "hat gebadet",
+    "example_de": "Im Sommer baden wir oft im See.",
+    "example_en": "In summer we often swim in the lake."
   },
   {
     "german": "die Badewanne",
     "level": "B1",
     "english": "bathtub",
     "pos": "noun",
-    "plural": "die Badewannen"
+    "plural": "die Badewannen",
+    "example_de": "Die Badewanne ist voll mit warmem Wasser.",
+    "example_en": "The bathtub is full of warm water."
   },
   {
     "german": "die Bahn",
     "level": "A1",
     "english": "train, railway",
     "pos": "noun",
-    "plural": "die Bahnen"
+    "plural": "die Bahnen",
+    "example_de": "Wir fahren am liebsten mit der Bahn.",
+    "example_en": "We prefer to travel by train."
   },
   {
     "german": "der Bahnhof",
     "level": "A1",
     "english": "train station",
     "pos": "noun",
-    "plural": "die Bahnhöfe"
+    "plural": "die Bahnhöfe",
+    "example_de": "Der Zug fährt gleich in den Bahnhof ein.",
+    "example_en": "The train is pulling into the station now."
   },
   {
     "german": "der Bahnsteig",
     "level": "A1",
     "english": "platform",
     "pos": "noun",
-    "plural": "die Bahnsteige"
+    "plural": "die Bahnsteige",
+    "example_de": "Der Zug nach Berlin fährt von Bahnsteig 2 ab.",
+    "example_en": "The train to Berlin departs from platform 2."
   },
   {
     "german": "bald",
     "level": "A1",
     "english": "soon",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wir sehen uns bald wieder!",
+    "example_en": "We will see each other again soon!"
   },
   {
     "german": "der Balkon",
     "level": "A1",
     "english": "balcony",
     "pos": "noun",
-    "plural": "die Balkone"
+    "plural": "die Balkone",
+    "example_de": "Wir trinken Kaffee draußen auf dem Balkon.",
+    "example_en": "We drink coffee outside on the balcony."
   },
   {
     "german": "der Ball",
     "level": "A1",
     "english": "ball",
     "pos": "noun",
-    "plural": "die Bälle"
+    "plural": "die Bälle",
+    "example_de": "Die Kinder spielen im Garten mit dem Ball.",
+    "example_en": "The children play with the ball in the garden."
   },
   {
     "german": "das Ballett",
     "level": "B1",
     "english": "ballet",
     "pos": "noun",
-    "plural": "die Ballette"
+    "plural": "die Ballette",
+    "example_de": "Sie tanzt seit vielen Jahren klassisches Ballett.",
+    "example_en": "She has been dancing classical ballet for many years."
   },
   {
     "german": "die Banane",
     "level": "A1",
     "english": "banana",
     "pos": "noun",
-    "plural": "die Bananen"
+    "plural": "die Bananen",
+    "example_de": "Ich esse jeden Morgen eine Banane.",
+    "example_en": "I eat a banana every morning."
   },
   {
     "german": "die Band",
     "level": "A2",
     "english": "band (music)",
     "pos": "noun",
-    "plural": "die Bands"
+    "plural": "die Bands",
+    "example_de": "Die Band spielt heute Abend live im Club.",
+    "example_en": "The band plays live in the club tonight."
   },
   {
     "german": "die Bank",
     "level": "A1",
     "english": "bank (financial institution)",
     "pos": "noun",
-    "plural": "die Banken"
+    "plural": "die Banken",
+    "example_de": "Ich muss Geld bei der Bank einzahlen.",
+    "example_en": "I have to deposit money at the bank."
   },
   {
     "german": "die Bankleitzahl",
     "level": "B1",
     "english": "bank code",
     "pos": "noun",
-    "plural": "die Bankleitzahlen"
+    "plural": "die Bankleitzahlen",
+    "example_de": "Wie lautet bitte Ihre Bankleitzahl?",
+    "example_en": "What is your bank code, please?"
   },
   {
     "german": "bar",
     "level": "A1",
     "english": "cash",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Möchten Sie bar oder mit Karte zahlen?",
+    "example_en": "Would you like to pay cash or by card?"
   },
   {
     "german": "das Bargeld",
     "level": "B1",
     "english": "cash",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Ich habe leider kein Bargeld dabei.",
+    "example_en": "Unfortunately, I don't have any cash with me."
   },
   {
     "german": "der Bart",
     "level": "B1",
     "english": "beard",
     "pos": "noun",
-    "plural": "die Bärte"
+    "plural": "die Bärte",
+    "example_de": "Mein Vater trägt einen langen Bart.",
+    "example_en": "My father wears a long beard."
   },
   {
     "german": "der Basketball",
     "level": "A2",
     "english": "basketball",
     "pos": "noun",
-    "plural": "die Basketbälle"
+    "plural": "die Basketbälle",
+    "example_de": "Spielen wir heute Nachmittag Basketball?",
+    "example_en": "Are we playing basketball this afternoon?"
   },
   {
     "german": "basteln",
@@ -2046,28 +2628,36 @@
     "english": "to do crafts",
     "pos": "verb",
     "past": "bastelte",
-    "perfect": "hat gebastelt"
+    "perfect": "hat gebastelt",
+    "example_de": "Wir basteln Sterne aus buntem Papier.",
+    "example_en": "We are making stars out of colorful paper."
   },
   {
     "german": "die Batterie",
     "level": "B1",
     "english": "battery",
     "pos": "noun",
-    "plural": "die Batterien"
+    "plural": "die Batterien",
+    "example_de": "Die Batterie in meiner Uhr ist schon wieder leer.",
+    "example_en": "The battery in my watch is empty again."
   },
   {
     "german": "der Bau",
     "level": "B1",
     "english": "building, construction",
     "pos": "noun",
-    "plural": "die Bauten"
+    "plural": "die Bauten",
+    "example_de": "Der Bau des neuen Hauses dauert ein ganzes Jahr.",
+    "example_en": "The construction of the new house takes a whole year."
   },
   {
     "german": "der Bauch",
     "level": "A1",
     "english": "stomach, belly, abdomen",
     "pos": "noun",
-    "plural": "die Bäuche"
+    "plural": "die Bäuche",
+    "example_de": "Mein Bauch tut nach dem Essen weh.",
+    "example_en": "My stomach hurts after eating."
   },
   {
     "german": "bauen",
@@ -2075,35 +2665,45 @@
     "english": "to build",
     "pos": "verb",
     "past": "baute",
-    "perfect": "hat gebaut"
+    "perfect": "hat gebaut",
+    "example_de": "Sie bauen ein riesiges neues Stadion.",
+    "example_en": "They are building a huge new stadium."
   },
   {
     "german": "der Bauer",
     "level": "B1",
     "english": "farmer",
     "pos": "noun",
-    "plural": "die Bauern"
+    "plural": "die Bauern",
+    "example_de": "Der Bauer melkt jeden Morgen die Kühe.",
+    "example_en": "The farmer milks the cows every morning."
   },
   {
     "german": "der Bauernhof",
     "level": "B1",
     "english": "farm",
     "pos": "noun",
-    "plural": "die Bauernhöfe"
+    "plural": "die Bauernhöfe",
+    "example_de": "Meine Großeltern leben glücklich auf einem Bauernhof.",
+    "example_en": "My grandparents live happily on a farm."
   },
   {
     "german": "der Baum",
     "level": "A2",
     "english": "tree",
     "pos": "noun",
-    "plural": "die Bäume"
+    "plural": "die Bäume",
+    "example_de": "Der alte Baum im Park ist sehr groß.",
+    "example_en": "The old tree in the park is very big."
   },
   {
     "german": "die Baustelle",
     "level": "A2",
     "english": "construction site",
     "pos": "noun",
-    "plural": "die Baustellen"
+    "plural": "die Baustellen",
+    "example_de": "Bitte fahren Sie langsam, hier ist eine Baustelle.",
+    "example_en": "Please drive slowly, there is a construction site here."
   },
   {
     "german": "beachten",
@@ -2111,14 +2711,18 @@
     "english": "to pay attention to, to observe",
     "pos": "verb",
     "past": "beachtete",
-    "perfect": "hat beachtet"
+    "perfect": "hat beachtet",
+    "example_de": "Bitte beachten Sie die neuen Regeln.",
+    "example_en": "Please observe the new rules."
   },
   {
     "german": "der Beamte",
     "level": "B1",
     "english": "civil servant, official",
     "pos": "noun",
-    "plural": "die Beamten"
+    "plural": "die Beamten",
+    "example_de": "Der freundliche Beamte gab mir das Formular.",
+    "example_en": "The friendly official gave me the form."
   },
   {
     "german": "beantragen",
@@ -2126,7 +2730,9 @@
     "english": "to apply for",
     "pos": "verb",
     "past": "beantragte",
-    "perfect": "hat beantragt"
+    "perfect": "hat beantragt",
+    "example_de": "Ich muss sofort ein neues Visum beantragen.",
+    "example_en": "I have to apply for a new visa immediately."
   },
   {
     "german": "beantworten",
@@ -2134,7 +2740,9 @@
     "english": "to answer",
     "pos": "verb",
     "past": "beantwortete",
-    "perfect": "hat beantwortet"
+    "perfect": "hat beantwortet",
+    "example_de": "Bitte beantworten Sie meine dringende Frage.",
+    "example_en": "Please answer my urgent question."
   },
   {
     "german": "bedanken",
@@ -2142,13 +2750,17 @@
     "english": "to thank",
     "pos": "verb",
     "past": "bedankte",
-    "perfect": "hat bedankt"
+    "perfect": "hat bedankt",
+    "example_de": "Ich möchte mich für die schnelle Hilfe bedanken.",
+    "example_en": "I would like to thank you for the quick help."
   },
   {
     "german": "der Bedarf",
     "level": "B1",
     "english": "need, demand",
-    "pos": "noun"
+    "pos": "noun",
+    "example_de": "Es gibt keinen großen Bedarf für dieses Produkt.",
+    "example_en": "There is no great demand for this product."
   },
   {
     "german": "bedeuten",
@@ -2156,14 +2768,18 @@
     "english": "to mean, to signify",
     "pos": "verb",
     "past": "bedeutete",
-    "perfect": "hat bedeutet"
+    "perfect": "hat bedeutet",
+    "example_de": "Was bedeutet dieses seltsame Wort?",
+    "example_en": "What does this strange word mean?"
   },
   {
     "german": "die Bedeutung",
     "level": "B1",
     "english": "meaning",
     "pos": "noun",
-    "plural": "die Bedeutungen"
+    "plural": "die Bedeutungen",
+    "example_de": "Die genaue Bedeutung ist mir noch unklar.",
+    "example_en": "The exact meaning is still unclear to me."
   },
   {
     "german": "bedienen",
@@ -2171,21 +2787,27 @@
     "english": "to serve, to operate",
     "pos": "verb",
     "past": "bediente",
-    "perfect": "hat bedient"
+    "perfect": "hat bedient",
+    "example_de": "Der freundliche Kellner bedient uns heute.",
+    "example_en": "The friendly waiter is serving us today."
   },
   {
     "german": "die Bedienungsanleitung",
     "level": "B1",
     "english": "operating instructions, user manual",
     "pos": "noun",
-    "plural": "die Bedienungsanleitungen"
+    "plural": "die Bedienungsanleitungen",
+    "example_de": "Ich habe die lange Bedienungsanleitung genau gelesen.",
+    "example_en": "I read the long user manual carefully."
   },
   {
     "german": "die Bedingung",
     "level": "B1",
     "english": "condition",
     "pos": "noun",
-    "plural": "die Bedingungen"
+    "plural": "die Bedingungen",
+    "example_de": "Das ist meine einzige harte Bedingung.",
+    "example_en": "That is my only hard condition."
   },
   {
     "german": "beeilen",
@@ -2193,7 +2815,9 @@
     "english": "to hurry up",
     "pos": "verb",
     "past": "beeilte",
-    "perfect": "hat beeilt"
+    "perfect": "hat beeilt",
+    "example_de": "Wir müssen uns jetzt wirklich beeilen!",
+    "example_en": "We really have to hurry up now!"
   },
   {
     "german": "beeinflussen",
@@ -2201,7 +2825,9 @@
     "english": "to influence",
     "pos": "verb",
     "past": "beeinflusste",
-    "perfect": "hat beeinflusst"
+    "perfect": "hat beeinflusst",
+    "example_de": "Das Wetter kann meine gute Stimmung beeinflussen.",
+    "example_en": "The weather can influence my good mood."
   },
   {
     "german": "beenden",
@@ -2209,19 +2835,25 @@
     "english": "to end, to finish",
     "pos": "verb",
     "past": "beendete",
-    "perfect": "hat beendet"
+    "perfect": "hat beendet",
+    "example_de": "Er möchte das lange Spiel endlich beenden.",
+    "example_en": "He wants to finally end the long game."
   },
   {
     "german": "befreit",
     "level": "B1",
     "english": "exempt, free",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Die jungen Schüler sind von der Gebühr befreit.",
+    "example_en": "The young students are exempt from the fee."
   },
   {
     "german": "befriedigend",
     "level": "B1",
     "english": "satisfactory",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Sein letztes Ergebnis in der Prüfung war nur befriedigend.",
+    "example_en": "His last result in the exam was only satisfactory."
   },
   {
     "german": "begegnen",
@@ -2229,20 +2861,26 @@
     "english": "to meet, to encounter",
     "pos": "verb",
     "past": "begegnete",
-    "perfect": "ist begegnet"
+    "perfect": "ist begegnet",
+    "example_de": "Ich bin ihm gestern auf der Straße begegnet.",
+    "example_en": "I met him on the street yesterday."
   },
   {
     "german": "begeistert",
     "level": "B1",
     "english": "enthusiastic, thrilled",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Sie war von der neuen Idee sofort begeistert.",
+    "example_en": "She was immediately thrilled by the new idea."
   },
   {
     "german": "der Beginn",
     "level": "B1",
     "english": "beginning",
     "pos": "noun",
-    "plural": "die Beginne"
+    "plural": "die Beginne",
+    "example_de": "Der Beginn des Films ist genau um acht.",
+    "example_en": "The beginning of the movie is exactly at eight."
   },
   {
     "german": "beginnen",
@@ -2250,7 +2888,9 @@
     "english": "to begin, to start",
     "pos": "verb",
     "past": "begann",
-    "perfect": "hat begonnen"
+    "perfect": "hat begonnen",
+    "example_de": "Wir beginnen den Unterricht sehr pünktlich.",
+    "example_en": "We start the class very punctually."
   },
   {
     "german": "begleiten",
@@ -2258,13 +2898,17 @@
     "english": "to accompany",
     "pos": "verb",
     "past": "begleitete",
-    "perfect": "hat begleitet"
+    "perfect": "hat begleitet",
+    "example_de": "Darf ich dich sicher nach Hause begleiten?",
+    "example_en": "May I safely accompany you home?"
   },
   {
     "german": "begrenzt",
     "level": "B1",
     "english": "limited",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Die Anzahl der freien Plätze ist stark begrenzt.",
+    "example_en": "The number of free places is highly limited."
   },
   {
     "german": "begründen",
@@ -2272,14 +2916,18 @@
     "english": "to justify, to give reasons for",
     "pos": "verb",
     "past": "begründete",
-    "perfect": "hat begründet"
+    "perfect": "hat begründet",
+    "example_de": "Bitte begründen Sie Ihre schwierige Antwort.",
+    "example_en": "Please justify your difficult answer."
   },
   {
     "german": "die Begründung",
     "level": "B1",
     "english": "justification, reason",
     "pos": "noun",
-    "plural": "die Begründungen"
+    "plural": "die Begründungen",
+    "example_de": "Seine einfache Begründung war nicht sehr logisch.",
+    "example_en": "His simple justification was not very logical."
   },
   {
     "german": "begrüßen",
@@ -2287,7 +2935,9 @@
     "english": "to greet, to welcome",
     "pos": "verb",
     "past": "begrüßte",
-    "perfect": "hat begrüßt"
+    "perfect": "hat begrüßt",
+    "example_de": "Der Chef begrüßt die neuen Mitarbeiter freundlich.",
+    "example_en": "The boss welcomes the new employees friendly."
   },
   {
     "german": "behalten",
@@ -2295,7 +2945,9 @@
     "english": "to keep",
     "pos": "verb",
     "past": "behielt",
-    "perfect": "hat behalten"
+    "perfect": "hat behalten",
+    "example_de": "Du darfst das interessante Buch gerne behalten.",
+    "example_en": "You may gladly keep the interesting book."
   },
   {
     "german": "behandeln",
@@ -2303,7 +2955,9 @@
     "english": "to treat",
     "pos": "verb",
     "past": "behandelte",
-    "perfect": "hat behandelt"
+    "perfect": "hat behandelt",
+    "example_de": "Der Arzt behandelt die tiefe Wunde.",
+    "example_en": "The doctor treats the deep wound."
   },
   {
     "german": "behaupten",
@@ -2311,7 +2965,9 @@
     "english": "to claim, to assert",
     "pos": "verb",
     "past": "behauptete",
-    "perfect": "hat behauptet"
+    "perfect": "hat behauptet",
+    "example_de": "Er behauptet fest, dass er völlig unschuldig ist.",
+    "example_en": "He firmly claims that he is completely innocent."
   },
   {
     "german": "behindern",
@@ -2319,52 +2975,68 @@
     "english": "to hinder, to obstruct",
     "pos": "verb",
     "past": "behinderte",
-    "perfect": "hat behindert"
+    "perfect": "hat behindert",
+    "example_de": "Die Baustelle behindert den Verkehr stark.",
+    "example_en": "The construction site heavily hinders the traffic."
   },
   {
     "german": "behindert",
     "level": "B1",
     "english": "disabled",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Der Eingang ist auch für behinderte Menschen geeignet.",
+    "example_en": "The entrance is also suitable for disabled people."
   },
   {
     "german": "die Behörde",
     "level": "B1",
     "english": "authority, public agency",
     "pos": "noun",
-    "plural": "die Behörden"
+    "plural": "die Behörden",
+    "example_de": "Ich muss am Montag zur Behörde gehen.",
+    "example_en": "I have to go to the public agency on Monday."
   },
   {
     "german": "bei",
     "level": "A1",
     "english": "at, with, near",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Ich wohne im Moment noch bei meinen Eltern.",
+    "example_en": "I currently still live with my parents."
   },
   {
     "german": "beide",
     "level": "A1",
     "english": "both",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Beide Schwestern haben wunderschöne braune Haare.",
+    "example_en": "Both sisters have beautiful brown hair."
   },
   {
     "german": "das Bein",
     "level": "A1",
     "english": "leg",
     "pos": "noun",
-    "plural": "die Beine"
+    "plural": "die Beine",
+    "example_de": "Ich habe mir leider das Bein gebrochen.",
+    "example_en": "Unfortunately, I broke my leg."
   },
   {
     "german": "beinahe",
     "level": "B1",
     "english": "almost",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich hätte heute beinahe meinen Zug verpasst.",
+    "example_en": "I almost missed my train today."
   },
   {
     "german": "das Beispiel",
     "level": "A2",
     "english": "example",
     "pos": "noun",
-    "plural": "die Beispiele"
+    "plural": "die Beispiele",
+    "example_de": "Kannst du mir ein gutes Beispiel geben?",
+    "example_en": "Can you give me a good example?"
   },
   {
     "german": "beißen",
@@ -2372,20 +3044,26 @@
     "english": "to bite",
     "pos": "verb",
     "past": "biss",
-    "perfect": "hat gebissen"
+    "perfect": "hat gebissen",
+    "example_de": "Keine Angst, der Hund beißt nicht.",
+    "example_en": "Don't worry, the dog doesn't bite."
   },
   {
     "german": "der Beitrag",
     "level": "B1",
     "english": "contribution, fee, post (online)",
     "pos": "noun",
-    "plural": "die Beiträge"
+    "plural": "die Beiträge",
+    "example_de": "Sein kleiner Beitrag zur Diskussion war sehr hilfreich.",
+    "example_en": "His small contribution to the discussion was very helpful."
   },
   {
     "german": "bekannt",
     "level": "A1",
     "english": "known, famous, well-known",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Dieser englische Schauspieler ist weltweit sehr bekannt.",
+    "example_en": "This English actor is very well-known worldwide."
   },
   {
     "german": "bekannt geben",
@@ -2393,21 +3071,27 @@
     "english": "to announce",
     "pos": "verb",
     "past": "gab bekannt",
-    "perfect": "hat bekannt gegeben"
+    "perfect": "hat bekannt gegeben",
+    "example_de": "Die Firma wird die Gewinner morgen bekannt geben.",
+    "example_en": "The company will announce the winners tomorrow."
   },
   {
     "german": "der Bekannte",
     "level": "A2",
     "english": "acquaintance",
     "pos": "noun",
-    "plural": "die Bekannten"
+    "plural": "die Bekannten",
+    "example_de": "Ein Bekannter von mir hat mir damit geholfen.",
+    "example_en": "An acquaintance of mine helped me with it."
   },
   {
     "german": "die Bekannte",
     "level": "B1",
     "english": "acquaintance",
     "pos": "noun",
-    "plural": "die Bekannten"
+    "plural": "die Bekannten",
+    "example_de": "Sie ist eine sehr gute Bekannte von mir.",
+    "example_en": "She is a very good acquaintance of mine."
   },
   {
     "german": "bekommen",
@@ -2415,14 +3099,18 @@
     "english": "to get, to receive",
     "pos": "verb",
     "past": "bekam",
-    "perfect": "hat bekommen"
+    "perfect": "hat bekommen",
+    "example_de": "Was hast du Schönes zum Geburtstag bekommen?",
+    "example_en": "What nice things did you get for your birthday?"
   },
   {
     "german": "der Beleg",
     "level": "B1",
     "english": "receipt, proof",
     "pos": "noun",
-    "plural": "die Belege"
+    "plural": "die Belege",
+    "example_de": "Ich brauche unbedingt einen Beleg für meine Abrechnung.",
+    "example_en": "I absolutely need a receipt for my accounting."
   },
   {
     "german": "beleidigen",
@@ -2430,13 +3118,17 @@
     "english": "to insult",
     "pos": "verb",
     "past": "beleidigte",
-    "perfect": "hat beleidigt"
+    "perfect": "hat beleidigt",
+    "example_de": "Er wollte dich mit diesen Worten nicht beleidigen.",
+    "example_en": "He didn't want to insult you with these words."
   },
   {
     "german": "beliebt",
     "level": "A2",
     "english": "popular, loved",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Fußball ist in Deutschland ein sehr beliebter Sport.",
+    "example_en": "Soccer is a very popular sport in Germany."
   },
   {
     "german": "bemerken",
@@ -2444,7 +3136,9 @@
     "english": "to notice",
     "pos": "verb",
     "past": "bemerkte",
-    "perfect": "hat bemerkt"
+    "perfect": "hat bemerkt",
+    "example_de": "Ich habe gar nicht bemerkt, dass es stark regnet.",
+    "example_en": "I didn't even notice that it was raining heavily."
   },
   {
     "german": "benötigen",
@@ -2452,7 +3146,9 @@
     "english": "to need, to require",
     "pos": "verb",
     "past": "benötigte",
-    "perfect": "hat benötigt"
+    "perfect": "hat benötigt",
+    "example_de": "Wir benötigen für dieses Projekt mehr Informationen.",
+    "example_en": "We require more information for this project."
   },
   {
     "german": "benutzen",
@@ -2460,14 +3156,18 @@
     "english": "to use",
     "pos": "verb",
     "past": "benutzte",
-    "perfect": "hat benutzt"
+    "perfect": "hat benutzt",
+    "example_de": "Darf ich bitte kurz dein Telefon benutzen?",
+    "example_en": "May I briefly use your phone, please?"
   },
   {
     "german": "das Benzin",
     "level": "A1",
     "english": "gasoline, petrol",
     "pos": "noun",
-    "plural": "die Benzine"
+    "plural": "die Benzine",
+    "example_de": "Das Benzin an der Tankstelle ist sehr teuer geworden.",
+    "example_en": "The gasoline at the gas station has become very expensive."
   },
   {
     "german": "beobachten",
@@ -2475,13 +3175,17 @@
     "english": "to observe, to watch",
     "pos": "verb",
     "past": "beobachtete",
-    "perfect": "hat beobachtet"
+    "perfect": "hat beobachtet",
+    "example_de": "Wir beobachten leise die Vögel im großen Garten.",
+    "example_en": "We quietly watch the birds in the large garden."
   },
   {
     "german": "bequem",
     "level": "A2",
     "english": "comfortable, convenient",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Dieses blaue Sofa ist wirklich sehr bequem.",
+    "example_en": "This blue sofa is really very comfortable."
   },
   {
     "german": "beraten",
@@ -2489,14 +3193,18 @@
     "english": "to advise, to consult",
     "pos": "verb",
     "past": "beriet",
-    "perfect": "hat beraten"
+    "perfect": "hat beraten",
+    "example_de": "Der Verkäufer hat mich heute gut beraten.",
+    "example_en": "The salesperson advised me well today."
   },
   {
     "german": "die Beratung",
     "level": "B1",
     "english": "advice, consultation",
     "pos": "noun",
-    "plural": "die Beratungen"
+    "plural": "die Beratungen",
+    "example_de": "Die freundliche Beratung im Geschäft war komplett kostenlos.",
+    "example_en": "The friendly consultation in the shop was completely free."
   },
   {
     "german": "berechnen",
@@ -2504,40 +3212,52 @@
     "english": "to calculate, to charge",
     "pos": "verb",
     "past": "berechnete",
-    "perfect": "hat berechnet"
+    "perfect": "hat berechnet",
+    "example_de": "Wie viel berechnen Sie für diese kurze Reparatur?",
+    "example_en": "How much do you charge for this short repair?"
   },
   {
     "german": "der Bereich",
     "level": "B1",
     "english": "area, field, sector",
     "pos": "noun",
-    "plural": "die Bereiche"
+    "plural": "die Bereiche",
+    "example_de": "Er arbeitet im Bereich Marketing und Verkauf.",
+    "example_en": "He works in the field of marketing and sales."
   },
   {
     "german": "bereit",
     "level": "B1",
     "english": "ready",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Bist du jetzt endlich bereit zu gehen?",
+    "example_en": "Are you finally ready to go now?"
   },
   {
     "german": "bereits",
     "level": "B1",
     "english": "already",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich habe das spannende Buch bereits gelesen.",
+    "example_en": "I have already read the exciting book."
   },
   {
     "german": "der Berg",
     "level": "A1",
     "english": "mountain",
     "pos": "noun",
-    "plural": "die Berge"
+    "plural": "die Berge",
+    "example_de": "Dieser Berg in den Alpen ist sehr hoch.",
+    "example_en": "This mountain in the Alps is very high."
   },
   {
     "german": "der Bericht",
     "level": "B1",
     "english": "report",
     "pos": "noun",
-    "plural": "die Berichte"
+    "plural": "die Berichte",
+    "example_de": "Ich muss bis morgen einen Bericht schreiben.",
+    "example_en": "I have to write a report by tomorrow."
   },
   {
     "german": "berichten",
@@ -2545,26 +3265,34 @@
     "english": "to report, to tell",
     "pos": "verb",
     "past": "berichtete",
-    "perfect": "hat berichtet"
+    "perfect": "hat berichtet",
+    "example_de": "Die Zeitung berichtet über den schweren Unfall.",
+    "example_en": "The newspaper reports on the severe accident."
   },
   {
     "german": "der Beruf",
     "level": "A1",
     "english": "profession, occupation, job",
     "pos": "noun",
-    "plural": "die Berufe"
+    "plural": "die Berufe",
+    "example_de": "Was ist eigentlich dein genauer Beruf?",
+    "example_en": "What is actually your exact profession?"
   },
   {
     "german": "beruflich",
     "level": "B1",
     "english": "professional, job-related",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Ich bin beruflich sehr oft viel unterwegs.",
+    "example_en": "I travel a lot for job-related reasons very often."
   },
   {
     "german": "berufstätig",
     "level": "B1",
     "english": "employed, working",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Meine Mutter ist seit Jahren voll berufstätig.",
+    "example_en": "My mother has been working full-time for years."
   },
   {
     "german": "beruhigen",
@@ -2572,13 +3300,17 @@
     "english": "to calm down",
     "pos": "verb",
     "past": "beruhigte",
-    "perfect": "hat beruhigt"
+    "perfect": "hat beruhigt",
+    "example_de": "Du musst dich erst einmal beruhigen!",
+    "example_en": "You have to calm down first!"
   },
   {
     "german": "berühmt",
     "level": "A1",
     "english": "famous",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Mozart war ein sehr berühmter und guter Komponist.",
+    "example_en": "Mozart was a very famous and good composer."
   },
   {
     "german": "beschädigen",
@@ -2586,7 +3318,9 @@
     "english": "to damage",
     "pos": "verb",
     "past": "beschädigte",
-    "perfect": "hat beschädigt"
+    "perfect": "hat beschädigt",
+    "example_de": "Das Paket wurde beim Transport leider beschädigt.",
+    "example_en": "Unfortunately, the package was damaged during transport."
   },
   {
     "german": "beschäftigen",
@@ -2594,45 +3328,59 @@
     "english": "to employ, to occupy",
     "pos": "verb",
     "past": "beschäftigte",
-    "perfect": "hat beschäftigt"
+    "perfect": "hat beschäftigt",
+    "example_de": "Die Firma beschäftigt momentan 100 fleißige Mitarbeiter.",
+    "example_en": "The company currently employs 100 hard-working employees."
   },
   {
     "german": "die Beschäftigung",
     "level": "B1",
     "english": "occupation, employment, activity",
     "pos": "noun",
-    "plural": "die Beschäftigungen"
+    "plural": "die Beschäftigungen",
+    "example_de": "Ich suche eine gute Beschäftigung für den Sommer.",
+    "example_en": "I am looking for good employment for the summer."
   },
   {
     "german": "der Bescheid",
     "level": "B1",
     "english": "notice, decision, information",
     "pos": "noun",
-    "plural": "die Bescheide"
+    "plural": "die Bescheide",
+    "example_de": "Sie bekommen nächste Woche den offiziellen Bescheid.",
+    "example_en": "You will receive the official notice next week."
   },
   {
     "german": "Bescheid geben",
     "level": "B1",
     "english": "to let someone know, to inform",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Sag mir Bescheid, wenn du am Bahnhof ankommst.",
+    "example_en": "Let me know when you arrive at the train station."
   },
   {
     "german": "Bescheid geben/sagen",
     "level": "A1",
     "english": "to let someone know, to inform",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Gib mir Bescheid, wenn du fertig bist.",
+    "example_en": "Let me know when you are done."
   },
   {
     "german": "Bescheid sagen",
     "level": "B1",
     "english": "to let someone know, to inform",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Sag uns Bescheid, ob du heute mitkommst.",
+    "example_en": "Let us know if you are coming with us today."
   },
   {
     "german": "Bescheid sagen/geben",
     "level": "A2",
     "english": "to let know, to inform",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Du musst mir rechtzeitig Bescheid sagen.",
+    "example_en": "You have to let me know in time."
   },
   {
     "german": "beschließen",
@@ -2640,7 +3388,9 @@
     "english": "to decide, to resolve",
     "pos": "verb",
     "past": "beschloss",
-    "perfect": "hat beschlossen"
+    "perfect": "hat beschlossen",
+    "example_de": "Wir beschließen, heute wegen des Regens zu Hause zu bleiben.",
+    "example_en": "We decide to stay at home today because of the rain."
   },
   {
     "german": "beschränken",
@@ -2648,7 +3398,9 @@
     "english": "to limit, to restrict",
     "pos": "verb",
     "past": "beschränkte",
-    "perfect": "hat beschränkt"
+    "perfect": "hat beschränkt",
+    "example_de": "Der Parkplatz hier ist auf zwei Stunden beschränkt.",
+    "example_en": "The parking space here is restricted to two hours."
   },
   {
     "german": "beschreiben",
@@ -2656,14 +3408,18 @@
     "english": "to describe",
     "pos": "verb",
     "past": "beschrieb",
-    "perfect": "hat beschrieben"
+    "perfect": "hat beschrieben",
+    "example_de": "Können Sie den fremden Mann genauer beschreiben?",
+    "example_en": "Can you describe the strange man more precisely?"
   },
   {
     "german": "die Beschreibung",
     "level": "B1",
     "english": "description",
     "pos": "noun",
-    "plural": "die Beschreibungen"
+    "plural": "die Beschreibungen",
+    "example_de": "Die Beschreibung des kleinen Hotels war sehr gut.",
+    "example_en": "The description of the small hotel was very good."
   },
   {
     "german": "beschweren",
@@ -2671,7 +3427,9 @@
     "english": "to complain",
     "pos": "verb",
     "past": "beschwerte",
-    "perfect": "hat beschwert"
+    "perfect": "hat beschwert",
+    "example_de": "Ich möchte mich über das kalte Essen beschweren.",
+    "example_en": "I want to complain about the cold food."
   },
   {
     "german": "besetzen",
@@ -2679,13 +3437,17 @@
     "english": "to occupy",
     "pos": "verb",
     "past": "besetzte",
-    "perfect": "hat besetzt"
+    "perfect": "hat besetzt",
+    "example_de": "Er möchte den leeren Platz besetzen.",
+    "example_en": "He wants to occupy the empty seat."
   },
   {
     "german": "besetzt",
     "level": "A2",
     "english": "occupied, taken, busy",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Diese Telefonnummer ist leider immer noch besetzt.",
+    "example_en": "Unfortunately, this phone number is still busy."
   },
   {
     "german": "besichtigen",
@@ -2693,7 +3455,9 @@
     "english": "to visit, to view, to sightsee",
     "pos": "verb",
     "past": "besichtigte",
-    "perfect": "hat besichtigt"
+    "perfect": "hat besichtigt",
+    "example_de": "Wir besichtigen morgen das alte Museum.",
+    "example_en": "We are visiting the old museum tomorrow."
   },
   {
     "german": "besitzen",
@@ -2701,19 +3465,25 @@
     "english": "to own, to possess",
     "pos": "verb",
     "past": "besaß",
-    "perfect": "hat besessen"
+    "perfect": "hat besessen",
+    "example_de": "Sie besitzt ein großes Haus im warmen Spanien.",
+    "example_en": "She owns a large house in warm Spain."
   },
   {
     "german": "besonder-",
     "level": "B1",
     "english": "special",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Er hat ein ganz besonderes Talent für Musik.",
+    "example_en": "He has a very special talent for music."
   },
   {
     "german": "besonders",
     "level": "A2",
     "english": "especially, particularly",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Das Wetter ist heute besonders warm und schön.",
+    "example_en": "The weather is particularly warm and beautiful today."
   },
   {
     "german": "besorgen",
@@ -2721,7 +3491,9 @@
     "english": "to get, to obtain, to procure",
     "pos": "verb",
     "past": "besorgte",
-    "perfect": "hat besorgt"
+    "perfect": "hat besorgt",
+    "example_de": "Ich muss heute noch frische Getränke besorgen.",
+    "example_en": "I still need to get fresh drinks today."
   },
   {
     "german": "besprechen",
@@ -2729,27 +3501,35 @@
     "english": "to discuss",
     "pos": "verb",
     "past": "besprach",
-    "perfect": "hat besprochen"
+    "perfect": "hat besprochen",
+    "example_de": "Wir müssen das neue Problem gemeinsam besprechen.",
+    "example_en": "We need to discuss the new problem together."
   },
   {
     "german": "die Besprechung",
     "level": "B1",
     "english": "meeting, discussion",
     "pos": "noun",
-    "plural": "die Besprechungen"
+    "plural": "die Besprechungen",
+    "example_de": "Die wichtige Besprechung dauert noch ungefähr eine Stunde.",
+    "example_en": "The important meeting lasts for about another hour."
   },
   {
     "german": "besser",
     "level": "A1",
     "english": "better",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Heute geht es mir schon viel besser.",
+    "example_en": "Today I feel much better already."
   },
   {
     "german": "die Besserung",
     "level": "B1",
     "english": "improvement, recovery",
     "pos": "noun",
-    "plural": "die Besserungen"
+    "plural": "die Besserungen",
+    "example_de": "Wir wünschen dir gute Besserung!",
+    "example_en": "We wish you a good recovery!"
   },
   {
     "german": "bestätigen",
@@ -2757,14 +3537,18 @@
     "english": "to confirm",
     "pos": "verb",
     "past": "bestätigte",
-    "perfect": "hat bestätigt"
+    "perfect": "hat bestätigt",
+    "example_de": "Bitte bestätigen Sie den neuen Termin schnellstmöglich.",
+    "example_en": "Please confirm the new appointment as soon as possible."
   },
   {
     "german": "die Bestätigung",
     "level": "B1",
     "english": "confirmation",
     "pos": "noun",
-    "plural": "die Bestätigungen"
+    "plural": "die Bestätigungen",
+    "example_de": "Ich warte auf die offizielle Bestätigung der Flugbuchung.",
+    "example_en": "I am waiting for the official confirmation of the flight booking."
   },
   {
     "german": "bestehen",
@@ -2772,7 +3556,9 @@
     "english": "to pass (an exam), to consist of",
     "pos": "verb",
     "past": "bestand",
-    "perfect": "hat bestanden"
+    "perfect": "hat bestanden",
+    "example_de": "Er hat die schwierige Prüfung beim ersten Mal bestanden.",
+    "example_en": "He passed the difficult exam the first time."
   },
   {
     "german": "bestellen",
@@ -2780,13 +3566,17 @@
     "english": "to order",
     "pos": "verb",
     "past": "bestellte",
-    "perfect": "hat bestellt"
+    "perfect": "hat bestellt",
+    "example_de": "Ich möchte eine große Pizza bestellen.",
+    "example_en": "I want to order a large pizza."
   },
   {
     "german": "bestimmt",
     "level": "B1",
     "english": "certain, definite, specific",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Sie kommt heute bestimmt gleich an.",
+    "example_en": "She is definitely arriving soon today."
   },
   {
     "german": "bestrafen",
@@ -2794,14 +3584,18 @@
     "english": "to punish",
     "pos": "verb",
     "past": "bestrafte",
-    "perfect": "hat bestraft"
+    "perfect": "hat bestraft",
+    "example_de": "Der strenge Lehrer wird den unartigen Schüler bestrafen.",
+    "example_en": "The strict teacher will punish the naughty student."
   },
   {
     "german": "der Besuch",
     "level": "A2",
     "english": "visit, visitor(s)",
     "pos": "noun",
-    "plural": "die Besuche"
+    "plural": "die Besuche",
+    "example_de": "Wir bekommen am Wochenende viel Besuch.",
+    "example_en": "We are getting a lot of visitors on the weekend."
   },
   {
     "german": "besuchen",
@@ -2809,14 +3603,18 @@
     "english": "to visit",
     "pos": "verb",
     "past": "besuchte",
-    "perfect": "hat besucht"
+    "perfect": "hat besucht",
+    "example_de": "Ich besuche morgen meine kranke Großmutter.",
+    "example_en": "I am visiting my sick grandmother tomorrow."
   },
   {
     "german": "der Betrag",
     "level": "B1",
     "english": "amount, sum",
     "pos": "noun",
-    "plural": "die Beträge"
+    "plural": "die Beträge",
+    "example_de": "Bitte überweisen Sie den vollen Betrag sofort.",
+    "example_en": "Please transfer the full amount immediately."
   },
   {
     "german": "betreuen",
@@ -2824,35 +3622,45 @@
     "english": "to look after, to care for",
     "pos": "verb",
     "past": "betreute",
-    "perfect": "hat betreut"
+    "perfect": "hat betreut",
+    "example_de": "Die Lehrer betreuen die kleinen Kinder auf dem Ausflug.",
+    "example_en": "The teachers look after the small children on the trip."
   },
   {
     "german": "der Betreuer",
     "level": "B1",
     "english": "carer, supervisor",
     "pos": "noun",
-    "plural": "die Betreuer"
+    "plural": "die Betreuer",
+    "example_de": "Mein Betreuer an der Universität ist immer sehr nett.",
+    "example_en": "My supervisor at the university is always very nice."
   },
   {
     "german": "die Betreuung",
     "level": "B1",
     "english": "care, supervision",
     "pos": "noun",
-    "plural": "die Betreuungen"
+    "plural": "die Betreuungen",
+    "example_de": "Die tägliche Betreuung der Kinder ist hier kostenlos.",
+    "example_en": "The daily care of the children is free here."
   },
   {
     "german": "der Betrieb",
     "level": "B1",
     "english": "business, operation, activity",
     "pos": "noun",
-    "plural": "die Betriebe"
+    "plural": "die Betriebe",
+    "example_de": "Der erfolgreiche Betrieb wurde vor zwei Jahren gegründet.",
+    "example_en": "The successful business was founded two years ago."
   },
   {
     "german": "der Betriebsrat",
     "level": "B1",
     "english": "works council",
     "pos": "noun",
-    "plural": "die Betriebsräte"
+    "plural": "die Betriebsräte",
+    "example_de": "Der Betriebsrat vertritt alle Mitarbeiter der Firma.",
+    "example_en": "The works council represents all employees of the company."
   },
   {
     "german": "betrügen",
@@ -2860,33 +3668,43 @@
     "english": "to cheat, to deceive",
     "pos": "verb",
     "past": "betrog",
-    "perfect": "hat betrogen"
+    "perfect": "hat betrogen",
+    "example_de": "Er hat mich beim Kartenspielen betrogen.",
+    "example_en": "He cheated me while playing cards."
   },
   {
     "german": "betrunken",
     "level": "B1",
     "english": "drunk",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Er darf nicht Auto fahren, weil er betrunken ist.",
+    "example_en": "He is not allowed to drive a car because he is drunk."
   },
   {
     "german": "das Bett",
     "level": "A1",
     "english": "bed",
     "pos": "noun",
-    "plural": "die Betten"
+    "plural": "die Betten",
+    "example_de": "Ich bin heute sehr müde und gehe früh ins Bett.",
+    "example_en": "I am very tired today and going to bed early."
   },
   {
     "german": "die Bevölkerung",
     "level": "B1",
     "english": "population",
     "pos": "noun",
-    "plural": "die Bevölkerungen"
+    "plural": "die Bevölkerungen",
+    "example_de": "Die Bevölkerung der Stadt wächst sehr schnell.",
+    "example_en": "The population of the city is growing very fast."
   },
   {
     "german": "bevor",
     "level": "B1",
     "english": "before",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Bevor wir essen, waschen wir die Hände.",
+    "example_en": "Before we eat, we wash our hands."
   },
   {
     "german": "bewegen",
@@ -2894,21 +3712,27 @@
     "english": "to move",
     "pos": "verb",
     "past": "bewegte",
-    "perfect": "hat bewegt"
+    "perfect": "hat bewegt",
+    "example_de": "Er kann seinen verletzten Arm nicht mehr bewegen.",
+    "example_en": "He can no longer move his injured arm."
   },
   {
     "german": "die Bewegung",
     "level": "B1",
     "english": "movement, exercise",
     "pos": "noun",
-    "plural": "die Bewegungen"
+    "plural": "die Bewegungen",
+    "example_de": "Regelmäßige körperliche Bewegung ist sehr wichtig.",
+    "example_en": "Regular physical exercise is very important."
   },
   {
     "german": "der Beweis",
     "level": "B1",
     "english": "proof, evidence",
     "pos": "noun",
-    "plural": "die Beweise"
+    "plural": "die Beweise",
+    "example_de": "Wir haben keinen klaren Beweis für seine Schuld.",
+    "example_en": "We have no clear proof of his guilt."
   },
   {
     "german": "beweisen",
@@ -2916,7 +3740,9 @@
     "english": "to prove",
     "pos": "verb",
     "past": "bewies",
-    "perfect": "hat bewiesen"
+    "perfect": "hat bewiesen",
+    "example_de": "Er konnte leicht beweisen, dass er völlig unschuldig ist.",
+    "example_en": "He could easily prove that he is completely innocent."
   },
   {
     "german": "bewerben",
@@ -2924,27 +3750,35 @@
     "english": "to apply",
     "pos": "verb",
     "past": "bewarb",
-    "perfect": "hat beworben"
+    "perfect": "hat beworben",
+    "example_de": "Ich bewerbe mich für den neuen Job.",
+    "example_en": "I am applying for the new job."
   },
   {
     "german": "die Bewerbung",
     "level": "A2",
     "english": "application",
     "pos": "noun",
-    "plural": "die Bewerbungen"
+    "plural": "die Bewerbungen",
+    "example_de": "Ich habe meine Bewerbung gestern abgeschickt.",
+    "example_en": "I sent off my application yesterday."
   },
   {
     "german": "der Bewohner",
     "level": "B1",
     "english": "inhabitant, resident",
     "pos": "noun",
-    "plural": "die Bewohner"
+    "plural": "die Bewohner",
+    "example_de": "Die Bewohner des Hauses sind sehr ruhig und freundlich.",
+    "example_en": "The residents of the house are very quiet and friendly."
   },
   {
     "german": "bewölkt",
     "level": "A2",
     "english": "cloudy, overcast",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Der Himmel ist heute stark bewölkt.",
+    "example_en": "The sky is heavily overcast today."
   },
   {
     "german": "bezahlen",
@@ -2952,28 +3786,36 @@
     "english": "to pay",
     "pos": "verb",
     "past": "bezahlte",
-    "perfect": "hat bezahlt"
+    "perfect": "hat bezahlt",
+    "example_de": "Ich möchte bitte bezahlen.",
+    "example_en": "I would like to pay, please."
   },
   {
     "german": "die Beziehung",
     "level": "B1",
     "english": "relationship",
     "pos": "noun",
-    "plural": "die Beziehungen"
+    "plural": "die Beziehungen",
+    "example_de": "Sie haben eine sehr gute Beziehung.",
+    "example_en": "They have a very good relationship."
   },
   {
     "german": "die Bibliothek",
     "level": "A2",
     "english": "library",
     "pos": "noun",
-    "plural": "die Bibliotheken"
+    "plural": "die Bibliotheken",
+    "example_de": "Ich lerne gerne in der ruhigen Bibliothek.",
+    "example_en": "I like to study in the quiet library."
   },
   {
     "german": "das Bier",
     "level": "A1",
     "english": "beer",
     "pos": "noun",
-    "plural": "die Biere"
+    "plural": "die Biere",
+    "example_de": "Er bestellt im Restaurant ein kaltes Bier.",
+    "example_en": "He orders a cold beer in the restaurant."
   },
   {
     "german": "bieten",
@@ -2981,21 +3823,27 @@
     "english": "to offer",
     "pos": "verb",
     "past": "bot",
-    "perfect": "hat geboten"
+    "perfect": "hat geboten",
+    "example_de": "Das Hotel bietet ein tolles Frühstück.",
+    "example_en": "The hotel offers a great breakfast."
   },
   {
     "german": "das Bild",
     "level": "A2",
     "english": "picture, image",
     "pos": "noun",
-    "plural": "die Bilder"
+    "plural": "die Bilder",
+    "example_de": "Sie hat ein sehr schönes Bild gemalt.",
+    "example_en": "She painted a very beautiful picture."
   },
   {
     "german": "der Bildschirm",
     "level": "B1",
     "english": "screen, monitor",
     "pos": "noun",
-    "plural": "die Bildschirme"
+    "plural": "die Bildschirme",
+    "example_de": "Der Bildschirm meines Computers ist kaputt.",
+    "example_en": "My computer's monitor is broken."
   },
   {
     "german": "billig",
