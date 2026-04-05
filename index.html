@@ -291,9 +291,14 @@
             padding: 16px;
             border-radius: 20px;
             border-left: 5px solid #FFCE00;
-            font-style: italic;
+            /* font-style: italic; */
             font-size: 0.9rem;
             margin: 12px 0;
+        }
+        .example-box > div:first-child {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         /* navigation */
@@ -715,6 +720,18 @@
         if ((w.pos || '').toLowerCase() === 'verb') {
             if (w.past) extra += `<div class="extra-info"><div><strong>Präteritum:</strong> ${w.past}</div><button class="audio-btn-small" onclick="speakWord(event, '${w.past}')" title="Hören">🔊</button></div>`;
             if (w.perfect) extra += `<div class="extra-info"><div><strong>Perfekt:</strong> ${w.perfect}</div><button class="audio-btn-small" onclick="speakWord(event, '${w.perfect}')" title="Hören">🔊</button></div>`;
+        }
+
+        if (w.example_de && w.example_en) {
+            extra += `<div class="example-box">
+                    <div>
+                        <div>
+                            <strong>Example:</strong> ${w.example_de}
+                        </div>
+                        <button class="audio-btn-small" onclick="speakWord(event, '${w.example_de}')" title="Hören">🔊</button>
+                    </div>
+                    <div style="margin-top:8px; font-style:normal;"><em>${w.example_en}</em></div>
+                </div>`;
         }
         document.getElementById('extraInfo').innerHTML = extra ? extra : '&nbsp;';
         document.getElementById('wordId').textContent = w.id;
