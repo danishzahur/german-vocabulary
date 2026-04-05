@@ -20661,7 +20661,7 @@
     "example_de": "Das warme Essen im neuen Restaurant schmeckt mir heute wirklich sehr gut.",
     "example_en": "The warm food in the new restaurant tastes really very good to me today."
   },
-    {
+  {
     "german": "die Seife",
     "level": "A2",
     "english": "soap",
@@ -23886,26 +23886,32 @@
     "example_de": "Das Fußballtraining am Dienstagabend ist meistens ziemlich hart.",
     "example_en": "The soccer training on Tuesday evening is usually quite hard."
   },
-  {
+    {
     "german": "das Tram",
     "level": "B1",
     "english": "tram (swiss)",
     "pos": "noun",
-    "plural": "die Trams"
+    "plural": "die Trams",
+    "example_de": "Ich fahre jeden Morgen mit dem Tram zur Arbeit.",
+    "example_en": "I go to work by tram every morning."
   },
   {
     "german": "die Träne",
     "level": "B1",
     "english": "tear",
     "pos": "noun",
-    "plural": "die Tränen"
+    "plural": "die Tränen",
+    "example_de": "Eine kleine Träne lief über ihr Gesicht.",
+    "example_en": "A small tear ran down her face."
   },
   {
     "german": "der Transport",
     "level": "B1",
     "english": "transport",
     "pos": "noun",
-    "plural": "die Transporte"
+    "plural": "die Transporte",
+    "example_de": "Der Transport der Möbel war ziemlich teuer.",
+    "example_en": "The transport of the furniture was quite expensive."
   },
   {
     "german": "transportieren",
@@ -23913,20 +23919,26 @@
     "english": "to transport",
     "pos": "verb",
     "past": "transportierte",
-    "perfect": "hat transportiert"
+    "perfect": "hat transportiert",
+    "example_de": "Der große LKW wird unsere Kisten morgen transportieren.",
+    "example_en": "The big truck will transport our boxes tomorrow."
   },
   {
     "german": "der Traum",
     "level": "A2",
     "english": "dream",
     "pos": "noun",
-    "plural": "die Träume"
+    "plural": "die Träume",
+    "example_de": "Ich hatte letzte Nacht einen sehr schönen Traum.",
+    "example_en": "I had a very beautiful dream last night."
   },
   {
     "german": "Traum-",
     "level": "B1",
     "english": "dream-",
-    "pos": "particle"
+    "pos": "particle",
+    "example_de": "Wir haben endlich unser neues Traumhaus am See gefunden.",
+    "example_en": "We finally found our new dream house by the lake."
   },
   {
     "german": "träumen",
@@ -23934,13 +23946,17 @@
     "english": "to dream",
     "pos": "verb",
     "past": "träumte",
-    "perfect": "hat geträumt"
+    "perfect": "hat geträumt",
+    "example_de": "Ich träume oft von einem langen Urlaub im Süden.",
+    "example_en": "I often dream of a long vacation in the south."
   },
   {
     "german": "traurig",
     "level": "A2",
     "english": "sad",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Der kleine Junge war sehr traurig, als sein Eis herunterfiel.",
+    "example_en": "The little boy was very sad when his ice cream fell down."
   },
   {
     "german": "treffen",
@@ -23948,14 +23964,18 @@
     "english": "to meet",
     "pos": "verb",
     "past": "traf",
-    "perfect": "hat getroffen"
+    "perfect": "hat getroffen",
+    "example_de": "Wir treffen uns heute Nachmittag um drei Uhr am Bahnhof.",
+    "example_en": "We are meeting at the train station at three o'clock this afternoon."
   },
   {
     "german": "der Treffpunkt",
     "level": "B1",
     "english": "meeting place",
     "pos": "noun",
-    "plural": "die Treffpunkte"
+    "plural": "die Treffpunkte",
+    "example_de": "Der vereinbarte Treffpunkt für unsere Gruppe ist direkt vor dem Museum.",
+    "example_en": "The agreed meeting place for our group is right in front of the museum."
   },
   {
     "german": "treiben",
@@ -23963,7 +23983,9 @@
     "english": "to do (sports), to drive",
     "pos": "verb",
     "past": "trieb",
-    "perfect": "hat getrieben"
+    "perfect": "hat getrieben",
+    "example_de": "Er treibt jeden Tag viel Sport, um gesund zu bleiben.",
+    "example_en": "He does a lot of sports every day to stay healthy."
   },
   {
     "german": "trennen",
@@ -23971,28 +23993,36 @@
     "english": "to separate",
     "pos": "verb",
     "past": "trennte",
-    "perfect": "hat getrennt"
+    "perfect": "hat getrennt",
+    "example_de": "Wir müssen den Müll vor dem Wegwerfen sorgfältig trennen.",
+    "example_en": "We must carefully separate the garbage before throwing it away."
   },
   {
     "german": "die Trennung",
     "level": "B1",
     "english": "separation",
     "pos": "noun",
-    "plural": "die Trennungen"
+    "plural": "die Trennungen",
+    "example_de": "Die lange Trennung von seiner Familie war sehr schwer für ihn.",
+    "example_en": "The long separation from his family was very difficult for him."
   },
   {
     "german": "die Treppe",
     "level": "A1",
     "english": "stairs, staircase",
     "pos": "noun",
-    "plural": "die Treppen"
+    "plural": "die Treppen",
+    "example_de": "Gehen Sie bitte diese steile Treppe hinauf in den zweiten Stock.",
+    "example_en": "Please go up these steep stairs to the second floor."
   },
   {
     "german": "das Treppenhaus",
     "level": "B1",
     "english": "stairwell",
     "pos": "noun",
-    "plural": "die Treppenhäuser"
+    "plural": "die Treppenhäuser",
+    "example_de": "Das Licht im dunklen Treppenhaus ist leider kaputt.",
+    "example_en": "The light in the dark stairwell is unfortunately broken."
   },
   {
     "german": "treten",
@@ -24000,13 +24030,17 @@
     "english": "to step, to kick",
     "pos": "verb",
     "past": "trat",
-    "perfect": "ist/hat getreten"
+    "perfect": "ist/hat getreten",
+    "example_de": "Bitte treten Sie nicht auf den schönen Rasen im Park.",
+    "example_en": "Please do not step on the beautiful lawn in the park."
   },
   {
     "german": "treu",
     "level": "B1",
     "english": "faithful, loyal",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Ein Hund ist oft ein sehr treuer Begleiter für den Menschen.",
+    "example_en": "A dog is often a very faithful companion for a human."
   },
   {
     "german": "trinken",
@@ -24014,20 +24048,26 @@
     "english": "to drink",
     "pos": "verb",
     "past": "trank",
-    "perfect": "hat getrunken"
+    "perfect": "hat getrunken",
+    "example_de": "Ich trinke am liebsten kaltes Wasser zum Abendessen.",
+    "example_en": "I prefer to drink cold water with dinner."
   },
   {
     "german": "das Trinkgeld",
     "level": "B1",
     "english": "tip",
     "pos": "noun",
-    "plural": "die Trinkgelder"
+    "plural": "die Trinkgelder",
+    "example_de": "Der Kellner war freundlich, also gaben wir ihm ein gutes Trinkgeld.",
+    "example_en": "The waiter was friendly, so we gave him a good tip."
   },
   {
     "german": "trocken",
     "level": "A2",
     "english": "dry",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Nach dem langen Sommer war der Boden extrem trocken.",
+    "example_en": "After the long summer, the ground was extremely dry."
   },
   {
     "german": "trocknen",
@@ -24035,46 +24075,60 @@
     "english": "to dry",
     "pos": "verb",
     "past": "trocknete",
-    "perfect": "hat getrocknet"
+    "perfect": "hat getrocknet",
+    "example_de": "Ich hänge meine nasse Jacke auf, damit sie schneller trocknen kann.",
+    "example_en": "I hang up my wet jacket so that it can dry faster."
   },
   {
     "german": "der Tropfen",
     "level": "B1",
     "english": "drop",
     "pos": "noun",
-    "plural": "die Tropfen"
+    "plural": "die Tropfen",
+    "example_de": "Ein großer Tropfen Wasser fiel direkt auf meine Nase.",
+    "example_en": "A large drop of water fell right on my nose."
   },
   {
     "german": "das Trottoir",
     "level": "B1",
     "english": "sidewalk (swiss)",
     "pos": "noun",
-    "plural": "die Trottoirs"
+    "plural": "die Trottoirs",
+    "example_de": "Bitte fahre mit dem Fahrrad nicht auf dem Trottoir.",
+    "example_en": "Please do not ride your bicycle on the sidewalk."
   },
   {
     "german": "trotz",
     "level": "B1",
     "english": "despite",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Trotz des schlechten Wetters gingen wir im Wald spazieren.",
+    "example_en": "Despite the bad weather, we went for a walk in the forest."
   },
   {
     "german": "trotzdem",
     "level": "B1",
     "english": "nevertheless, anyway",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Es war sehr spät, aber wir haben den Film trotzdem zu Ende geschaut.",
+    "example_en": "It was very late, but we finished watching the movie anyway."
   },
   {
     "german": "tschüs",
     "level": "A1",
     "english": "bye (informal)",
-    "pos": "interjection"
+    "pos": "interjection",
+    "example_de": "Tschüs, ich wünsche dir noch einen schönen Tag!",
+    "example_en": "Bye, have a nice day!"
   },
   {
     "german": "das Tuch",
     "level": "B1",
     "english": "cloth, scarf",
     "pos": "noun",
-    "plural": "die Tücher"
+    "plural": "die Tücher",
+    "example_de": "Sie trägt ein buntes Tuch um den Hals, weil es kalt ist.",
+    "example_en": "She is wearing a colorful scarf around her neck because it is cold."
   },
   {
     "german": "tun",
@@ -24082,86 +24136,112 @@
     "english": "to do",
     "pos": "verb",
     "past": "tat",
-    "perfect": "hat getan"
+    "perfect": "hat getan",
+    "example_de": "Was kann ich tun, um dir bei dieser Arbeit zu helfen?",
+    "example_en": "What can I do to help you with this work?"
   },
   {
     "german": "die Tür",
     "level": "A2",
     "english": "door",
     "pos": "noun",
-    "plural": "die Türen"
+    "plural": "die Türen",
+    "example_de": "Bitte schließe die Tür, wenn du das Zimmer verlässt.",
+    "example_en": "Please close the door when you leave the room."
   },
   {
     "german": "der Turm",
     "level": "B1",
     "english": "tower",
     "pos": "noun",
-    "plural": "die Türme"
+    "plural": "die Türme",
+    "example_de": "Von diesem alten Turm hat man eine wunderbare Aussicht über die Stadt.",
+    "example_en": "From this old tower you have a wonderful view over the city."
   },
   {
     "german": "die Tüte",
     "level": "B1",
     "english": "bag (plastic/paper)",
     "pos": "noun",
-    "plural": "die Tüten"
+    "plural": "die Tüten",
+    "example_de": "Brauchen Sie eine Papiertüte für Ihre Einkäufe aus dem Supermarkt?",
+    "example_en": "Do you need a paper bag for your groceries from the supermarket?"
   },
   {
     "german": "der Typ",
     "level": "A1",
     "english": "type, guy",
     "pos": "noun",
-    "plural": "die Typen"
+    "plural": "die Typen",
+    "example_de": "Dein neuer Freund ist wirklich ein sehr netter und lustiger Typ.",
+    "example_en": "Your new boyfriend is really a very nice and funny guy."
   },
   {
     "german": "typisch",
     "level": "A2",
     "english": "typical",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist wieder typisch für ihn, dass er zu spät kommt.",
+    "example_en": "That is typical for him again, that he arrives late."
   },
   {
     "german": "die U-Bahn",
     "level": "A1",
     "english": "subway, underground",
     "pos": "noun",
-    "plural": "die U-Bahnen"
+    "plural": "die U-Bahnen",
+    "example_de": "Ich fahre in Berlin am liebsten mit der schnellen U-Bahn.",
+    "example_en": "I prefer to travel with the fast subway in Berlin."
   },
   {
     "german": "das Ufer",
     "level": "B1",
     "english": "shore, bank",
     "pos": "noun",
-    "plural": "die Ufer"
+    "plural": "die Ufer",
+    "example_de": "Wir machen ein kleines Picknick drüben am anderen Ufer des Sees.",
+    "example_en": "We are having a small picnic over on the other shore of the lake."
   },
   {
     "german": "die Uhr",
     "level": "A1",
     "english": "clock, o'clock",
     "pos": "noun",
-    "plural": "die Uhren"
+    "plural": "die Uhren",
+    "example_de": "Ich treffe dich genau um fünf Uhr am Bahnhof.",
+    "example_en": "I will meet you at exactly five o'clock at the train station."
   },
   {
     "german": "Uhrzeit",
     "level": "A2",
     "english": "time",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Bitte verraten Sie mir noch die genaue Uhrzeit für unser Treffen.",
+    "example_en": "Please also tell me the exact time for our meeting."
   },
   {
     "german": "um",
     "level": "A1",
     "english": "at (time), around",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Wir gehen heute Abend um acht Uhr ins Restaurant.",
+    "example_en": "We are going to the restaurant tonight at eight o'clock."
   },
   {
     "german": "um ... zu",
     "level": "B1",
     "english": "in order to",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Ich lerne jeden Tag fleißig, um diese wichtige Prüfung zu bestehen.",
+    "example_en": "I study diligently every day in order to pass this important exam."
   },
   {
     "german": "um Mitternacht",
     "level": "A2",
     "english": "at midnight",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Die große Party endete erst spät um Mitternacht.",
+    "example_en": "The big party only ended late at midnight."
   },
   {
     "german": "umarmen",
@@ -24169,21 +24249,27 @@
     "english": "to hug",
     "pos": "verb",
     "past": "umarmte",
-    "perfect": "hat umarmt"
+    "perfect": "hat umarmt",
+    "example_de": "Zur freudigen Begrüßung umarmen sich die beiden alten Freunde herzlich.",
+    "example_en": "For a joyful greeting, the two old friends hug each other warmly."
   },
   {
     "german": "die Umfrage",
     "level": "B1",
     "english": "survey, poll",
     "pos": "noun",
-    "plural": "die Umfragen"
+    "plural": "die Umfragen",
+    "example_de": "Die aktuelle Umfrage in der Zeitung zeigt ein völlig neues Bild der Gesellschaft.",
+    "example_en": "The current survey in the newspaper shows a completely new picture of society."
   },
   {
     "german": "die Umgebung",
     "level": "B1",
     "english": "surroundings, area",
     "pos": "noun",
-    "plural": "die Umgebungen"
+    "plural": "die Umgebungen",
+    "example_de": "Die ruhige Umgebung dieses Hauses ist wirklich perfekt für kleine Kinder.",
+    "example_en": "The quiet surroundings of this house are really perfect for small children."
   },
   {
     "german": "umgehen",
@@ -24191,32 +24277,42 @@
     "english": "to deal with, to handle",
     "pos": "verb",
     "past": "ging um",
-    "perfect": "ist umgegangen"
+    "perfect": "ist umgegangen",
+    "example_de": "Er weiß ganz genau, wie er mit diesem schwierigen Problem umgehen muss.",
+    "example_en": "He knows exactly how he has to deal with this difficult problem."
   },
   {
     "german": "umgekehrt",
     "level": "B1",
     "english": "conversely, vice versa",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Erst lesen wir den Text, dann machen wir die Übung, oder vielleicht auch umgekehrt.",
+    "example_en": "First we read the text, then we do the exercise, or perhaps also vice versa."
   },
   {
     "german": "die Umleitung",
     "level": "B1",
     "english": "detour, diversion",
     "pos": "noun",
-    "plural": "die Umleitungen"
+    "plural": "die Umleitungen",
+    "example_de": "Wegen eines großen Unfalls gab es heute eine lange Umleitung auf der Autobahn.",
+    "example_en": "Due to a major accident, there was a long detour on the highway today."
   },
   {
     "german": "umso",
     "level": "B1",
     "english": "all the more, the ...",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Je schneller du die Aufgabe machst, umso früher bist du fertig.",
+    "example_en": "The faster you do the task, the earlier you are finished."
   },
   {
     "german": "umsonst",
     "level": "B1",
     "english": "for free, in vain",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wir haben zwei Stunden gewartet, aber die lange Fahrt war völlig umsonst.",
+    "example_en": "We waited for two hours, but the long trip was completely in vain."
   },
   {
     "german": "umsteigen",
@@ -24224,14 +24320,18 @@
     "english": "to change (trains, etc.)",
     "pos": "verb",
     "past": "stieg um",
-    "perfect": "ist umgestiegen"
+    "perfect": "ist umgestiegen",
+    "example_de": "Sie müssen am nächsten Bahnhof aussteigen und in den Bus umsteigen.",
+    "example_en": "You have to get off at the next station and change to the bus."
   },
   {
     "german": "der Umtausch",
     "level": "B1",
     "english": "exchange",
     "pos": "noun",
-    "plural": "die Umtausche"
+    "plural": "die Umtausche",
+    "example_de": "Der Umtausch von reduzierter Ware ist in diesem Geschäft leider ausgeschlossen.",
+    "example_en": "The exchange of discounted goods is unfortunately excluded in this store."
   },
   {
     "german": "umtauschen",
@@ -24239,28 +24339,36 @@
     "english": "to exchange",
     "pos": "verb",
     "past": "tauschte um",
-    "perfect": "hat umgetauscht"
+    "perfect": "hat umgetauscht",
+    "example_de": "Ich möchte diese Hose gerne umtauschen, da sie mir leider zu klein ist.",
+    "example_en": "I would like to exchange these pants, as they are unfortunately too small for me."
   },
   {
     "german": "die Umwelt",
     "level": "B1",
     "english": "environment",
     "pos": "noun",
-    "plural": "die Umwelten"
+    "plural": "die Umwelten",
+    "example_de": "Wir müssen alle zusammen mehr tun, um unsere schöne Umwelt zu schützen.",
+    "example_en": "We all together must do more to protect our beautiful environment."
   },
   {
     "german": "der Umweltschutz",
     "level": "B1",
     "english": "environmental protection",
     "pos": "noun",
-    "plural": "die Umweltschutze"
+    "plural": "die Umweltschutze",
+    "example_de": "Umweltschutz ist heute eines der wichtigsten Themen für die junge Generation.",
+    "example_en": "Environmental protection is one of the most important topics for the young generation today."
   },
   {
     "german": "die Umweltverschmutzung",
     "level": "B1",
     "english": "environmental pollution",
     "pos": "noun",
-    "plural": "die Umweltverschmutzungen"
+    "plural": "die Umweltverschmutzungen",
+    "example_de": "Die starke Umweltverschmutzung durch Autos wird zu einem immer größeren Problem.",
+    "example_en": "The heavy environmental pollution from cars is becoming an ever bigger problem."
   },
   {
     "german": "umziehen",
@@ -24268,114 +24376,150 @@
     "english": "to move (house)",
     "pos": "verb",
     "past": "zog um",
-    "perfect": "ist umgezogen"
+    "perfect": "ist umgezogen",
+    "example_de": "Wir werden nächsten Monat wegen meiner neuen Arbeit nach Berlin umziehen.",
+    "example_en": "We will move to Berlin next month because of my new job."
   },
   {
     "german": "der Umzug",
     "level": "A2",
     "english": "move, relocation, parade",
     "pos": "noun",
-    "plural": "die Umzüge"
+    "plural": "die Umzüge",
+    "example_de": "Der Umzug in das neue Haus war sehr anstrengend und dauerte zwei Tage.",
+    "example_en": "The move into the new house was very exhausting and took two days."
   },
   {
     "german": "un-",
     "level": "B1",
     "english": "un-, non-",
-    "pos": "particle"
+    "pos": "particle",
+    "example_de": "Diese Entscheidung ist absolut unglaublich und unmöglich zu akzeptieren.",
+    "example_en": "This decision is absolutely unbelievable and impossible to accept."
   },
   {
     "german": "unbedingt",
     "level": "A2",
     "english": "absolutely, definitely",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Du musst dieses fantastische Buch über Geschichte unbedingt bald lesen.",
+    "example_en": "You absolutely have to read this fantastic book about history soon."
   },
   {
     "german": "und",
     "level": "A1",
     "english": "and",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Ich bestelle im Restaurant einen Kaffee und ein großes Stück Kuchen.",
+    "example_en": "I order a coffee and a large piece of cake in the restaurant."
   },
   {
     "german": "unentschieden",
     "level": "B1",
     "english": "undecided, draw (game)",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das spannende Spiel endete gestern Abend völlig überraschend unentschieden.",
+    "example_en": "The exciting game ended completely surprisingly in a draw last night."
   },
   {
     "german": "der Unfall",
     "level": "A1",
     "english": "accident",
     "pos": "noun",
-    "plural": "die Unfälle"
+    "plural": "die Unfälle",
+    "example_de": "Es gab heute Morgen leider einen schweren Unfall auf der Landstraße.",
+    "example_en": "Unfortunately, there was a severe accident on the country road this morning."
   },
   {
     "german": "ungefähr",
     "level": "B1",
     "english": "approximately",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Der Weg zum nächsten Dorf ist ungefähr drei Kilometer lang.",
+    "example_en": "The path to the next village is approximately three kilometers long."
   },
   {
     "german": "ungewöhnlich",
     "level": "B1",
     "english": "unusual",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Es ist sehr ungewöhnlich, dass es im Mai noch so viel Schnee gibt.",
+    "example_en": "It is very unusual that there is still so much snow in May."
   },
   {
     "german": "unglaublich",
     "level": "B1",
     "english": "incredible, unbelievable",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Die Geschwindigkeit dieses neuen Autos ist wirklich absolut unglaublich.",
+    "example_en": "The speed of this new car is really absolutely incredible."
   },
   {
     "german": "das Unglück",
     "level": "B1",
     "english": "misfortune, accident",
     "pos": "noun",
-    "plural": "die Unglücke"
+    "plural": "die Unglücke",
+    "example_de": "Das schwere Feuer in der Stadt war ein sehr großes Unglück für alle.",
+    "example_en": "The severe fire in the city was a very great misfortune for everyone."
   },
   {
     "german": "unheimlich",
     "level": "B1",
     "english": "scary, uncanny, incredibly",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das alte, dunkle Haus am Ende der Straße sieht nachts unheimlich aus.",
+    "example_en": "The old, dark house at the end of the street looks scary at night."
   },
   {
     "german": "die Uniform",
     "level": "B1",
     "english": "uniform",
     "pos": "noun",
-    "plural": "die Uniformen"
+    "plural": "die Uniformen",
+    "example_de": "Jeder Schüler an dieser Schule muss eine blaue Uniform tragen.",
+    "example_en": "Every student at this school has to wear a blue uniform."
   },
   {
     "german": "die Universität",
     "level": "A1",
     "english": "university",
     "pos": "noun",
-    "plural": "die Universitäten"
+    "plural": "die Universitäten",
+    "example_de": "Meine große Schwester studiert seit zwei Jahren Medizin an der Universität.",
+    "example_en": "My older sister has been studying medicine at the university for two years."
   },
   {
     "german": "unser",
     "level": "A1",
     "english": "our",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Das ist unser neuer Hund, wir haben ihn erst gestern gekauft.",
+    "example_en": "This is our new dog, we only bought him yesterday."
   },
   {
     "german": "unten",
     "level": "A1",
     "english": "downstairs, below",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Die Toiletten befinden sich gleich dort drüben unten im Keller.",
+    "example_en": "The toilets are located right over there downstairs in the basement."
   },
   {
     "german": "unter",
     "level": "A1",
     "english": "under, among",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Die kleine Katze versteckt sich ängstlich unter dem großen Esstisch.",
+    "example_en": "The little cat is hiding fearfully under the large dining table."
   },
   {
     "german": "unter-",
     "level": "B1",
     "english": "lower-",
-    "pos": "particle"
+    "pos": "particle",
+    "example_de": "Wir haben uns am Ausgang der neuen Unterführung getroffen.",
+    "example_en": "We met at the exit of the new underpass."
   },
   {
     "german": "unterbrechen",
@@ -24383,7 +24527,9 @@
     "english": "to interrupt",
     "pos": "verb",
     "past": "unterbrach",
-    "perfect": "hat unterbrochen"
+    "perfect": "hat unterbrochen",
+    "example_de": "Bitte unterbrechen Sie mich nicht ständig, wenn ich spreche.",
+    "example_en": "Please do not interrupt me constantly when I am speaking."
   },
   {
     "german": "unterhalten",
@@ -24391,28 +24537,36 @@
     "english": "to talk, to converse, to entertain",
     "pos": "verb",
     "past": "unterhielt",
-    "perfect": "hat unterhalten"
+    "perfect": "hat unterhalten",
+    "example_de": "Wir haben uns den ganzen Abend auf der Party gut unterhalten.",
+    "example_en": "We conversed well the whole evening at the party."
   },
   {
     "german": "die Unterhaltung",
     "level": "B1",
     "english": "conversation, entertainment",
     "pos": "noun",
-    "plural": "die Unterhaltungen"
+    "plural": "die Unterhaltungen",
+    "example_de": "Die lange Unterhaltung mit dem Lehrer war für mich sehr hilfreich.",
+    "example_en": "The long conversation with the teacher was very helpful for me."
   },
   {
     "german": "die Unterkunft",
     "level": "A1",
     "english": "accommodation",
     "pos": "noun",
-    "plural": "die Unterkünfte"
+    "plural": "die Unterkünfte",
+    "example_de": "Wir haben leider noch keine günstige Unterkunft für unseren Urlaub gefunden.",
+    "example_en": "Unfortunately, we haven't found cheap accommodation for our vacation yet."
   },
   {
     "german": "die Unterlagen",
     "level": "B1",
     "english": "documents",
     "pos": "noun",
-    "plural": "die Unterlagen"
+    "plural": "die Unterlagen",
+    "example_de": "Bitte bringen Sie alle wichtigen Unterlagen zum Meeting morgen mit.",
+    "example_en": "Please bring all important documents with you to the meeting tomorrow."
   },
   {
     "german": "unterlassen",
@@ -24420,7 +24574,9 @@
     "english": "to refrain from, to cease",
     "pos": "verb",
     "past": "unterließ",
-    "perfect": "hat unterlassen"
+    "perfect": "hat unterlassen",
+    "example_de": "Wir bitten Sie höflich, das laute Musikhören nach Mitternacht zu unterlassen.",
+    "example_en": "We politely ask you to refrain from listening to loud music after midnight."
   },
   {
     "german": "unternehmen",
@@ -24428,21 +24584,27 @@
     "english": "to undertake, to do",
     "pos": "verb",
     "past": "unternahm",
-    "perfect": "hat unternommen"
+    "perfect": "hat unternommen",
+    "example_de": "Was wollen wir eigentlich dieses Wochenende Schönes zusammen unternehmen?",
+    "example_en": "What nice things do we actually want to do together this weekend?"
   },
   {
     "german": "der Unternehmer",
     "level": "B1",
     "english": "entrepreneur",
     "pos": "noun",
-    "plural": "die Unternehmer"
+    "plural": "die Unternehmer",
+    "example_de": "Der junge Unternehmer hat mit seiner neuen Firma sehr viel Erfolg.",
+    "example_en": "The young entrepreneur is very successful with his new company."
   },
   {
     "german": "der Unterricht",
     "level": "A1",
     "english": "class, instruction",
     "pos": "noun",
-    "plural": "die Unterrichte"
+    "plural": "die Unterrichte",
+    "example_de": "Der Unterricht in Biologie beginnt morgen schon um acht Uhr.",
+    "example_en": "The biology class begins already at eight o'clock tomorrow."
   },
   {
     "german": "unterrichten",
@@ -24450,13 +24612,17 @@
     "english": "to teach",
     "pos": "verb",
     "past": "unterrichtete",
-    "perfect": "hat unterrichtet"
+    "perfect": "hat unterrichtet",
+    "example_de": "Dieser Lehrer unterrichtet seit zehn Jahren Mathematik und Physik an der Schule.",
+    "example_en": "This teacher has been teaching mathematics and physics at the school for ten years."
   },
   {
     "german": "untersagt",
     "level": "B1",
     "english": "prohibited, forbidden",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Mitbringen von großen Hunden ist in diesem Museum streng untersagt.",
+    "example_en": "Bringing large dogs is strictly prohibited in this museum."
   },
   {
     "german": "unterscheiden",
@@ -24464,20 +24630,26 @@
     "english": "to distinguish",
     "pos": "verb",
     "past": "unterschied",
-    "perfect": "hat unterschieden"
+    "perfect": "hat unterschieden",
+    "example_de": "Man kann die beiden Schwestern nur sehr schwer voneinander unterscheiden.",
+    "example_en": "One can distinguish the two sisters from each other only with great difficulty."
   },
   {
     "german": "der Unterschied",
     "level": "A1",
     "english": "difference",
     "pos": "noun",
-    "plural": "die Unterschiede"
+    "plural": "die Unterschiede",
+    "example_de": "Ich sehe wirklich keinen großen Unterschied zwischen diesen zwei Autos.",
+    "example_en": "I really don't see a big difference between these two cars."
   },
   {
     "german": "unterschiedlich",
     "level": "B1",
     "english": "different",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Jeder Mensch hat ganz unterschiedliche Interessen und Hobbys.",
+    "example_en": "Every person has completely different interests and hobbies."
   },
   {
     "german": "unterschreiben",
@@ -24485,14 +24657,18 @@
     "english": "to sign",
     "pos": "verb",
     "past": "unterschrieb",
-    "perfect": "hat unterschrieben"
+    "perfect": "hat unterschrieben",
+    "example_de": "Bitte unterschreiben Sie den wichtigen Vertrag auf der allerletzten Seite.",
+    "example_en": "Please sign the important contract on the very last page."
   },
   {
     "german": "die Unterschrift",
     "level": "A2",
     "english": "signature",
     "pos": "noun",
-    "plural": "die Unterschriften"
+    "plural": "die Unterschriften",
+    "example_de": "Für dieses Formular brauche ich unbedingt noch Ihre persönliche Unterschrift.",
+    "example_en": "I absolutely still need your personal signature for this form."
   },
   {
     "german": "unterstreichen",
@@ -24500,7 +24676,9 @@
     "english": "to underline",
     "pos": "verb",
     "past": "unterstrich",
-    "perfect": "hat unterstrichen"
+    "perfect": "hat unterstrichen",
+    "example_de": "Bitte unterstreichen Sie beim Lesen alle neuen und schwierigen Wörter.",
+    "example_en": "Please underline all new and difficult words while reading."
   },
   {
     "german": "unterstützen",
@@ -24508,14 +24686,18 @@
     "english": "to support",
     "pos": "verb",
     "past": "unterstützte",
-    "perfect": "hat unterstützt"
+    "perfect": "hat unterstützt",
+    "example_de": "Wir müssen kleine Firmen in unserer Stadt mehr finanziell unterstützen.",
+    "example_en": "We need to financially support small businesses in our city more."
   },
   {
     "german": "die Unterstützung",
     "level": "B1",
     "english": "support",
     "pos": "noun",
-    "plural": "die Unterstützungen"
+    "plural": "die Unterstützungen",
+    "example_de": "Vielen herzlichen Dank für Ihre große Hilfe und tolle Unterstützung beim Projekt.",
+    "example_en": "Many heartfelt thanks for your great help and great support with the project."
   },
   {
     "german": "untersuchen",
@@ -24523,66 +24705,86 @@
     "english": "to examine, to investigate",
     "pos": "verb",
     "past": "untersuchte",
-    "perfect": "hat untersucht"
+    "perfect": "hat untersucht",
+    "example_de": "Der Arzt muss den Patienten nach dem Unfall sofort gründlich untersuchen.",
+    "example_en": "The doctor must examine the patient thoroughly immediately after the accident."
   },
   {
     "german": "die Untersuchung",
     "level": "B1",
     "english": "examination",
     "pos": "noun",
-    "plural": "die Untersuchungen"
+    "plural": "die Untersuchungen",
+    "example_de": "Die medizinische Untersuchung im Krankenhaus dauert nur etwa zehn Minuten.",
+    "example_en": "The medical examination at the hospital takes only about ten minutes."
   },
   {
     "german": "unterwegs",
     "level": "B1",
     "english": "on the way",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich bin schon lange unterwegs und komme in fünf Minuten endlich an.",
+    "example_en": "I have been on the way for a long time and will finally arrive in five minutes."
   },
   {
     "german": "unterwegs sein",
     "level": "A2",
     "english": "to be on the way",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Wir werden am Wochenende wieder sehr viel mit dem Auto unterwegs sein.",
+    "example_en": "We will be on the way a lot by car again on the weekend."
   },
   {
     "german": "die Urkunde",
     "level": "B1",
     "english": "certificate, deed",
     "pos": "noun",
-    "plural": "die Urkunden"
+    "plural": "die Urkunden",
+    "example_de": "Nach dem Rennen bekam jeder junge Teilnehmer eine schöne Urkunde als Belohnung.",
+    "example_en": "After the race, every young participant received a beautiful certificate as a reward."
   },
   {
     "german": "der Urlaub",
     "level": "A1",
     "english": "vacation, holiday",
     "pos": "noun",
-    "plural": "die Urlaube"
+    "plural": "die Urlaube",
+    "example_de": "Wir fliegen nächsten Monat für unseren Sommerurlaub nach Spanien ans Meer.",
+    "example_en": "We are flying to Spain to the sea for our summer vacation next month."
   },
   {
     "german": "die Ursache",
     "level": "B1",
     "english": "cause",
     "pos": "noun",
-    "plural": "die Ursachen"
+    "plural": "die Ursachen",
+    "example_de": "Die genaue Ursache für das große Feuer im Haus ist noch völlig unbekannt.",
+    "example_en": "The exact cause for the big fire in the house is still completely unknown."
   },
   {
     "german": "ursprünglich",
     "level": "B1",
     "english": "originally",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Dieses alte Gebäude war ursprünglich mal eine große Schule für Jungen.",
+    "example_en": "This old building was originally a large school for boys once."
   },
   {
     "german": "das Urteil",
     "level": "B1",
     "english": "judgment, verdict",
     "pos": "noun",
-    "plural": "die Urteile"
+    "plural": "die Urteile",
+    "example_de": "Der strenge Richter wird sein Urteil am Ende des langen Prozesses sprechen.",
+    "example_en": "The strict judge will pronounce his verdict at the end of the long trial."
   },
   {
     "german": "usw.",
     "level": "A2",
     "english": "etc. (et cetera)",
-    "pos": "abbreviation"
+    "pos": "abbreviation",
+    "example_de": "Im neuen Supermarkt gibt es frisches Brot, Obst, Gemüse, Fleisch usw.",
+    "example_en": "In the new supermarket there is fresh bread, fruit, vegetables, meat, etc."
   },
   {
     "german": "üben",
@@ -24590,19 +24792,25 @@
     "english": "to practice",
     "pos": "verb",
     "past": "übte",
-    "perfect": "hat geübt"
+    "perfect": "hat geübt",
+    "example_de": "Du musst für das Konzert morgen jeden Tag ein paar Stunden Klavier üben.",
+    "example_en": "You must practice the piano a few hours every day for the concert tomorrow."
   },
   {
     "german": "über",
     "level": "A1",
     "english": "over, about, across",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Das schöne neue Bild hängt jetzt direkt über dem gemütlichen Sofa.",
+    "example_en": "The beautiful new picture now hangs right over the comfortable sofa."
   },
   {
     "german": "überall",
     "level": "A1",
     "english": "everywhere",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich habe wirklich überall in der Wohnung nach meinem kleinen Schlüssel gesucht.",
+    "example_en": "I really looked everywhere in the apartment for my small key."
   },
   {
     "german": "überfahren",
@@ -24610,13 +24818,17 @@
     "english": "to run over",
     "pos": "verb",
     "past": "überfuhr",
-    "perfect": "hat überfahren"
+    "perfect": "hat überfahren",
+    "example_de": "Der schnelle Autofahrer hätte beinahe den kleinen Hund auf der Straße überfahren.",
+    "example_en": "The fast driver almost ran over the little dog on the street."
   },
   {
     "german": "überhaupt",
     "level": "B1",
     "english": "at all, generally",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich verstehe leider überhaupt nicht, was dieses komplizierte Wort eigentlich bedeutet.",
+    "example_en": "Unfortunately, I do not understand at all what this complicated word actually means."
   },
   {
     "german": "überholen",
@@ -24624,7 +24836,9 @@
     "english": "to overtake",
     "pos": "verb",
     "past": "überholte",
-    "perfect": "hat überholt"
+    "perfect": "hat überholt",
+    "example_de": "Auf dieser engen Straße ist es viel zu gefährlich, andere Autos zu überholen.",
+    "example_en": "On this narrow road it is much too dangerous to overtake other cars."
   },
   {
     "german": "überlegen",
@@ -24632,13 +24846,17 @@
     "english": "to consider, to think over",
     "pos": "verb",
     "past": "überlegte",
-    "perfect": "hat überlegt"
+    "perfect": "hat überlegt",
+    "example_de": "Ich muss mir wirklich noch gut überlegen, ob ich dieses Haus kaufe.",
+    "example_en": "I really have to think it over well if I buy this house."
   },
   {
     "german": "übermorgen",
     "level": "A2",
     "english": "the day after tomorrow",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wir fahren übermorgen ganz früh am Morgen in den Urlaub ans Meer.",
+    "example_en": "We are going on vacation to the sea very early in the morning the day after tomorrow."
   },
   {
     "german": "übernachten",
@@ -24646,14 +24864,18 @@
     "english": "to stay overnight",
     "pos": "verb",
     "past": "übernachtete",
-    "perfect": "hat übernachtet"
+    "perfect": "hat übernachtet",
+    "example_de": "Wir werden bei unserer langen Reise heute in einem kleinen Hotel übernachten.",
+    "example_en": "We will stay overnight in a small hotel during our long trip today."
   },
   {
     "german": "die Übernachtung",
     "level": "B1",
     "english": "overnight stay",
     "pos": "noun",
-    "plural": "die Übernachtungen"
+    "plural": "die Übernachtungen",
+    "example_de": "Die Übernachtung in diesem teuren Hotel kostet leider sehr viel Geld.",
+    "example_en": "The overnight stay in this expensive hotel unfortunately costs a lot of money."
   },
   {
     "german": "übernehmen",
@@ -24661,7 +24883,9 @@
     "english": "to take over",
     "pos": "verb",
     "past": "übernahm",
-    "perfect": "hat übernommen"
+    "perfect": "hat übernommen",
+    "example_de": "Mein Kollege ist krank, also werde ich seine wichtige Aufgabe heute übernehmen.",
+    "example_en": "My colleague is sick, so I will take over his important task today."
   },
   {
     "german": "überprüfen",
@@ -24669,7 +24893,9 @@
     "english": "to check, to verify",
     "pos": "verb",
     "past": "überprüfte",
-    "perfect": "hat überprüft"
+    "perfect": "hat überprüft",
+    "example_de": "Bitte überprüfen Sie die gesamte Rechnung noch einmal genau auf kleine Fehler.",
+    "example_en": "Please check the entire bill carefully once again for small mistakes."
   },
   {
     "german": "überqueren",
@@ -24677,7 +24903,9 @@
     "english": "to cross",
     "pos": "verb",
     "past": "überquerte",
-    "perfect": "hat überquert"
+    "perfect": "hat überquert",
+    "example_de": "Die kleinen Kinder dürfen diese breite Straße nicht ohne Eltern überqueren.",
+    "example_en": "The small children must not cross this wide street without parents."
   },
   {
     "german": "überraschen",
@@ -24685,14 +24913,18 @@
     "english": "to surprise",
     "pos": "verb",
     "past": "überraschte",
-    "perfect": "hat überrascht"
+    "perfect": "hat überrascht",
+    "example_de": "Wir wollen unsere liebe Oma morgen zu ihrem runden Geburtstag überraschen.",
+    "example_en": "We want to surprise our dear grandma tomorrow for her milestone birthday."
   },
   {
     "german": "die Überraschung",
     "level": "B1",
     "english": "surprise",
     "pos": "noun",
-    "plural": "die Überraschungen"
+    "plural": "die Überraschungen",
+    "example_de": "Sein unerwarteter Besuch am Wochenende war eine wirklich große Überraschung für uns.",
+    "example_en": "His unexpected visit on the weekend was a really big surprise for us."
   },
   {
     "german": "überreden",
@@ -24700,14 +24932,18 @@
     "english": "to persuade",
     "pos": "verb",
     "past": "überredete",
-    "perfect": "hat überredet"
+    "perfect": "hat überredet",
+    "example_de": "Ich konnte meinen Bruder schließlich überreden, mit uns ins Kino zu gehen.",
+    "example_en": "I was finally able to persuade my brother to go to the cinema with us."
   },
   {
     "german": "die Überschrift",
     "level": "B1",
     "english": "headline, heading",
     "pos": "noun",
-    "plural": "die Überschriften"
+    "plural": "die Überschriften",
+    "example_de": "Die große Überschrift in der heutigen Zeitung ist sehr schockierend für viele Leser.",
+    "example_en": "The big headline in today's newspaper is very shocking for many readers."
   },
   {
     "german": "übersetzen",
@@ -24715,28 +24951,36 @@
     "english": "to translate",
     "pos": "verb",
     "past": "übersetzte",
-    "perfect": "hat übersetzt"
+    "perfect": "hat übersetzt",
+    "example_de": "Könnten Sie diesen wichtigen englischen Text bitte schnell für mich ins Deutsche übersetzen?",
+    "example_en": "Could you please quickly translate this important English text into German for me?"
   },
   {
     "german": "der Übersetzer",
     "level": "B1",
     "english": "translator",
     "pos": "noun",
-    "plural": "die Übersetzer"
+    "plural": "die Übersetzer",
+    "example_de": "Der erfahrene Übersetzer arbeitet sehr schnell und macht fast nie einen Fehler.",
+    "example_en": "The experienced translator works very fast and almost never makes a mistake."
   },
   {
     "german": "die Übersetzung",
     "level": "A2",
     "english": "translation",
     "pos": "noun",
-    "plural": "die Übersetzungen"
+    "plural": "die Übersetzungen",
+    "example_de": "Die deutsche Übersetzung dieses neuen Buches ist wirklich außerordentlich gut gelungen.",
+    "example_en": "The German translation of this new book turned out really exceptionally well."
   },
   {
     "german": "die Überstunde",
     "level": "B1",
     "english": "overtime",
     "pos": "noun",
-    "plural": "die Überstunden"
+    "plural": "die Überstunden",
+    "example_de": "Wegen der vielen Arbeit im Büro muss er heute leider viele Überstunden machen.",
+    "example_en": "Because of the large amount of work in the office, he unfortunately has to do a lot of overtime today."
   },
   {
     "german": "übertreiben",
@@ -24744,7 +24988,9 @@
     "english": "to exaggerate",
     "pos": "verb",
     "past": "übertrieb",
-    "perfect": "hat übertrieben"
+    "perfect": "hat übertrieben",
+    "example_de": "Ich glaube, in dieser Geschichte hat er ein kleines bisschen übertrieben.",
+    "example_en": "I think he exaggerated a little bit in this story."
   },
   {
     "german": "überweisen",
@@ -24752,14 +24998,18 @@
     "english": "to transfer (money)",
     "pos": "verb",
     "past": "überwies",
-    "perfect": "hat überwiesen"
+    "perfect": "hat überwiesen",
+    "example_de": "Ich werde das Geld für die Miete gleich morgen früh auf Ihr Konto überweisen.",
+    "example_en": "I will transfer the money for the rent to your account right away tomorrow morning."
   },
   {
     "german": "die Überweisung",
     "level": "B1",
     "english": "transfer, referral",
     "pos": "noun",
-    "plural": "die Überweisungen"
+    "plural": "die Überweisungen",
+    "example_de": "Die Überweisung des großen Betrags dauerte bei dieser Bank leider fast drei Tage.",
+    "example_en": "The transfer of the large amount unfortunately took almost three days at this bank."
   },
   {
     "german": "überzeugen",
@@ -24767,59 +25017,77 @@
     "english": "to convince",
     "pos": "verb",
     "past": "überzeugte",
-    "perfect": "hat überzeugt"
+    "perfect": "hat überzeugt",
+    "example_de": "Sein gutes Argument konnte mich schließlich völlig von seiner tollen Idee überzeugen.",
+    "example_en": "His good argument was finally able to completely convince me of his great idea."
   },
   {
     "german": "die Überzeugung",
     "level": "B1",
     "english": "conviction",
     "pos": "noun",
-    "plural": "die Überzeugungen"
+    "plural": "die Überzeugungen",
+    "example_de": "Es ist meine feste Überzeugung, dass wir diesen Fehler nicht machen dürfen.",
+    "example_en": "It is my firm conviction that we must not make this mistake."
   },
   {
     "german": "üblich",
     "level": "B1",
     "english": "usual, common",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Es ist hier im Restaurant üblich, dass man dem Kellner ein kleines Trinkgeld gibt.",
+    "example_en": "It is common here in the restaurant that you give the waiter a small tip."
   },
   {
     "german": "übrig",
     "level": "B1",
     "english": "left over, remaining",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Vom Mittagessen ist zum Glück noch ein großes Stück Pizza für mich übrig.",
+    "example_en": "Fortunately, there is still a large piece of pizza left over for me from lunch."
   },
   {
     "german": "übrigens",
     "level": "B1",
     "english": "by the way",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Übrigens, ich habe gestern ganz zufällig deinen alten Freund in der Stadt gesehen.",
+    "example_en": "By the way, I saw your old friend completely by chance in the city yesterday."
   },
   {
     "german": "die Übung",
     "level": "B1",
     "english": "exercise",
     "pos": "noun",
-    "plural": "die Übungen"
+    "plural": "die Übungen",
+    "example_de": "Diese grammatikalische Übung im Buch ist leider sehr schwer für mich zu verstehen.",
+    "example_en": "This grammatical exercise in the book is unfortunately very difficult for me to understand."
   },
   {
     "german": "die Vase",
     "level": "B1",
     "english": "vase",
     "pos": "noun",
-    "plural": "die Vasen"
+    "plural": "die Vasen",
+    "example_de": "Die schönen roten Rosen stehen in der großen blauen Vase auf dem Tisch.",
+    "example_en": "The beautiful red roses are in the large blue vase on the table."
   },
   {
     "german": "der Vater",
     "level": "A1",
     "english": "father",
     "pos": "noun",
-    "plural": "die Väter"
+    "plural": "die Väter",
+    "example_de": "Mein Vater arbeitet schon seit über zehn Jahren in dieser Firma als Ingenieur.",
+    "example_en": "My father has been working in this company as an engineer for over ten years."
   },
   {
     "german": "vegetarisch",
     "level": "B1",
     "english": "vegetarian",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Wir haben für unsere Gäste heute auch eine sehr leckere vegetarische Option gekocht.",
+    "example_en": "We also cooked a very delicious vegetarian option for our guests today."
   },
   {
     "german": "verabreden",
@@ -24827,13 +25095,17 @@
     "english": "to arrange a meeting, to make an appointment",
     "pos": "verb",
     "past": "verabredete",
-    "perfect": "hat verabredet"
+    "perfect": "hat verabredet",
+    "example_de": "Wir sollten uns morgen Nachmittag verabreden, um dieses Thema in Ruhe zu besprechen.",
+    "example_en": "We should arrange a meeting tomorrow afternoon to discuss this topic in peace."
   },
   {
     "german": "verabredet sein",
     "level": "A2",
     "english": "to have an appointment, to be arranged",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Tut mir leid, aber ich bin heute Abend leider schon mit Freunden zum Essen verabredet.",
+    "example_en": "I'm sorry, but unfortunately I already have an appointment to eat with friends tonight."
   },
   {
     "german": "verabschieden",
@@ -24841,7 +25113,9 @@
     "english": "to say goodbye",
     "pos": "verb",
     "past": "verabschiedete",
-    "perfect": "hat verabschiedet"
+    "perfect": "hat verabschiedet",
+    "example_de": "Wir müssen uns jetzt leider von unseren lieben Gästen am Bahnhof verabschieden.",
+    "example_en": "We unfortunately have to say goodbye to our dear guests at the train station now."
   },
   {
     "german": "verändern",
@@ -24849,20 +25123,26 @@
     "english": "to change",
     "pos": "verb",
     "past": "veränderte",
-    "perfect": "hat verändert"
+    "perfect": "hat verändert",
+    "example_de": "Die Zeit hat die kleine Stadt im Laufe der Jahre sehr stark verändert.",
+    "example_en": "Time has changed the small town very strongly over the years."
   },
   {
     "german": "die Veranstaltung",
     "level": "A2",
     "english": "event",
     "pos": "noun",
-    "plural": "die Veranstaltungen"
+    "plural": "die Veranstaltungen",
+    "example_de": "Diese musikalische Veranstaltung am Wochenende wird sicherlich sehr viele Besucher anziehen.",
+    "example_en": "This musical event on the weekend will certainly attract a lot of visitors."
   },
   {
     "german": "verantwortlich",
     "level": "B1",
     "english": "responsible",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Wer genau ist eigentlich für diesen dummen Fehler in der Planung verantwortlich?",
+    "example_en": "Who exactly is actually responsible for this stupid mistake in the planning?"
   },
   {
     "german": "verbessern",
@@ -24870,7 +25150,9 @@
     "english": "to improve",
     "pos": "verb",
     "past": "verbesserte",
-    "perfect": "hat verbessert"
+    "perfect": "hat verbessert",
+    "example_de": "Ich lerne jeden Tag fleißig Vokabeln, um mein schlechtes Englisch schnell zu verbessern.",
+    "example_en": "I diligently learn vocabulary every day to quickly improve my poor English."
   },
   {
     "german": "verbieten",
@@ -24878,7 +25160,9 @@
     "english": "to forbid, to prohibit",
     "pos": "verb",
     "past": "verbot",
-    "perfect": "hat verboten"
+    "perfect": "hat verboten",
+    "example_de": "Der strenge Arzt hat ihm das Rauchen wegen seiner Lunge komplett verboten.",
+    "example_en": "The strict doctor has completely forbidden him to smoke because of his lungs."
   },
   {
     "german": "verbinden",
@@ -24886,20 +25170,26 @@
     "english": "to connect, to bandage",
     "pos": "verb",
     "past": "verband",
-    "perfect": "hat verbunden"
+    "perfect": "hat verbunden",
+    "example_de": "Eine neue große Brücke wird die beiden kleinen Städte bald direkt miteinander verbinden.",
+    "example_en": "A new large bridge will soon directly connect the two small cities with each other."
   },
   {
     "german": "die Verbindung",
     "level": "B1",
     "english": "connection",
     "pos": "noun",
-    "plural": "die Verbindungen"
+    "plural": "die Verbindungen",
+    "example_de": "Die drahtlose Internetverbindung in diesem Hotel ist leider immer sehr extrem langsam.",
+    "example_en": "The wireless internet connection in this hotel is unfortunately always very extremely slow."
   },
   {
     "german": "verboten",
     "level": "A1",
     "english": "forbidden, prohibited",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Schwimmen in diesem gefährlichen See ist für alle Leute strengstens verboten.",
+    "example_en": "Swimming in this dangerous lake is strictly forbidden for all people."
   },
   {
     "german": "verbrauchen",
@@ -24907,14 +25197,18 @@
     "english": "to consume, to use up",
     "pos": "verb",
     "past": "verbrauchte",
-    "perfect": "hat verbraucht"
+    "perfect": "hat verbraucht",
+    "example_de": "Dieses alte und große Auto wird auf der langen Fahrt leider sehr viel Benzin verbrauchen.",
+    "example_en": "This old and large car will unfortunately consume a lot of gas on the long trip."
   },
   {
     "german": "der Verbrecher",
     "level": "B1",
     "english": "criminal",
     "pos": "noun",
-    "plural": "die Verbrecher"
+    "plural": "die Verbrecher",
+    "example_de": "Die mutige Polizei konnte den gesuchten Verbrecher schließlich nach zwei Tagen fassen.",
+    "example_en": "The brave police were finally able to catch the wanted criminal after two days."
   },
   {
     "german": "verbringen",
@@ -24922,7 +25216,9 @@
     "english": "to spend (time)",
     "pos": "verb",
     "past": "verbrachte",
-    "perfect": "hat verbracht"
+    "perfect": "hat verbracht",
+    "example_de": "Wir verbringen unseren schönen Urlaub in diesem Jahr sehr gerne gemeinsam am Meer.",
+    "example_en": "We really like spending our beautiful vacation together at the sea this year."
   },
   {
     "german": "verdienen",
@@ -24930,14 +25226,18 @@
     "english": "to earn",
     "pos": "verb",
     "past": "verdiente",
-    "perfect": "hat verdient"
+    "perfect": "hat verdient",
+    "example_de": "Sie wird in ihrem neuen Job als Managerin wahrscheinlich sehr viel Geld verdienen.",
+    "example_en": "She will probably earn a lot of money in her new job as a manager."
   },
   {
     "german": "der Verein",
     "level": "A1",
     "english": "club, association",
     "pos": "noun",
-    "plural": "die Vereine"
+    "plural": "die Vereine",
+    "example_de": "Mein Sohn spielt schon seit fünf Jahren sehr aktiv Fußball in einem kleinen Verein.",
+    "example_en": "My son has been playing soccer very actively in a small club for five years already."
   },
   {
     "german": "vereinbaren",
@@ -24945,7 +25245,9 @@
     "english": "to arrange, to agree on",
     "pos": "verb",
     "past": "vereinbarte",
-    "perfect": "hat vereinbart"
+    "perfect": "hat vereinbart",
+    "example_de": "Wir sollten am besten bald einen Termin für unser nächstes wichtiges Meeting vereinbaren.",
+    "example_en": "We had better arrange an appointment for our next important meeting soon."
   },
   {
     "german": "vergessen",
@@ -24953,7 +25255,9 @@
     "english": "to forget",
     "pos": "verb",
     "past": "vergaß",
-    "perfect": "hat vergessen"
+    "perfect": "hat vergessen",
+    "example_de": "Ich habe in der Eile heute Morgen leider völlig vergessen, meinen Haustürschlüssel mitzunehmen.",
+    "example_en": "In the rush this morning, I unfortunately completely forgot to take my front door key."
   },
   {
     "german": "vergleichen",
@@ -24961,7 +25265,9 @@
     "english": "to compare",
     "pos": "verb",
     "past": "verglich",
-    "perfect": "hat verglichen"
+    "perfect": "hat verglichen",
+    "example_de": "Man kann die hohen Preise in der großen Stadt nicht mit denen im Dorf vergleichen.",
+    "example_en": "One cannot compare the high prices in the large city with those in the village."
   },
   {
     "german": "vergrößern",
@@ -24969,7 +25275,9 @@
     "english": "to enlarge",
     "pos": "verb",
     "past": "vergrößerte",
-    "perfect": "hat vergrößert"
+    "perfect": "hat vergrößert",
+    "example_de": "Wir wollen unser altes Haus im nächsten Jahr für die Kinder etwas vergrößern.",
+    "example_en": "We want to enlarge our old house a little bit for the children next year."
   },
   {
     "german": "verhalten",
@@ -24977,13 +25285,17 @@
     "english": "to behave",
     "pos": "verb",
     "past": "verhielt",
-    "perfect": "hat verhalten"
+    "perfect": "hat verhalten",
+    "example_de": "Die kleinen Kinder haben sich während des ganzen Konzerts wirklich sehr gut und ruhig verhalten.",
+    "example_en": "The little children behaved really very well and quietly during the whole concert."
   },
   {
     "german": "verheiratet",
     "level": "A1",
     "english": "married",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Mein älterer Bruder ist schon seit über zehn Jahren sehr glücklich mit seiner Frau verheiratet.",
+    "example_en": "My older brother has been very happily married to his wife for over ten years already."
   },
   {
     "german": "verhindern",
@@ -24991,7 +25303,9 @@
     "english": "to prevent",
     "pos": "verb",
     "past": "verhinderte",
-    "perfect": "hat verhindert"
+    "perfect": "hat verhindert",
+    "example_de": "Wir müssen alle zusammen versuchen, dieses große Problem für die Zukunft unbedingt zu verhindern.",
+    "example_en": "We all together must try to absolutely prevent this big problem for the future."
   },
   {
     "german": "verkaufen",
@@ -24999,35 +25313,45 @@
     "english": "to sell",
     "pos": "verb",
     "past": "verkaufte",
-    "perfect": "hat verkauft"
+    "perfect": "hat verkauft",
+    "example_de": "Ich möchte mein altes rotes Auto am Wochenende so schnell wie möglich günstig verkaufen.",
+    "example_en": "I want to sell my old red car cheaply as quickly as possible on the weekend."
   },
   {
     "german": "der Verkäufer",
     "level": "A1",
     "english": "salesperson",
     "pos": "noun",
-    "plural": "die Verkäufer"
+    "plural": "die Verkäufer",
+    "example_de": "Der nette Verkäufer im kleinen Geschäft hat mir bei meiner Entscheidung sehr viel geholfen.",
+    "example_en": "The nice salesperson in the small store helped me a lot with my decision."
   },
   {
     "german": "die Verkäuferin",
     "level": "A2",
     "english": "salesperson (female)",
     "pos": "noun",
-    "plural": "die Verkäuferinnen"
+    "plural": "die Verkäuferinnen",
+    "example_de": "Die freundliche Verkäuferin im Laden zeigte mir sofort die besten frischen Äpfel von heute.",
+    "example_en": "The friendly saleswoman in the store immediately showed me the best fresh apples of today."
   },
   {
     "german": "der Verkehr",
     "level": "A2",
     "english": "traffic",
     "pos": "noun",
-    "plural": "die Verkehre"
+    "plural": "die Verkehre",
+    "example_de": "Auf dieser langen Straße gibt es morgens wegen der Schule immer extrem viel lauten Verkehr.",
+    "example_en": "On this long street there is always extremely a lot of loud traffic in the morning because of the school."
   },
   {
     "german": "das Verkehrsmittel",
     "level": "A2",
     "english": "means of transport",
     "pos": "noun",
-    "plural": "die Verkehrsmittel"
+    "plural": "die Verkehrsmittel",
+    "example_de": "Das Fahrrad ist in unserer vollen Stadt ein wirklich sehr praktisches und umweltfreundliches Verkehrsmittel.",
+    "example_en": "The bicycle is a really very practical and environmentally friendly means of transport in our crowded city."
   },
   {
     "german": "verlangen",
@@ -25035,7 +25359,9 @@
     "english": "to demand, to require",
     "pos": "verb",
     "past": "verlangte",
-    "perfect": "hat verlangt"
+    "perfect": "hat verlangt",
+    "example_de": "Der strenge Lehrer wird von seinen vielen Schülern in diesem Jahr sicher noch mehr Fleiß verlangen.",
+    "example_en": "The strict teacher will surely demand even more diligence from his many students this year."
   },
   {
     "german": "verlängern",
@@ -25043,7 +25369,9 @@
     "english": "to extend, to renew",
     "pos": "verb",
     "past": "verlängerte",
-    "perfect": "hat verlängert"
+    "perfect": "hat verlängert",
+    "example_de": "Ich muss nächste Woche unbedingt auf das Amt gehen, um meinen alten Reisepass zu verlängern.",
+    "example_en": "I absolutely have to go to the office next week to renew my old passport."
   },
   {
     "german": "verlassen",
@@ -25051,7 +25379,9 @@
     "english": "to leave, to rely on",
     "pos": "verb",
     "past": "verließ",
-    "perfect": "hat verlassen"
+    "perfect": "hat verlassen",
+    "example_de": "Er hat das große Haus gestern wegen des Streits plötzlich völlig ohne ein Wort verlassen.",
+    "example_en": "He suddenly left the large house yesterday without a word because of the argument."
   },
   {
     "german": "verletzen",
@@ -25059,7 +25389,9 @@
     "english": "to injure, to hurt",
     "pos": "verb",
     "past": "verletzte",
-    "perfect": "hat verletzt"
+    "perfect": "hat verletzt",
+    "example_de": "Beim Fußballspielen am Wochenende hat er sich leider sehr schmerzhaft am rechten Bein verletzt.",
+    "example_en": "While playing soccer on the weekend, he unfortunately injured his right leg very painfully."
   },
   {
     "german": "verlieben",
@@ -25067,7 +25399,9 @@
     "english": "to fall in love",
     "pos": "verb",
     "past": "verliebte",
-    "perfect": "hat verliebt"
+    "perfect": "hat verliebt",
+    "example_de": "Sie wird sich in diesen netten, intelligenten Mann bestimmt sehr schnell und tief verlieben.",
+    "example_en": "She will certainly fall in love with this nice, intelligent man very quickly and deeply."
   },
   {
     "german": "verlieren",
@@ -25075,7 +25409,9 @@
     "english": "to lose",
     "pos": "verb",
     "past": "verlor",
-    "perfect": "hat verloren"
+    "perfect": "hat verloren",
+    "example_de": "Ich möchte dieses wichtige und entscheidende Spiel gegen meinen Bruder wirklich auf gar keinen Fall verlieren.",
+    "example_en": "I really do not want to lose this important and decisive game against my brother under any circumstances."
   },
   {
     "german": "vermeiden",
@@ -25083,7 +25419,9 @@
     "english": "to avoid",
     "pos": "verb",
     "past": "vermied",
-    "perfect": "hat vermieden"
+    "perfect": "hat vermieden",
+    "example_de": "Wir sollten diese großen Fehler in der Zukunft bei neuen Projekten unbedingt konsequent vermeiden.",
+    "example_en": "We should absolutely consistently avoid these big mistakes in the future on new projects."
   },
   {
     "german": "vermieten",
@@ -25091,21 +25429,27 @@
     "english": "to rent out, to let",
     "pos": "verb",
     "past": "vermietete",
-    "perfect": "hat vermietet"
+    "perfect": "hat vermietet",
+    "example_de": "Wir werden unsere schöne helle Wohnung im Zentrum für das nächste Jahr gerne an Studenten vermieten.",
+    "example_en": "We will gladly rent out our beautiful bright apartment in the center to students for the next year."
   },
   {
     "german": "der Vermieter",
     "level": "A1",
     "english": "landlord",
     "pos": "noun",
-    "plural": "die Vermieter"
+    "plural": "die Vermieter",
+    "example_de": "Der neue Vermieter unseres Hauses möchte die monatliche Miete im nächsten Jahr leider deutlich erhöhen.",
+    "example_en": "The new landlord of our house unfortunately wants to significantly increase the monthly rent next year."
   },
   {
     "german": "die Vermieterin",
     "level": "A2",
     "english": "landlady",
     "pos": "noun",
-    "plural": "die Vermieterinnen"
+    "plural": "die Vermieterinnen",
+    "example_de": "Unsere freundliche Vermieterin hat am Wochenende für alle Leute im ganzen Haus einen leckeren Kuchen gebacken.",
+    "example_en": "Our friendly landlady baked a delicious cake for all the people in the whole house on the weekend."
   },
   {
     "german": "veröffentlichen",
@@ -25113,7 +25457,9 @@
     "english": "to publish",
     "pos": "verb",
     "past": "veröffentlichte",
-    "perfect": "hat veröffentlicht"
+    "perfect": "hat veröffentlicht",
+    "example_de": "Der bekannte Autor plant, sein komplett neues und spannendes Buch noch vor Weihnachten zu veröffentlichen.",
+    "example_en": "The well-known author plans to publish his completely new and exciting book before Christmas."
   },
   {
     "german": "verpassen",
@@ -25121,7 +25467,9 @@
     "english": "to miss (a bus, etc.)",
     "pos": "verb",
     "past": "verpasste",
-    "perfect": "hat verpasst"
+    "perfect": "hat verpasst",
+    "example_de": "Wir müssen uns morgens wirklich sehr beeilen, um den letzten Bus zur Schule nicht zu verpassen.",
+    "example_en": "We really have to hurry in the morning so as not to miss the last bus to school."
   },
   {
     "german": "verreisen",
@@ -25129,13 +25477,17 @@
     "english": "to travel, to go on a trip",
     "pos": "verb",
     "past": "verreiste",
-    "perfect": "ist verreist"
+    "perfect": "ist verreist",
+    "example_de": "Im heißen Sommer verreisen wir mit der ganzen Familie immer sehr gerne zusammen ans große Meer.",
+    "example_en": "In the hot summer we always like to go on a trip together to the great sea with the whole family."
   },
   {
     "german": "verrückt",
     "level": "A1",
     "english": "crazy, mad",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Mitten im kalten Winter draußen im eiskalten See zu schwimmen, ist doch eine völlig verrückte Idee!",
+    "example_en": "Swimming outside in the freezing cold lake in the middle of winter is a completely crazy idea!"
   },
   {
     "german": "verschieben",
@@ -25143,13 +25495,17 @@
     "english": "to postpone, to move",
     "pos": "verb",
     "past": "verschob",
-    "perfect": "hat verschoben"
+    "perfect": "hat verschoben",
+    "example_de": "Wegen meiner starken Krankheit heute müssen wir unser wichtiges Treffen leider auf den nächsten Mittwoch verschieben.",
+    "example_en": "Because of my severe illness today, we unfortunately have to postpone our important meeting to next Wednesday."
   },
   {
     "german": "verschieden",
     "level": "A1",
     "english": "different, various",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Die beiden jungen Brüder haben zu diesem schwierigen Thema wirklich zwei völlig verschiedene Meinungen.",
+    "example_en": "The two young brothers really have two completely different opinions on this difficult topic."
   },
   {
     "german": "verschwinden",
@@ -25157,7 +25513,9 @@
     "english": "to disappear",
     "pos": "verb",
     "past": "verschwand",
-    "perfect": "ist verschwunden"
+    "perfect": "ist verschwunden",
+    "example_de": "Mein schwarzer Regenschirm scheint in diesem großen Chaos schon wieder spurlos verschwunden zu sein.",
+    "example_en": "My black umbrella seems to have disappeared completely without a trace in this big mess again."
   },
   {
     "german": "verspäten",
@@ -25165,14 +25523,18 @@
     "english": "to be late",
     "pos": "verb",
     "past": "verspätete",
-    "perfect": "hat verspätet"
+    "perfect": "hat verspätet",
+    "example_de": "Der schnelle ICE aus München wird sich heute leider wegen eines technischen Problems um zwanzig Minuten verspäten.",
+    "example_en": "The fast ICE from Munich will unfortunately be late by twenty minutes today due to a technical problem."
   },
   {
     "german": "die Verspätung",
     "level": "A1",
     "english": "delay",
     "pos": "noun",
-    "plural": "die Verspätungen"
+    "plural": "die Verspätungen",
+    "example_de": "Unser Flugzeug nach Paris hat heute Abend leider wegen dem starken Gewitter fast zwei Stunden Verspätung.",
+    "example_en": "Our plane to Paris unfortunately has almost a two-hour delay tonight because of the heavy thunderstorm."
   },
   {
     "german": "versprechen",
@@ -25180,7 +25542,9 @@
     "english": "to promise",
     "pos": "verb",
     "past": "versprach",
-    "perfect": "hat versprochen"
+    "perfect": "hat versprochen",
+    "example_de": "Ich verspreche dir fest, dass ich dir morgen bei deinen schwierigen Aufgaben helfen werde.",
+    "example_en": "I firmly promise you that I will help you with your difficult tasks tomorrow."
   },
   {
     "german": "verstehen",
@@ -25188,7 +25552,9 @@
     "english": "to understand",
     "pos": "verb",
     "past": "verstand",
-    "perfect": "hat verstanden"
+    "perfect": "hat verstanden",
+    "example_de": "Ich kann diesen sehr komplizierten deutschen Satz beim Lesen ohne ein Wörterbuch wirklich gar nicht verstehen.",
+    "example_en": "I really cannot understand this very complicated German sentence at all without a dictionary while reading."
   },
   {
     "german": "versuchen",
@@ -25196,14 +25562,18 @@
     "english": "to try, to attempt",
     "pos": "verb",
     "past": "versuchte",
-    "perfect": "hat versucht"
+    "perfect": "hat versucht",
+    "example_de": "Ich werde trotz der Probleme versuchen, diesen alten Fernseher am Wochenende selbst zu reparieren.",
+    "example_en": "I will try to repair this old TV myself on the weekend despite the problems."
   },
   {
     "german": "der Vertrag",
     "level": "A2",
     "english": "contract",
     "pos": "noun",
-    "plural": "die Verträge"
+    "plural": "die Verträge",
+    "example_de": "Du musst den langen Vertrag für die neue Wohnung unbedingt ganz genau lesen, bevor du unterschreibst.",
+    "example_en": "You absolutely must read the long contract for the new apartment very carefully before you sign."
   },
   {
     "german": "vertreten",
@@ -25211,7 +25581,9 @@
     "english": "to represent, to substitute",
     "pos": "verb",
     "past": "vertrat",
-    "perfect": "hat vertreten"
+    "perfect": "hat vertreten",
+    "example_de": "Mein netter Kollege wird mich während meines dreiwöchigen Urlaubs im Büro hervorragend vertreten.",
+    "example_en": "My nice colleague will substitute for me excellently in the office during my three-week vacation."
   },
   {
     "german": "verursachen",
@@ -25219,14 +25591,18 @@
     "english": "to cause",
     "pos": "verb",
     "past": "verursachte",
-    "perfect": "hat verursacht"
+    "perfect": "hat verursacht",
+    "example_de": "Der heftige Sturm letzte Nacht hat im alten Park leider sehr viele große Schäden verursacht.",
+    "example_en": "The severe storm last night unfortunately caused a great deal of major damage in the old park."
   },
   {
     "german": "der Verwandte",
     "level": "A1",
     "english": "relative",
     "pos": "noun",
-    "plural": "die Verwandten"
+    "plural": "die Verwandten",
+    "example_de": "Sehr viele Verwandte aus dem fernen Ausland kommen nächste Woche fröhlich zu unserer großen Hochzeit.",
+    "example_en": "Very many relatives from far away abroad are coming happily to our big wedding next week."
   },
   {
     "german": "verwenden",
@@ -25234,7 +25610,9 @@
     "english": "to use",
     "pos": "verb",
     "past": "verwendete",
-    "perfect": "hat verwendet"
+    "perfect": "hat verwendet",
+    "example_de": "Welches spezielle Öl verwenden Sie am liebsten für diesen leckeren grünen Salat am Abend?",
+    "example_en": "Which special oil do you prefer to use for this delicious green salad in the evening?"
   },
   {
     "german": "verzichten",
@@ -25242,71 +25620,93 @@
     "english": "to do without",
     "pos": "verb",
     "past": "verzichtete",
-    "perfect": "hat verzichtet"
+    "perfect": "hat verzichtet",
+    "example_de": "Ich muss heute wegen meiner Diät leider komplett auf das süße Dessert verzichten.",
+    "example_en": "I unfortunately have to completely do without the sweet dessert today because of my diet."
   },
   {
     "german": "das Video",
     "level": "A1",
     "english": "video",
     "pos": "noun",
-    "plural": "die Videos"
+    "plural": "die Videos",
+    "example_de": "Wir haben uns gestern auf dem Handy zusammen ein wirklich lustiges kleines Video angesehen.",
+    "example_en": "We watched a really funny little video together on the cell phone yesterday."
   },
   {
     "german": "viel",
     "level": "A1",
     "english": "much, a lot",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Ich habe heute im Büro leider immer noch extrem viel wichtige Arbeit zu erledigen.",
+    "example_en": "I unfortunately still have an extremely large amount of important work to do in the office today."
   },
   {
     "german": "vielleicht",
     "level": "A1",
     "english": "maybe, perhaps",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Vielleicht gehe ich heute Abend nach dem langen Essen noch kurz spontan ins Kino.",
+    "example_en": "Perhaps I will go to the cinema spontaneously for a short while after the long meal tonight."
   },
   {
     "german": "das Visum",
     "level": "B1",
     "english": "visa",
     "pos": "noun",
-    "plural": "die Visa"
+    "plural": "die Visa",
+    "example_de": "Für diese weite Reise in dieses ferne Land brauchen Sie rechtzeitig ein gültiges Visum.",
+    "example_en": "For this long journey to this distant country, you need a valid visa in good time."
   },
   {
     "german": "der Vogel",
     "level": "A2",
     "english": "bird",
     "pos": "noun",
-    "plural": "die Vögel"
+    "plural": "die Vögel",
+    "example_de": "Ein kleiner blauer Vogel sitzt schon den ganzen Morgen singend auf dem hohen Baum.",
+    "example_en": "A small blue bird has been sitting singing on the high tree all morning."
   },
   {
     "german": "voll",
     "level": "A2",
     "english": "full",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das große Glas auf dem Tisch ist glücklicherweise nach dem Einschenken noch komplett voll.",
+    "example_en": "The large glass on the table is fortunately still completely full after pouring."
   },
   {
     "german": "der Volleyball",
     "level": "A2",
     "english": "volleyball",
     "pos": "noun",
-    "plural": "die Volleybälle"
+    "plural": "die Volleybälle",
+    "example_de": "Im warmen Sommer spielen wir mit Freunden fast jeden Nachmittag ausgiebig Volleyball am feinen Strand.",
+    "example_en": "In the warm summer we play volleyball extensively with friends almost every afternoon on the fine beach."
   },
   {
     "german": "von",
     "level": "A1",
     "english": "from, of, by",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Ich habe zu meinem Geburtstag gestern ein sehr teures Geschenk von meiner lieben Tante bekommen.",
+    "example_en": "I received a very expensive gift from my dear aunt for my birthday yesterday."
   },
   {
     "german": "vor",
     "level": "A1",
     "english": "in front of, before, ago",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Das kaputte Auto steht nun schon den ganzen Tag direkt vor unserem neuen Haus.",
+    "example_en": "The broken car has been parked right in front of our new house all day now."
   },
   {
     "german": "vorbei",
     "level": "A2",
     "english": "past, over",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Der schreckliche Sturm von gestern Nacht ist heute Morgen zum großen Glück endlich komplett vorbei.",
+    "example_en": "The terrible storm from last night is fortunately finally completely over this morning."
   },
   {
     "german": "vorbereiten",
@@ -25314,19 +25714,25 @@
     "english": "to prepare",
     "pos": "verb",
     "past": "bereitete vor",
-    "perfect": "hat vorbereitet"
+    "perfect": "hat vorbereitet",
+    "example_de": "Ich muss mich heute Abend noch sehr gut auf den schwierigen Test morgen vorbereiten.",
+    "example_en": "I must still prepare myself very well tonight for the difficult test tomorrow."
   },
   {
     "german": "vorgestern",
     "level": "A2",
     "english": "the day before yesterday",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Vorgestern war das sonnige Wetter draußen wirklich noch sehr viel schöner und wärmer als heute.",
+    "example_en": "The day before yesterday the sunny weather outside was really much nicer and warmer than today."
   },
   {
     "german": "vorher",
     "level": "A2",
     "english": "before, beforehand",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Du musst dir unbedingt gründlich die Hände waschen, bevor du das Essen vorher anfasst.",
+    "example_en": "You absolutely must wash your hands thoroughly before touching the food beforehand."
   },
   {
     "german": "vorkommen",
@@ -25334,53 +25740,69 @@
     "english": "to happen, to occur",
     "pos": "verb",
     "past": "kam vor",
-    "perfect": "ist vorgekommen"
+    "perfect": "ist vorgekommen",
+    "example_de": "Ein so dummer Fehler darf in dieser wichtigen Firma auf gar keinen Fall noch einmal vorkommen.",
+    "example_en": "Such a stupid mistake must under no circumstances happen again in this important company."
   },
   {
     "german": "der Vormittag",
     "level": "A2",
     "english": "morning, forenoon",
     "pos": "noun",
-    "plural": "die Vormittage"
+    "plural": "die Vormittage",
+    "example_de": "Am Vormittag habe ich normalerweise sehr viel Unterricht und keine Zeit für eine längere Pause.",
+    "example_en": "In the morning I usually have a lot of classes and no time for a longer break."
   },
   {
     "german": "vormittags",
     "level": "A2",
     "english": "in the forenoons",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Vormittags arbeite ich immer konzentriert im ruhigen Büro, bevor es nachmittags dann sehr laut wird.",
+    "example_en": "In the forenoons I always work concentrated in the quiet office before it gets very loud in the afternoon."
   },
   {
     "german": "vorn",
     "level": "A1",
     "english": "at the front",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Bitte gehen Sie im Raum ganz nach vorn, damit Sie das Bild besser sehen können.",
+    "example_en": "Please go all the way to the front in the room so that you can see the picture better."
   },
   {
     "german": "vorn(e)",
     "level": "A2",
     "english": "at the front",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Mein bester Freund sitzt im Theater immer am liebsten ganz vorne in der allerersten Reihe.",
+    "example_en": "My best friend always prefers sitting right at the front in the very first row in the theater."
   },
   {
     "german": "der Vorname",
     "level": "A1",
     "english": "first name",
     "pos": "noun",
-    "plural": "die Vornamen"
+    "plural": "die Vornamen",
+    "example_de": "Auf dem offiziellen Formular müssen Sie bitte zuerst Ihren Vornamen und dann Ihren Familiennamen eintragen.",
+    "example_en": "On the official form you must please enter your first name first and then your last name."
   },
   {
     "german": "der Vorort",
     "level": "B1",
     "english": "suburb",
     "pos": "noun",
-    "plural": "die Vororte"
+    "plural": "die Vororte",
+    "example_de": "Wir wohnen mit der ganzen Familie sehr gerne in einem ruhigen und grünen Vorort von München.",
+    "example_en": "We really like living with the whole family in a quiet and green suburb of Munich."
   },
   {
     "german": "der Vorschlag",
     "level": "A1",
     "english": "suggestion, proposal",
     "pos": "noun",
-    "plural": "die Vorschläge"
+    "plural": "die Vorschläge",
+    "example_de": "Das ist wirklich ein ganz toller Vorschlag für unser kleines Treffen am nächsten sonnigen Wochenende.",
+    "example_en": "That is really a very great suggestion for our small meeting on the next sunny weekend."
   },
   {
     "german": "vorschlagen",
@@ -25388,20 +25810,26 @@
     "english": "to suggest",
     "pos": "verb",
     "past": "schlug vor",
-    "perfect": "hat vorgeschlagen"
+    "perfect": "hat vorgeschlagen",
+    "example_de": "Was genau würdest du mir für unser gemeinsames feierliches Abendessen im neuen Restaurant heute vorschlagen?",
+    "example_en": "What exactly would you suggest to me for our joint festive dinner in the new restaurant today?"
   },
   {
     "german": "die Vorsicht",
     "level": "A1",
     "english": "caution, watch out",
     "pos": "noun",
-    "plural": "die Vorsichten"
+    "plural": "die Vorsichten",
+    "example_de": "Vorsicht an der Straße!",
+    "example_en": "Caution at the street!"
   },
   {
     "german": "vorsichtig",
     "level": "A2",
     "english": "careful, cautious",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Sei bitte vorsichtig.",
+    "example_en": "Please be careful."
   },
   {
     "german": "vorstellen",
@@ -25409,32 +25837,42 @@
     "english": "to introduce, to imagine",
     "pos": "verb",
     "past": "stellte vor",
-    "perfect": "hat vorgestellt"
+    "perfect": "hat vorgestellt",
+    "example_de": "Darf ich mich vorstellen?",
+    "example_en": "May I introduce myself?"
   },
   {
     "german": "die Vorwahl",
     "level": "A1",
     "english": "area code",
     "pos": "noun",
-    "plural": "die Vorwahlen"
+    "plural": "die Vorwahlen",
+    "example_de": "Wie ist die Vorwahl?",
+    "example_en": "What is the area code?"
   },
   {
     "german": "vorwärts",
     "level": "A2",
     "english": "forwards",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Gehen Sie einen Schritt vorwärts.",
+    "example_en": "Take one step forwards."
   },
   {
     "german": "waagerecht",
     "level": "B1",
     "english": "horizontal",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Die Linie ist waagerecht.",
+    "example_en": "The line is horizontal."
   },
   {
     "german": "wach",
     "level": "A2",
     "english": "awake",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Bist du schon wach?",
+    "example_en": "Are you awake already?"
   },
   {
     "german": "wachsen",
@@ -25442,14 +25880,18 @@
     "english": "to grow",
     "pos": "verb",
     "past": "wuchs",
-    "perfect": "ist gewachsen"
+    "perfect": "ist gewachsen",
+    "example_de": "Die Kinder wachsen schnell.",
+    "example_en": "The children grow fast."
   },
   {
     "german": "der Wagen",
     "level": "A2",
     "english": "car, carriage",
     "pos": "noun",
-    "plural": "die Wagen"
+    "plural": "die Wagen",
+    "example_de": "Der Wagen ist neu.",
+    "example_en": "The car is new."
   },
   {
     "german": "wählen",
@@ -25457,51 +25899,67 @@
     "english": "to choose, to dial, to vote",
     "pos": "verb",
     "past": "wählte",
-    "perfect": "hat gewählt"
+    "perfect": "hat gewählt",
+    "example_de": "Wähle bitte eine Nummer.",
+    "example_en": "Please dial a number."
   },
   {
     "german": "wahnsinnig",
     "level": "B1",
     "english": "crazy, insane",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist wahnsinnig teuer.",
+    "example_en": "That is crazy expensive."
   },
   {
     "german": "wahr",
     "level": "A2",
     "english": "true",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist leider wahr.",
+    "example_en": "That is unfortunately true."
   },
   {
     "german": "während",
     "level": "B1",
     "english": "during, while",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Während der Fahrt schlafe ich.",
+    "example_en": "During the trip I sleep."
   },
   {
     "german": "wahrscheinlich",
     "level": "A2",
     "english": "probably, likely",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Er kommt wahrscheinlich morgen.",
+    "example_en": "He will probably come tomorrow."
   },
   {
     "german": "Währungen und Maße",
     "level": "A2",
     "english": "currencies and measurements",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Wir lernen Währungen und Maße.",
+    "example_en": "We learn currencies and measurements."
   },
   {
     "german": "der Wald",
     "level": "A2",
     "english": "forest, woods",
     "pos": "noun",
-    "plural": "die Wälder"
+    "plural": "die Wälder",
+    "example_de": "Wir gehen in den Wald.",
+    "example_en": "We go into the forest."
   },
   {
     "german": "die Wand",
     "level": "B1",
     "english": "wall",
     "pos": "noun",
-    "plural": "die Wände"
+    "plural": "die Wände",
+    "example_de": "Das Bild hängt an der Wand.",
+    "example_en": "The picture hangs on the wall."
   },
   {
     "german": "wandern",
@@ -25509,26 +25967,34 @@
     "english": "to hike",
     "pos": "verb",
     "past": "wanderte",
-    "perfect": "ist gewandert"
+    "perfect": "ist gewandert",
+    "example_de": "Wir wandern gerne.",
+    "example_en": "We like to hike."
   },
   {
     "german": "wann",
     "level": "A1",
     "english": "when",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wann kommst du?",
+    "example_en": "When are you coming?"
   },
   {
     "german": "die Ware",
     "level": "B1",
     "english": "goods, merchandise",
     "pos": "noun",
-    "plural": "die Waren"
+    "plural": "die Waren",
+    "example_de": "Die Ware ist da.",
+    "example_en": "The merchandise is here."
   },
   {
     "german": "warm",
     "level": "A2",
     "english": "warm",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Die Suppe ist warm.",
+    "example_en": "The soup is warm."
   },
   {
     "german": "warnen",
@@ -25536,7 +26002,9 @@
     "english": "to warn",
     "pos": "verb",
     "past": "warnte",
-    "perfect": "hat gewarnt"
+    "perfect": "hat gewarnt",
+    "example_de": "Ich warne dich.",
+    "example_en": "I warn you."
   },
   {
     "german": "warten",
@@ -25544,26 +26012,34 @@
     "english": "to wait",
     "pos": "verb",
     "past": "wartete",
-    "perfect": "hat gewartet"
+    "perfect": "hat gewartet",
+    "example_de": "Ich warte auf den Bus.",
+    "example_en": "I wait for the bus."
   },
   {
     "german": "warum",
     "level": "A1",
     "english": "why",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Warum lachst du?",
+    "example_en": "Why are you laughing?"
   },
   {
     "german": "was",
     "level": "A1",
     "english": "what",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Was ist das?",
+    "example_en": "What is that?"
   },
   {
     "german": "die Wäsche",
     "level": "A2",
     "english": "laundry",
     "pos": "noun",
-    "plural": "die Wäsche"
+    "plural": "die Wäsche",
+    "example_de": "Die Wäsche ist sauber.",
+    "example_en": "The laundry is clean."
   },
   {
     "german": "waschen",
@@ -25571,34 +26047,44 @@
     "english": "to wash",
     "pos": "verb",
     "past": "wusch",
-    "perfect": "hat gewaschen"
+    "perfect": "hat gewaschen",
+    "example_de": "Ich wasche mein Auto.",
+    "example_en": "I wash my car."
   },
   {
     "german": "das Wasser",
     "level": "A1",
     "english": "water",
     "pos": "noun",
-    "plural": "die Wasser"
+    "plural": "die Wasser",
+    "example_de": "Ein Glas Wasser, bitte.",
+    "example_en": "A glass of water, please."
   },
   {
     "german": "das WC",
     "level": "A1",
     "english": "toilet, wc",
     "pos": "noun",
-    "plural": "die WCs"
+    "plural": "die WCs",
+    "example_de": "Wo ist das WC?",
+    "example_en": "Where is the toilet?"
   },
   {
     "german": "WC",
     "level": "A2",
     "english": "wc (water closet/toilet)",
-    "pos": "abbreviation"
+    "pos": "abbreviation",
+    "example_de": "Ist das WC frei?",
+    "example_en": "Is the WC vacant?"
   },
   {
     "german": "die Webseite",
     "level": "A2",
     "english": "website",
     "pos": "noun",
-    "plural": "die Webseiten"
+    "plural": "die Webseiten",
+    "example_de": "Besuchen Sie unsere Webseite.",
+    "example_en": "Visit our website."
   },
   {
     "german": "wechseln",
@@ -25606,7 +26092,9 @@
     "english": "to change, to exchange",
     "pos": "verb",
     "past": "wechselte",
-    "perfect": "hat gewechselt"
+    "perfect": "hat gewechselt",
+    "example_de": "Ich muss Geld wechseln.",
+    "example_en": "I have to exchange money."
   },
   {
     "german": "wecken",
@@ -25614,44 +26102,58 @@
     "english": "to wake up",
     "pos": "verb",
     "past": "weckte",
-    "perfect": "hat geweckt"
+    "perfect": "hat geweckt",
+    "example_de": "Bitte weck mich um acht.",
+    "example_en": "Please wake me up at eight."
   },
   {
     "german": "weder ... noch",
     "level": "A1",
     "english": "neither ... nor",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Ich trinke weder Tee noch Kaffee.",
+    "example_en": "I drink neither tea nor coffee."
   },
   {
     "german": "weg",
     "level": "A2",
     "english": "away, gone",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Mein Schlüssel ist weg.",
+    "example_en": "My key is gone."
   },
   {
     "german": "der Weg",
     "level": "A1",
     "english": "way, path",
     "pos": "noun",
-    "plural": "die Wege"
+    "plural": "die Wege",
+    "example_de": "Wie ist der Weg?",
+    "example_en": "How is the path?"
   },
   {
     "german": "weg sein",
     "level": "A2",
     "english": "to be away, to be gone",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Er ist schon weg.",
+    "example_en": "He is already gone."
   },
   {
     "german": "wegen",
     "level": "A2",
     "english": "because of",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Wegen dem Regen bleibe ich hier.",
+    "example_en": "Because of the rain I stay here."
   },
   {
     "german": "weh tun",
     "level": "A1",
     "english": "to hurt",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Mein Bein tut weh.",
+    "example_en": "My leg hurts."
   },
   {
     "german": "wehtun",
@@ -25659,39 +26161,51 @@
     "english": "to hurt",
     "pos": "verb",
     "past": "tat weh",
-    "perfect": "hat wehgetan"
+    "perfect": "hat wehgetan",
+    "example_de": "Der Kopf tut mir weh.",
+    "example_en": "My head hurts."
   },
   {
     "german": "weiblich",
     "level": "A1",
     "english": "female",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Tier ist weiblich.",
+    "example_en": "The animal is female."
   },
   {
     "german": "weich",
     "level": "A1",
     "english": "soft",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Brot ist weich.",
+    "example_en": "The bread is soft."
   },
   {
     "german": "das Weihnachten",
     "level": "A2",
     "english": "christmas",
     "pos": "noun",
-    "plural": "die Weihnachten"
+    "plural": "die Weihnachten",
+    "example_de": "Frohe Weihnachten!",
+    "example_en": "Merry Christmas!"
   },
   {
     "german": "weil",
     "level": "A1",
     "english": "because",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Ich esse, weil ich Hunger habe.",
+    "example_en": "I eat because I am hungry."
   },
   {
     "german": "der Wein",
     "level": "A1",
     "english": "wine",
     "pos": "noun",
-    "plural": "die Weine"
+    "plural": "die Weine",
+    "example_de": "Ein Glas Wein, bitte.",
+    "example_en": "A glass of wine, please."
   },
   {
     "german": "weinen",
@@ -25699,50 +26213,66 @@
     "english": "to cry",
     "pos": "verb",
     "past": "weinte",
-    "perfect": "hat geweint"
+    "perfect": "hat geweint",
+    "example_de": "Warum weint das Kind?",
+    "example_en": "Why is the child crying?"
   },
   {
     "german": "weiß",
     "level": "A2",
     "english": "white",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Papier ist weiß.",
+    "example_en": "The paper is white."
   },
   {
     "german": "weit",
     "level": "A1",
     "english": "far, wide",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Ist der Weg weit?",
+    "example_en": "Is the path far?"
   },
   {
     "german": "weiter",
     "level": "A1",
     "english": "further, to continue",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Gehen Sie bitte weiter.",
+    "example_en": "Please walk further."
   },
   {
     "german": "welche/r/s",
     "level": "A1",
     "english": "which",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Welches Buch liest du?",
+    "example_en": "Which book are you reading?"
   },
   {
     "german": "welcher",
     "level": "A2",
     "english": "which",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Welcher Tag ist heute?",
+    "example_en": "Which day is today?"
   },
   {
     "german": "die Welt",
     "level": "A1",
     "english": "world",
     "pos": "noun",
-    "plural": "die Welten"
+    "plural": "die Welten",
+    "example_de": "Die Welt ist rund.",
+    "example_en": "The world is round."
   },
   {
     "german": "weltweit",
     "level": "B1",
     "english": "worldwide",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist weltweit bekannt.",
+    "example_en": "That is known worldwide."
   },
   {
     "german": "wenden",
@@ -25750,38 +26280,50 @@
     "english": "to turn",
     "pos": "verb",
     "past": "wandte/wendete",
-    "perfect": "hat gewandt/gewendet"
+    "perfect": "hat gewandt/gewendet",
+    "example_de": "Hier darf man nicht wenden.",
+    "example_en": "You are not allowed to turn around here."
   },
   {
     "german": "wenig",
     "level": "A1",
     "english": "little, few",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Ich habe wenig Zeit.",
+    "example_en": "I have little time."
   },
   {
     "german": "wenigstens",
     "level": "A1",
     "english": "at least",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Komm wenigstens kurz vorbei.",
+    "example_en": "At least stop by briefly."
   },
   {
     "german": "wenn",
     "level": "A1",
     "english": "if, when",
-    "pos": "conjunction"
+    "pos": "conjunction",
+    "example_de": "Wenn es regnet, bleibe ich hier.",
+    "example_en": "If it rains, I stay here."
   },
   {
     "german": "wer",
     "level": "A1",
     "english": "who",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Wer ist das?",
+    "example_en": "Who is that?"
   },
   {
     "german": "die Werbung",
     "level": "B1",
     "english": "advertising, advertisement",
     "pos": "noun",
-    "plural": "die Werbungen"
+    "plural": "die Werbungen",
+    "example_de": "Die Werbung ist lang.",
+    "example_en": "The advertisement is long."
   },
   {
     "german": "werden",
@@ -25789,7 +26331,9 @@
     "english": "to become, will (future tense)",
     "pos": "verb",
     "past": "wurde",
-    "perfect": "ist geworden"
+    "perfect": "ist geworden",
+    "example_de": "Er möchte Lehrer werden.",
+    "example_en": "He wants to become a teacher."
   },
   {
     "german": "werfen",
@@ -25797,55 +26341,71 @@
     "english": "to throw",
     "pos": "verb",
     "past": "warf",
-    "perfect": "hat geworfen"
+    "perfect": "hat geworfen",
+    "example_de": "Er wirft den Ball.",
+    "example_en": "He throws the ball."
   },
   {
     "german": "die Werkstatt",
     "level": "A1",
     "english": "workshop, garage",
     "pos": "noun",
-    "plural": "die Werkstätten"
+    "plural": "die Werkstätten",
+    "example_de": "Mein Auto ist in der Werkstatt.",
+    "example_en": "My car is in the garage."
   },
   {
     "german": "der Werktag",
     "level": "A2",
     "english": "workday, weekday",
     "pos": "noun",
-    "plural": "die Werktage"
+    "plural": "die Werktage",
+    "example_de": "Das Geschäft öffnet am Werktag.",
+    "example_en": "The store opens on the workday."
   },
   {
     "german": "das Werkzeug",
     "level": "A1",
     "english": "tool, tools",
     "pos": "noun",
-    "plural": "die Werkzeuge"
+    "plural": "die Werkzeuge",
+    "example_de": "Das Werkzeug ist neu.",
+    "example_en": "The tool is new."
   },
   {
     "german": "der Wert",
     "level": "B1",
     "english": "value",
     "pos": "noun",
-    "plural": "die Werte"
+    "plural": "die Werte",
+    "example_de": "Das hat einen hohen Wert.",
+    "example_en": "That has a high value."
   },
   {
     "german": "weshalb",
     "level": "B1",
     "english": "why",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Weshalb sagst du das?",
+    "example_en": "Why do you say that?"
   },
   {
     "german": "der Westen",
     "level": "A2",
     "english": "west",
     "pos": "noun",
-    "plural": "die Westen"
+    "plural": "die Westen",
+    "example_de": "Wir fahren nach Westen.",
+    "example_en": "We drive west."
   },
   {
     "german": "der Wettbewerb",
     "level": "A2",
     "english": "competition",
     "pos": "noun",
-    "plural": "die Wettbewerbe"
+    "plural": "die Wettbewerbe",
+    "example_de": "Sie gewinnt den Wettbewerb.",
+    "example_en": "She wins the competition."
   },
   {
     "german": "wetten",
@@ -25853,20 +26413,26 @@
     "english": "to bet",
     "pos": "verb",
     "past": "wettete",
-    "perfect": "hat gewettet"
+    "perfect": "hat gewettet",
+    "example_de": "Wetten wir?",
+    "example_en": "Shall we bet?"
   },
   {
     "german": "das Wetter",
     "level": "A1",
     "english": "weather",
     "pos": "noun",
-    "plural": "die Wetter"
+    "plural": "die Wetter",
+    "example_de": "Das Wetter ist heute gut.",
+    "example_en": "The weather is good today."
   },
   {
     "german": "wichtig",
     "level": "A1",
     "english": "important",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist sehr wichtig.",
+    "example_en": "That is very important."
   },
   {
     "german": "widersprechen",
@@ -25874,25 +26440,33 @@
     "english": "to contradict",
     "pos": "verb",
     "past": "widersprach",
-    "perfect": "hat widersprochen"
+    "perfect": "hat widersprochen",
+    "example_de": "Er widerspricht mir immer.",
+    "example_en": "He always contradicts me."
   },
   {
     "german": "wie",
     "level": "A1",
     "english": "how, as, like",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wie heißt du?",
+    "example_en": "What is your name?"
   },
   {
     "german": "wie viel",
     "level": "A2",
     "english": "how much, how many",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Wie viel kostet das?",
+    "example_en": "How much does that cost?"
   },
   {
     "german": "wieder",
     "level": "A1",
     "english": "again",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Komm bald wieder.",
+    "example_en": "Come back soon."
   },
   {
     "german": "wiederholen",
@@ -25900,21 +26474,27 @@
     "english": "to repeat",
     "pos": "verb",
     "past": "wiederholte",
-    "perfect": "hat wiederholt"
+    "perfect": "hat wiederholt",
+    "example_de": "Bitte wiederholen Sie das.",
+    "example_en": "Please repeat that."
   },
   {
     "german": "das Wiederhören",
     "level": "A2",
     "english": "goodbye (on the phone)",
     "pos": "noun",
-    "plural": "die Wiederhören"
+    "plural": "die Wiederhören",
+    "example_de": "Auf Wiederhören!",
+    "example_en": "Goodbye! (on the phone)"
   },
   {
     "german": "das Wiedersehen",
     "level": "A2",
     "english": "goodbye",
     "pos": "noun",
-    "plural": "die Wiedersehen"
+    "plural": "die Wiedersehen",
+    "example_de": "Auf Wiedersehen!",
+    "example_en": "Goodbye!"
   },
   {
     "german": "wiegen",
@@ -25922,45 +26502,59 @@
     "english": "to weigh",
     "pos": "verb",
     "past": "wog",
-    "perfect": "hat gewogen"
+    "perfect": "hat gewogen",
+    "example_de": "Wie viel wiegst du?",
+    "example_en": "How much do you weigh?"
   },
   {
     "german": "die Wiese",
     "level": "B1",
     "english": "meadow",
     "pos": "noun",
-    "plural": "die Wiesen"
+    "plural": "die Wiesen",
+    "example_de": "Die Blumen blühen auf der Wiese.",
+    "example_en": "The flowers bloom on the meadow."
   },
   {
     "german": "wieso",
     "level": "B1",
     "english": "why, how come",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wieso kommst du nicht?",
+    "example_en": "How come you are not coming?"
   },
   {
     "german": "wild",
     "level": "B1",
     "english": "wild",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Dort leben wilde Tiere.",
+    "example_en": "Wild animals live there."
   },
   {
     "german": "willkommen",
     "level": "A1",
     "english": "welcome",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Herzlich willkommen!",
+    "example_en": "A warm welcome!"
   },
   {
     "german": "der Wind",
     "level": "A2",
     "english": "wind",
     "pos": "noun",
-    "plural": "die Winde"
+    "plural": "die Winde",
+    "example_de": "Der Wind ist kalt.",
+    "example_en": "The wind is cold."
   },
   {
     "german": "windig",
     "level": "A2",
     "english": "windy",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Es ist heute windig.",
+    "example_en": "It is windy today."
   },
   {
     "german": "winken",
@@ -25968,20 +26562,26 @@
     "english": "to wave",
     "pos": "verb",
     "past": "winkte",
-    "perfect": "hat gewinkt"
+    "perfect": "hat gewinkt",
+    "example_de": "Das Kind winkt.",
+    "example_en": "The child waves."
   },
   {
     "german": "der Winter",
     "level": "A1",
     "english": "winter",
     "pos": "noun",
-    "plural": "die Winter"
+    "plural": "die Winter",
+    "example_de": "Im Winter ist es kalt.",
+    "example_en": "In winter it is cold."
   },
   {
     "german": "wir",
     "level": "A1",
     "english": "we",
-    "pos": "pronoun"
+    "pos": "pronoun",
+    "example_de": "Wir lernen Deutsch.",
+    "example_en": "We learn German."
   },
   {
     "german": "wirken",
@@ -25989,27 +26589,35 @@
     "english": "to work, to have an effect",
     "pos": "verb",
     "past": "wirkte",
-    "perfect": "hat gewirkt"
+    "perfect": "hat gewirkt",
+    "example_de": "Die Tablette wirkt.",
+    "example_en": "The pill is working."
   },
   {
     "german": "wirklich",
     "level": "A2",
     "english": "really, actually",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ist das wirklich wahr?",
+    "example_en": "Is that really true?"
   },
   {
     "german": "der Wirt",
     "level": "B1",
     "english": "host, landlord, innkeeper",
     "pos": "noun",
-    "plural": "die Wirte"
+    "plural": "die Wirte",
+    "example_de": "Der Wirt ist freundlich.",
+    "example_en": "The host is friendly."
   },
   {
     "german": "die Wirtschaft",
     "level": "B1",
     "english": "economy",
     "pos": "noun",
-    "plural": "die Wirtschaften"
+    "plural": "die Wirtschaften",
+    "example_de": "Die Wirtschaft wächst.",
+    "example_en": "The economy is growing."
   },
   {
     "german": "wissen",
@@ -26017,58 +26625,76 @@
     "english": "to know (a fact)",
     "pos": "verb",
     "past": "wusste",
-    "perfect": "hat gewusst"
+    "perfect": "hat gewusst",
+    "example_de": "Ich weiß es nicht.",
+    "example_en": "I don't know."
   },
   {
     "german": "die Wissenschaft",
     "level": "B1",
     "english": "science",
     "pos": "noun",
-    "plural": "die Wissenschaften"
+    "plural": "die Wissenschaften",
+    "example_de": "Er mag die Wissenschaft.",
+    "example_en": "He likes science."
   },
   {
     "german": "der Witz",
     "level": "A2",
     "english": "joke",
     "pos": "noun",
-    "plural": "die Witze"
+    "plural": "die Witze",
+    "example_de": "Erzähl einen Witz.",
+    "example_en": "Tell a joke."
   },
   {
     "german": "witzig",
     "level": "A2",
     "english": "funny",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das ist sehr witzig.",
+    "example_en": "That is very funny."
   },
   {
     "german": "wo",
     "level": "A1",
     "english": "where",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wo wohnst du?",
+    "example_en": "Where do you live?"
   },
   {
     "german": "die Woche",
     "level": "A2",
     "english": "week",
     "pos": "noun",
-    "plural": "die Wochen"
+    "plural": "die Wochen",
+    "example_de": "Die Woche ist fast vorbei.",
+    "example_en": "The week is almost over."
   },
   {
     "german": "woher",
     "level": "A1",
     "english": "where from",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Woher kommst du?",
+    "example_en": "Where are you from?"
   },
   {
     "german": "wohin",
     "level": "A1",
     "english": "where to",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wohin gehst du?",
+    "example_en": "Where are you going?"
   },
   {
     "german": "wohl",
     "level": "B1",
     "english": "well, probably",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich fühle mich wohl.",
+    "example_en": "I feel well."
   },
   {
     "german": "wohnen",
@@ -26076,42 +26702,54 @@
     "english": "to live, to reside",
     "pos": "verb",
     "past": "wohnte",
-    "perfect": "hat gewohnt"
+    "perfect": "hat gewohnt",
+    "example_de": "Ich wohne in Berlin.",
+    "example_en": "I live in Berlin."
   },
   {
     "german": "der Wohnort",
     "level": "B1",
     "english": "place of residence",
     "pos": "noun",
-    "plural": "die Wohnorte"
+    "plural": "die Wohnorte",
+    "example_de": "Wie ist dein Wohnort?",
+    "example_en": "What is your place of residence?"
   },
   {
     "german": "die Wohnung",
     "level": "A1",
     "english": "apartment, flat",
     "pos": "noun",
-    "plural": "die Wohnungen"
+    "plural": "die Wohnungen",
+    "example_de": "Die Wohnung ist klein.",
+    "example_en": "The apartment is small."
   },
   {
     "german": "das Wohnzimmer",
     "level": "A2",
     "english": "living room",
     "pos": "noun",
-    "plural": "die Wohnzimmer"
+    "plural": "die Wohnzimmer",
+    "example_de": "Wir sitzen im Wohnzimmer.",
+    "example_en": "We sit in the living room."
   },
   {
     "german": "die Wolke",
     "level": "B1",
     "english": "cloud",
     "pos": "noun",
-    "plural": "die Wolken"
+    "plural": "die Wolken",
+    "example_de": "Da ist eine Wolke.",
+    "example_en": "There is a cloud."
   },
   {
     "german": "die Wolle",
     "level": "B1",
     "english": "wool",
     "pos": "noun",
-    "plural": "die Wollen"
+    "plural": "die Wollen",
+    "example_de": "Der Pullover ist aus Wolle.",
+    "example_en": "The sweater is made of wool."
   },
   {
     "german": "wollen",
@@ -26119,41 +26757,53 @@
     "english": "to want",
     "pos": "verb",
     "past": "wollte",
-    "perfect": "hat gewollt"
+    "perfect": "hat gewollt",
+    "example_de": "Ich will essen.",
+    "example_en": "I want to eat."
   },
   {
     "german": "das Wort",
     "level": "A1",
     "english": "word",
     "pos": "noun",
-    "plural": "die Wörter"
+    "plural": "die Wörter",
+    "example_de": "Wie heißt das Wort?",
+    "example_en": "What is the word called?"
   },
   {
     "german": "das Wörterbuch",
     "level": "A2",
     "english": "dictionary",
     "pos": "noun",
-    "plural": "die Wörterbücher"
+    "plural": "die Wörterbücher",
+    "example_de": "Ich brauche ein Wörterbuch.",
+    "example_en": "I need a dictionary."
   },
   {
     "german": "die Wunde",
     "level": "B1",
     "english": "wound",
     "pos": "noun",
-    "plural": "die Wunden"
+    "plural": "die Wunden",
+    "example_de": "Die Wunde blutet.",
+    "example_en": "The wound is bleeding."
   },
   {
     "german": "das Wunder",
     "level": "B1",
     "english": "miracle",
     "pos": "noun",
-    "plural": "die Wunder"
+    "plural": "die Wunder",
+    "example_de": "Das ist ein Wunder.",
+    "example_en": "That is a miracle."
   },
   {
     "german": "wunderbar",
     "level": "A1",
     "english": "wonderful, marvelous",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Das Wetter ist wunderbar.",
+    "example_en": "The weather is wonderful."
   },
   {
     "german": "wundern",
@@ -26161,13 +26811,17 @@
     "english": "to surprise",
     "pos": "verb",
     "past": "wunderte",
-    "perfect": "hat gewundert"
+    "perfect": "hat gewundert",
+    "example_de": "Das wundert mich nicht.",
+    "example_en": "That doesn't surprise me."
   },
   {
     "german": "wunderschön",
     "level": "B1",
     "english": "wonderful, beautiful",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Du bist wunderschön.",
+    "example_en": "You are beautiful."
   },
   {
     "german": "wünschen",
@@ -26175,33 +26829,43 @@
     "english": "to wish",
     "pos": "verb",
     "past": "wünschte",
-    "perfect": "hat gewünscht"
+    "perfect": "hat gewünscht",
+    "example_de": "Ich wünsche dir Glück.",
+    "example_en": "I wish you luck."
   },
   {
     "german": "die Wurst",
     "level": "A1",
     "english": "sausage",
     "pos": "noun",
-    "plural": "die Würste"
+    "plural": "die Würste",
+    "example_de": "Ich esse eine Wurst.",
+    "example_en": "I eat a sausage."
   },
   {
     "german": "wütend",
     "level": "B1",
     "english": "furious, angry",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Er ist sehr wütend.",
+    "example_en": "He is very angry."
   },
   {
     "german": "z.B.",
     "level": "A2",
     "english": "e.g. (for example)",
-    "pos": "abbreviation"
+    "pos": "abbreviation",
+    "example_de": "Ich mag Obst, z.B. Äpfel.",
+    "example_en": "I like fruit, e.g., apples."
   },
   {
     "german": "die Zahl",
     "level": "A2",
     "english": "number",
     "pos": "noun",
-    "plural": "die Zahlen"
+    "plural": "die Zahlen",
+    "example_de": "Neun ist meine Zahl.",
+    "example_en": "Nine is my number."
   },
   {
     "german": "zahlen",
@@ -26209,13 +26873,17 @@
     "english": "to pay",
     "pos": "verb",
     "past": "zahlte",
-    "perfect": "hat gezahlt"
+    "perfect": "hat gezahlt",
+    "example_de": "Ich möchte bitte zahlen.",
+    "example_en": "I would like to pay, please."
   },
   {
     "german": "Zahlen",
     "level": "A2",
     "english": "numbers",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Wir lernen die Zahlen.",
+    "example_en": "We learn the numbers."
   },
   {
     "german": "zählen",
@@ -26223,28 +26891,36 @@
     "english": "to count",
     "pos": "verb",
     "past": "zählte",
-    "perfect": "hat gezählt"
+    "perfect": "hat gezählt",
+    "example_de": "Kannst du bis zehn zählen?",
+    "example_en": "Can you count to ten?"
   },
   {
     "german": "der Zahn",
     "level": "A1",
     "english": "tooth",
     "pos": "noun",
-    "plural": "die Zähne"
+    "plural": "die Zähne",
+    "example_de": "Mein Zahn tut weh.",
+    "example_en": "My tooth hurts."
   },
   {
     "german": "die Zange",
     "level": "B1",
     "english": "pliers, tongs",
     "pos": "noun",
-    "plural": "die Zangen"
+    "plural": "die Zangen",
+    "example_de": "Gib mir die Zange.",
+    "example_en": "Give me the pliers."
   },
   {
     "german": "das Zeichen",
     "level": "B1",
     "english": "sign, signal",
     "pos": "noun",
-    "plural": "die Zeichen"
+    "plural": "die Zeichen",
+    "example_de": "Das ist ein gutes Zeichen.",
+    "example_en": "That is a good sign."
   },
   {
     "german": "zeichnen",
@@ -26252,7 +26928,9 @@
     "english": "to draw",
     "pos": "verb",
     "past": "zeichnete",
-    "perfect": "hat gezeichnet"
+    "perfect": "hat gezeichnet",
+    "example_de": "Sie zeichnet ein Haus.",
+    "example_en": "She is drawing a house."
   },
   {
     "german": "zeigen",
@@ -26260,35 +26938,45 @@
     "english": "to show",
     "pos": "verb",
     "past": "zeigte",
-    "perfect": "hat gezeigt"
+    "perfect": "hat gezeigt",
+    "example_de": "Zeig mir den Weg.",
+    "example_en": "Show me the way."
   },
   {
     "german": "die Zeit",
     "level": "A1",
     "english": "time",
     "pos": "noun",
-    "plural": "die Zeiten"
+    "plural": "die Zeiten",
+    "example_de": "Ich habe keine Zeit.",
+    "example_en": "I have no time."
   },
   {
     "german": "die Zeitschrift",
     "level": "A1",
     "english": "magazine, journal",
     "pos": "noun",
-    "plural": "die Zeitschriften"
+    "plural": "die Zeitschriften",
+    "example_de": "Ich lese eine Zeitschrift.",
+    "example_en": "I read a magazine."
   },
   {
     "german": "die Zeitung",
     "level": "A1",
     "english": "newspaper",
     "pos": "noun",
-    "plural": "die Zeitungen"
+    "plural": "die Zeitungen",
+    "example_de": "Mein Vater liest Zeitung.",
+    "example_en": "My father reads the newspaper."
   },
   {
     "german": "das Zelt",
     "level": "A2",
     "english": "tent",
     "pos": "noun",
-    "plural": "die Zelte"
+    "plural": "die Zelte",
+    "example_de": "Wir schlafen im Zelt.",
+    "example_en": "We sleep in the tent."
   },
   {
     "german": "zelten",
@@ -26296,14 +26984,18 @@
     "english": "to camp",
     "pos": "verb",
     "past": "zeltete",
-    "perfect": "hat gezeltet"
+    "perfect": "hat gezeltet",
+    "example_de": "Wir gehen gerne zelten.",
+    "example_en": "We like to go camping."
   },
   {
     "german": "das Zentrum",
     "level": "A1",
     "english": "center",
     "pos": "noun",
-    "plural": "die Zentren"
+    "plural": "die Zentren",
+    "example_de": "Wir wohnen im Zentrum.",
+    "example_en": "We live in the center."
   },
   {
     "german": "zerstören",
@@ -26311,35 +27003,45 @@
     "english": "to destroy",
     "pos": "verb",
     "past": "zerstörte",
-    "perfect": "hat zerstört"
+    "perfect": "hat zerstört",
+    "example_de": "Der Sturm zerstört das Haus.",
+    "example_en": "The storm is destroying the house."
   },
   {
     "german": "das Zertifikat",
     "level": "B1",
     "english": "certificate",
     "pos": "noun",
-    "plural": "die Zertifikate"
+    "plural": "die Zertifikate",
+    "example_de": "Du bekommst ein Zertifikat.",
+    "example_en": "You get a certificate."
   },
   {
     "german": "der Zettel",
     "level": "A1",
     "english": "note, slip of paper",
     "pos": "noun",
-    "plural": "die Zettel"
+    "plural": "die Zettel",
+    "example_de": "Schreib es auf einen Zettel.",
+    "example_en": "Write it on a note."
   },
   {
     "german": "das Zeug",
     "level": "B1",
     "english": "stuff",
     "pos": "noun",
-    "plural": "die Zeuge"
+    "plural": "die Zeuge",
+    "example_de": "Räum dein Zeug weg.",
+    "example_en": "Put your stuff away."
   },
   {
     "german": "das Zeugnis",
     "level": "A2",
     "english": "certificate, report card",
     "pos": "noun",
-    "plural": "die Zeugnisse"
+    "plural": "die Zeugnisse",
+    "example_de": "Sie hat ein gutes Zeugnis.",
+    "example_en": "She has a good report card."
   },
   {
     "german": "ziehen",
@@ -26347,74 +27049,96 @@
     "english": "to pull, to move",
     "pos": "verb",
     "past": "zog",
-    "perfect": "hat gezogen"
+    "perfect": "hat gezogen",
+    "example_de": "Zieh an der Tür.",
+    "example_en": "Pull at the door."
   },
   {
     "german": "das Ziel",
     "level": "A1",
     "english": "goal, destination",
     "pos": "noun",
-    "plural": "die Ziele"
+    "plural": "die Ziele",
+    "example_de": "Das ist unser Ziel.",
+    "example_en": "That is our goal."
   },
   {
     "german": "ziemlich",
     "level": "B1",
     "english": "quite, fairly",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Das ist ziemlich teuer.",
+    "example_en": "That is quite expensive."
   },
   {
     "german": "die Zigarette",
     "level": "B1",
     "english": "cigarette",
     "pos": "noun",
-    "plural": "die Zigaretten"
+    "plural": "die Zigaretten",
+    "example_de": "Darf ich eine Zigarette rauchen?",
+    "example_en": "May I smoke a cigarette?"
   },
   {
     "german": "das Zimmer",
     "level": "A1",
     "english": "room",
     "pos": "noun",
-    "plural": "die Zimmer"
+    "plural": "die Zimmer",
+    "example_de": "Mein Zimmer ist hell.",
+    "example_en": "My room is bright."
   },
   {
     "german": "die Zinsen",
     "level": "B1",
     "english": "interest",
     "pos": "noun",
-    "plural": "die Zinsen"
+    "plural": "die Zinsen",
+    "example_de": "Die Bank zahlt Zinsen.",
+    "example_en": "The bank pays interest."
   },
   {
     "german": "der Zirkus",
     "level": "A2",
     "english": "circus",
     "pos": "noun",
-    "plural": "die Zirkusse"
+    "plural": "die Zirkusse",
+    "example_de": "Wir gehen in den Zirkus.",
+    "example_en": "We are going to the circus."
   },
   {
     "german": "die Zitrone",
     "level": "A1",
     "english": "lemon",
     "pos": "noun",
-    "plural": "die Zitronen"
+    "plural": "die Zitronen",
+    "example_de": "Die Zitrone ist sauer.",
+    "example_en": "The lemon is sour."
   },
   {
     "german": "der Zoo",
     "level": "A1",
     "english": "zoo",
     "pos": "noun",
-    "plural": "die Zoos"
+    "plural": "die Zoos",
+    "example_de": "Die Kinder lieben den Zoo.",
+    "example_en": "The children love the zoo."
   },
   {
     "german": "zu",
     "level": "A1",
     "english": "to, at, too",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Ich gehe zu meinem Freund.",
+    "example_en": "I go to my friend's place."
   },
   {
     "german": "zu sein",
     "level": "A2",
     "english": "to be closed",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Die Tür ist zu.",
+    "example_en": "The door is closed."
   },
   {
     "german": "zubereiten",
@@ -26422,33 +27146,43 @@
     "english": "to prepare (food)",
     "pos": "verb",
     "past": "bereitete zu",
-    "perfect": "hat zubereitet"
+    "perfect": "hat zubereitet",
+    "example_de": "Er bereitet das Essen zu.",
+    "example_en": "He prepares the food."
   },
   {
     "german": "der Zucker",
     "level": "A1",
     "english": "sugar",
     "pos": "noun",
-    "plural": "die Zucker"
+    "plural": "die Zucker",
+    "example_de": "Ein Kaffee ohne Zucker.",
+    "example_en": "A coffee without sugar."
   },
   {
     "german": "zuerst",
     "level": "A1",
     "english": "first, at first",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Zuerst machen wir Hausaufgaben.",
+    "example_en": "First we do homework."
   },
   {
     "german": "zufrieden",
     "level": "A1",
     "english": "satisfied, pleased",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Ich bin mit dem Test zufrieden.",
+    "example_en": "I am satisfied with the test."
   },
   {
     "german": "der Zug",
     "level": "A1",
     "english": "train",
     "pos": "noun",
-    "plural": "die Züge"
+    "plural": "die Züge",
+    "example_de": "Der Zug fährt pünktlich ab.",
+    "example_en": "The train departs on time."
   },
   {
     "german": "zugehen",
@@ -26456,7 +27190,9 @@
     "english": "to approach, to close",
     "pos": "verb",
     "past": "ging zu",
-    "perfect": "ist zugegangen"
+    "perfect": "ist zugegangen",
+    "example_de": "Die Tür geht von alleine zu.",
+    "example_en": "The door closes by itself."
   },
   {
     "german": "zuhören",
@@ -26464,33 +27200,43 @@
     "english": "to listen",
     "pos": "verb",
     "past": "hörte zu",
-    "perfect": "hat zugehört"
+    "perfect": "hat zugehört",
+    "example_de": "Hör mir bitte kurz zu!",
+    "example_en": "Please listen to me briefly!"
   },
   {
     "german": "der Zuhörer",
     "level": "B1",
     "english": "listener, audience member",
     "pos": "noun",
-    "plural": "die Zuhörer"
+    "plural": "die Zuhörer",
+    "example_de": "Die Zuhörer klatschen laut.",
+    "example_en": "The audience claps loudly."
   },
   {
     "german": "die Zukunft",
     "level": "B1",
     "english": "future",
     "pos": "noun",
-    "plural": "die Zukünfte"
+    "plural": "die Zukünfte",
+    "example_de": "Wir planen unsere Zukunft.",
+    "example_en": "We plan our future."
   },
   {
     "german": "zuletzt",
     "level": "A1",
     "english": "last, finally",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Ich habe ihn zuletzt gestern gesehen.",
+    "example_en": "I last saw him yesterday."
   },
   {
     "german": "zum Beispiel",
     "level": "A2",
     "english": "for example",
-    "pos": "phrase"
+    "pos": "phrase",
+    "example_de": "Es gibt Hobbys, zum Beispiel Lesen.",
+    "example_en": "There are hobbies, for example, reading."
   },
   {
     "german": "zumachen",
@@ -26498,13 +27244,17 @@
     "english": "to close",
     "pos": "verb",
     "past": "machte zu",
-    "perfect": "hat zugemacht"
+    "perfect": "hat zugemacht",
+    "example_de": "Mach bitte das Fenster zu.",
+    "example_en": "Please close the window."
   },
   {
     "german": "zunächst",
     "level": "B1",
     "english": "first of all, initially",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Zunächst begrüße ich die Gäste.",
+    "example_en": "First of all, I welcome the guests."
   },
   {
     "german": "zunehmen",
@@ -26512,7 +27262,9 @@
     "english": "to increase, to gain weight",
     "pos": "verb",
     "past": "nahm zu",
-    "perfect": "hat zugenommen"
+    "perfect": "hat zugenommen",
+    "example_de": "Ich will nicht zunehmen.",
+    "example_en": "I do not want to gain weight."
   },
   {
     "german": "zurechtkommen",
@@ -26520,13 +27272,17 @@
     "english": "to cope, to get along",
     "pos": "verb",
     "past": "kam zurecht",
-    "perfect": "ist zurechtgekommen"
+    "perfect": "ist zurechtgekommen",
+    "example_de": "Kommst du mit der Arbeit zurecht?",
+    "example_en": "Do you get along with the work?"
   },
   {
     "german": "zurück",
     "level": "A1",
     "english": "back",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wann kommst du zurück?",
+    "example_en": "When are you coming back?"
   },
   {
     "german": "zusagen",
@@ -26534,19 +27290,25 @@
     "english": "to accept, to agree",
     "pos": "verb",
     "past": "sagte zu",
-    "perfect": "hat zugesagt"
+    "perfect": "hat zugesagt",
+    "example_de": "Ich kann für morgen zusagen.",
+    "example_en": "I can agree for tomorrow."
   },
   {
     "german": "zusammen",
     "level": "A1",
     "english": "together",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Wir haben die Aufgabe zusammen gelöst.",
+    "example_en": "We solved the task together."
   },
   {
     "german": "zusätzlich",
     "level": "B1",
     "english": "additional",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Ich brauche eine zusätzliche Decke.",
+    "example_en": "I need an additional blanket."
   },
   {
     "german": "zuschauen",
@@ -26554,13 +27316,17 @@
     "english": "to watch",
     "pos": "verb",
     "past": "schaute zu",
-    "perfect": "hat zugeschaut"
+    "perfect": "hat zugeschaut",
+    "example_de": "Ich schaue den Spielern zu.",
+    "example_en": "I watch the players."
   },
   {
     "german": "zuständig",
     "level": "B1",
     "english": "responsible",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Wer ist dafür zuständig?",
+    "example_en": "Who is responsible for that?"
   },
   {
     "german": "zustimmen",
@@ -26568,26 +27334,34 @@
     "english": "to agree",
     "pos": "verb",
     "past": "stimmte zu",
-    "perfect": "hat zugestimmt"
+    "perfect": "hat zugestimmt",
+    "example_de": "Ich muss dir zustimmen.",
+    "example_en": "I have to agree with you."
   },
   {
     "german": "zuverlässig",
     "level": "B1",
     "english": "reliable",
-    "pos": "adjective"
+    "pos": "adjective",
+    "example_de": "Mein neues Auto ist zuverlässig.",
+    "example_en": "My new car is reliable."
   },
   {
     "german": "zwar",
     "level": "B1",
     "english": "indeed, admittedly",
-    "pos": "adverb"
+    "pos": "adverb",
+    "example_de": "Sie ist zwar jung, aber klug.",
+    "example_en": "She is admittedly young, but smart."
   },
   {
     "german": "der Zweck",
     "level": "B1",
     "english": "purpose",
     "pos": "noun",
-    "plural": "die Zwecke"
+    "plural": "die Zwecke",
+    "example_de": "Was ist der Zweck des Treffens?",
+    "example_en": "What is the purpose of the meeting?"
   },
   {
     "german": "zweifeln",
@@ -26595,14 +27369,18 @@
     "english": "to doubt",
     "pos": "verb",
     "past": "zweifelte",
-    "perfect": "hat gezweifelt"
+    "perfect": "hat gezweifelt",
+    "example_de": "Ich zweifle nicht an deiner Ehrlichkeit.",
+    "example_en": "I do not doubt your honesty."
   },
   {
     "german": "die Zweitsprache",
     "level": "B1",
     "english": "second language",
     "pos": "noun",
-    "plural": "die Zweitsprachen"
+    "plural": "die Zweitsprachen",
+    "example_de": "Englisch ist eine wichtige Zweitsprache.",
+    "example_en": "English is an important second language."
   },
   {
     "german": "zwingen",
@@ -26610,12 +27388,16 @@
     "english": "to force",
     "pos": "verb",
     "past": "zwang",
-    "perfect": "hat gezwungen"
+    "perfect": "hat gezwungen",
+    "example_de": "Man kann niemanden dazu zwingen.",
+    "example_en": "You cannot force anyone to do that."
   },
   {
     "german": "zwischen",
     "level": "A1",
     "english": "between",
-    "pos": "preposition"
+    "pos": "preposition",
+    "example_de": "Der Tisch steht zwischen Sofa und Fenster.",
+    "example_en": "The table stands between the sofa and window."
   }
 ]
