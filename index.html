@@ -241,17 +241,15 @@
             transition: 0.2s;
         }
         .audio-btn-small {
-            background: rgba(255,255,255,0.2);
-            border: 2px solid white;
+            background: transparent;
+            border: 0px;
             width: 25px;
             height: 25px;
-            border-radius: 50%;
             font-size: 1.4rem;
             cursor: pointer;
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            transition: 0.2s;
         }
         .audio-btn:active { transform: scale(0.95); }
         .pos-info {
@@ -287,13 +285,7 @@
             align-items: center;
         }
         .example-box {
-            background: #fff8e7;
-            padding: 16px;
-            border-radius: 20px;
-            border-left: 5px solid #FFCE00;
-            /* font-style: italic; */
-            font-size: 0.9rem;
-            margin: 12px 0;
+            display: block;
         }
         .example-box > div:first-child {
             display: flex;
@@ -723,7 +715,7 @@
         }
 
         if (w.example_de && w.example_en) {
-            extra += `<div class="example-box">
+            extra += `<div class="extra-info example-box">
                     <div>
                         <div>
                             <strong>Example:</strong> ${w.example_de}
