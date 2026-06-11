@@ -155,6 +155,22 @@
   .quiz-foot{display:flex;justify-content:space-between;align-items:center;margin-top:18px}
   .score{font-family:var(--font-mono);font-size:13.5px;color:var(--ink-soft)}
 
+  /* ---------- Word families ---------- */
+  .fam{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);margin-bottom:14px;overflow:hidden}
+  .fam-head{display:flex;align-items:center;gap:10px;padding:14px 18px;background:var(--surface);border-bottom:1px solid var(--line);flex-wrap:wrap}
+  .fam-head .base{font-family:var(--font-display);font-weight:900;font-size:22px}
+  .fam-head .eng{font-size:13.5px}
+  .fam-head .n{margin-left:auto;font-family:var(--font-mono);font-size:12px;color:var(--ink-soft);background:var(--card);border:1px solid var(--line);border-radius:99px;padding:3px 10px}
+  .fam-body{padding:6px 8px}
+  .fam-row{display:flex;align-items:center;gap:10px;padding:9px 10px;border-radius:9px;flex-wrap:wrap}
+  .fam-row:hover{background:var(--surface)}
+  .fam-row .w{font-weight:600;font-size:15.5px;min-width:150px}
+  .fam-row .w .pfx{color:var(--red);font-weight:700}
+  .fam-row .e{color:var(--ink-soft);font-size:13.5px;flex:1;min-width:160px}
+  .fam-row .lvl{font-size:10px}
+  .fam-row.is-base{background:var(--red-soft)}
+  .fam-row .learned-dot{color:#1F7A33;font-size:13px;font-weight:700}
+
   footer{border-top:1px solid var(--line);padding:22px 20px;text-align:center;font-size:12.5px;color:var(--ink-soft)}
   footer b{color:var(--red)}
   .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-soft);margin:2px 0 16px}
@@ -183,6 +199,7 @@
 <nav>
   <div class="nav-inner" role="tablist">
     <button class="tab active" data-view="vocab" role="tab">📖 Vokabeln</button>
+    <button class="tab" data-view="families" role="tab">🧩 Wortfamilien</button>
     <button class="tab" data-view="grammar" role="tab">📐 Grammatik</button>
     <button class="tab" data-view="cards" role="tab">🃏 Karteikarten</button>
     <button class="tab" data-view="quiz" role="tab">✅ Quiz</button>
@@ -271,6 +288,24 @@
       <button class="btn" id="qzStart">Start quiz</button>
     </div>
     <div id="quizArea" class="empty">Pick a level and press <b>Start quiz</b> — 4 choices, instant feedback.</div>
+  </section>
+
+  <!-- ================= WORD FAMILIES ================= -->
+  <section id="view-families" hidden>
+    <p class="gram-intro">German builds many words from one base: <b>machen</b> → <i>abmachen, anmachen, aufmachen, ausmachen, mitmachen, zumachen…</i> Learning words in families is much faster than learning them one by one. These groups are detected automatically from your word list.</p>
+    <div class="controls">
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="famSearch" type="search" placeholder="Search a base word or family member… (z. B. machen, fahren, Haus)" autocomplete="off">
+      </div>
+      <select id="famSort">
+        <option value="size">Biggest families first</option>
+        <option value="abc">Alphabetical</option>
+      </select>
+    </div>
+    <div class="meta-line" id="famCount"></div>
+    <div id="famList"></div>
+    <div class="more-wrap"><button id="famMoreBtn" class="btn ghost" hidden>Show more families</button></div>
   </section>
 
 </main>
@@ -475,10 +510,11 @@ function updateProgress(){
 document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click', ()=>{
   document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
   t.classList.add('active');
-  ['vocab','grammar','cards','quiz'].forEach(v=>{
+  ['vocab','families','grammar','cards','quiz'].forEach(v=>{
     document.getElementById('view-'+v).hidden = v!==t.dataset.view;
   });
   speechSynthesis.cancel();
+  if(t.dataset.view==='families' && WORDS.length) renderFamilies();
 }));
 
 /* =========================================================
@@ -849,6 +885,105 @@ function nextQuestion(){
     nx.hidden = false; nx.addEventListener('click', nextQuestion); nx.focus();
   }));
 }
+
+/* =========================================================
+   Word families (machen → abmachen, aufmachen, zumachen …)
+========================================================= */
+const PREFIXES = new Set(['ab','an','auf','aus','be','bei','da','dabei','dar','daran','dazu','durch','ein','emp','ent','er','fehl','fern','fest','fort','frei','ge','gegen','her','heraus','herein','herum','herunter','hin','hinaus','hinein','hinter','hoch','kaputt','klar','los','mit','nach','neben','nieder','rück','statt','teil','über','um','unter','ver','vor','voran','vorbei','vorher','weg','weiter','wider','wieder','zer','zu','zurecht','zurück','zusammen']);
+let FAMILIES = [];
+let famShown = 20;
+const famState = { q:'', sort:'size' };
+
+function normGerman(g){
+  return g.replace(/^(der|die|das)\s+/,'').replace(/^\(ein\)\s+/,'').replace(/\s*\(.*\)\s*$/,'').trim();
+}
+function buildFamilies(){
+  const entries = WORDS.map(w=>({w, norm:normGerman(w.german), lc:normGerman(w.german).toLowerCase()}));
+  const lcSet = new Map(); // lc -> entry (prefer shortest/base)
+  entries.forEach(e=>{ if(e.lc.length>1 && !lcSet.has(e.lc)) lcSet.set(e.lc, e); });
+
+  const prefixOK = p => PREFIXES.has(p) || (p.length>=3 && lcSet.has(p));
+  const groups = new Map(); // baseLc -> {base:entry|null, members:[{e,pfx}]}
+
+  entries.forEach(e=>{
+    const lw = e.lc;
+    // find the LONGEST dictionary word that lw ends with (i.e. smallest split point)
+    for(let i=1; i<=lw.length-4; i++){
+      const suf = lw.slice(i), pfx = lw.slice(0,i);
+      if(suf.length>=4 && lcSet.has(suf) && suf!==lw && prefixOK(pfx)){
+        if(!groups.has(suf)) groups.set(suf, {members:[]});
+        groups.get(suf).members.push({e, pfxLen: e.norm.length - suf.length});
+        break;
+      }
+    }
+  });
+
+  FAMILIES = [];
+  groups.forEach((g, baseLc)=>{
+    const baseEntry = lcSet.get(baseLc) || null;
+    const members = g.members.slice();
+    if(members.length + (baseEntry?1:0) < 2) return;
+    members.sort((a,b)=>a.e.norm.localeCompare(b.e.norm,'de'));
+    FAMILIES.push({
+      baseLc,
+      base: baseEntry ? baseEntry.w : null,
+      baseLabel: baseEntry ? baseEntry.w.german : '…' + baseLc,
+      members,
+      size: members.length + (baseEntry?1:0)
+    });
+  });
+}
+function famRow(w, pfxLen, isBase){
+  const g = genderClass(w.german);
+  const norm = normGerman(w.german);
+  const art = w.german.slice(0, w.german.length - norm.length);
+  let wordHtml;
+  if(!isBase && pfxLen>0){
+    wordHtml = esc(art) + '<span class="pfx">' + esc(norm.slice(0,pfxLen)) + '</span>' + esc(norm.slice(pfxLen));
+  }else{
+    wordHtml = esc(w.german);
+  }
+  return `<div class="fam-row ${isBase?'is-base':''}">
+    ${playBtn(w.german,true)}
+    <span class="w ${g}">${wordHtml}</span>
+    <span class="lvl ${esc(w.level)}">${esc(w.level)}</span>
+    <span class="e">${esc(w.english)}${learned.has(w.german)?' <span class="learned-dot">✓</span>':''}</span>
+    ${w.example_de?playBtn(w.example_de,true).replace('aria-label','title="Listen to example" aria-label'):''}
+  </div>`;
+}
+function famMatches(f, q){
+  if(!q) return true;
+  if(f.baseLabel.toLowerCase().includes(q)) return true;
+  if(f.base && (f.base.english||'').toLowerCase().includes(q)) return true;
+  return f.members.some(m=>m.e.w.german.toLowerCase().includes(q) || (m.e.w.english||'').toLowerCase().includes(q));
+}
+function renderFamilies(){
+  if(!FAMILIES.length) buildFamilies();
+  const q = famState.q.trim().toLowerCase();
+  let data = FAMILIES.filter(f=>famMatches(f,q));
+  data.sort(famState.sort==='size' ? (a,b)=>b.size-a.size || a.baseLc.localeCompare(b.baseLc,'de')
+                                    : (a,b)=>a.baseLc.localeCompare(b.baseLc,'de'));
+  document.getElementById('famCount').textContent =
+    `${data.length} word families · ${data.reduce((s,f)=>s+f.size,0)} words total` + (q?` · matching “${famState.q.trim()}”`:'');
+  const list = document.getElementById('famList');
+  list.innerHTML = data.slice(0,famShown).map(f=>`
+    <div class="fam">
+      <div class="fam-head">
+        ${f.base?playBtn(f.base.german,true):''}
+        <span class="base ${f.base?genderClass(f.base.german):''}">${esc(f.baseLabel)}</span>
+        ${f.base?`<span class="lvl ${esc(f.base.level)}">${esc(f.base.level)}</span><span class="eng">${esc(f.base.english)}</span>`:''}
+        <span class="n">${f.size} words</span>
+      </div>
+      <div class="fam-body">
+        ${f.base?famRow(f.base,0,true):''}
+        ${f.members.map(m=>famRow(m.e.w, m.pfxLen, false)).join('')}
+      </div>
+    </div>`).join('') || '<div class="empty">No families match your search.</div>';
+  document.getElementById('famMoreBtn').hidden = data.length <= famShown;
+}
+document.getElementById('famSearch').addEventListener('input', e=>{ famState.q=e.target.value; famShown=20; renderFamilies(); });
+document.getElementById('famSort').addEventListener('change', e=>{ famState.sort=e.target.value; famShown=20; renderFamilies(); });
+document.getElementById('famMoreBtn').addEventListener('click', ()=>{ famShown+=20; renderFamilies(); });
 
 /* =========================================================
    Init
