@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mein Österreich — Staatsbürgerschaftsprüfung Trainer (Salzburg)</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,700&family=Public+Sans:wght@400;500;600;700&display=swap');
+
+:root{
+  --red:#C8102E; --ink:#1B2330; --slate:#5A6473; --mist:#F4F6F8;
+  --card:#FFFFFF; --line:#E2E6EB; --gold:#9C7A28; --green:#2E7D5B;
+  --red-bg:#FBEDEF; --green-bg:#E8F3EE; --gold-bg:#F6F0DF;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+body{margin:0;background:var(--mist);color:var(--ink);font-family:'Public Sans',system-ui,sans-serif;font-size:15px;}
+.wrap{max-width:680px;margin:0 auto;padding:18px 16px 80px;}
+h1{font-family:'Fraunces',serif;font-size:28px;margin:0;line-height:1.15;}
+h2{font-family:'Fraunces',serif;font-size:24px;margin:4px 0 2px;}
+h3{font-family:'Fraunces',serif;font-size:19px;margin:0 0 8px;}
+.sub{margin:4px 0 0;font-size:13.5px;color:var(--slate);}
+button{font-family:inherit;cursor:pointer;}
+button:focus-visible{outline:2px solid var(--red);outline-offset:2px;}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;}}
+
+.ribbon{display:flex;height:5px;border-radius:3px;overflow:hidden;}
+.ribbon div{flex:1;}
+.ribbon .r{background:var(--red);} .ribbon .w{background:#fff;}
+
+.pill{display:inline-block;font-size:11px;font-weight:600;color:var(--slate);background:#EEF1F4;padding:3px 9px;border-radius:999px;letter-spacing:.3px;margin:0 4px 4px 0;}
+.pill.red{color:var(--red);background:var(--red-bg);}
+.pill.green{color:var(--green);background:var(--green-bg);}
+.pill.gold{color:var(--gold);background:var(--gold-bg);}
+
+nav.tabs{display:flex;gap:6px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:5px;margin-bottom:18px;}
+nav.tabs button{flex:1;padding:9px 2px;border-radius:10px;border:none;background:transparent;color:var(--slate);font-weight:700;font-size:13px;line-height:1.25;}
+nav.tabs button span{display:block;font-weight:400;font-size:10.5px;opacity:.85;}
+nav.tabs button.on{background:var(--red);color:#fff;}
+
+.chip{padding:8px 12px;border-radius:10px;border:1.5px solid var(--line);background:#fff;color:var(--ink);font-weight:600;font-size:13px;margin:0 6px 8px 0;}
+.chip.on{border-color:var(--red);background:var(--red-bg);color:var(--red);}
+.chip.sm{padding:6px 11px;border-radius:999px;font-size:12.5px;white-space:nowrap;color:var(--slate);}
+.chip.sm.on{border-color:var(--ink);background:var(--ink);color:#fff;}
+.chip.sm.done{background:var(--green-bg);color:var(--green);}
+.scroll-x{display:flex;overflow-x:auto;padding-bottom:8px;margin-bottom:12px;}
+
+.fact{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--red);border-radius:12px;padding:14px 16px;margin-bottom:12px;}
+.fact.read{border-left-color:var(--green);}
+.fact p.de{margin:0;font-size:16px;line-height:1.55;}
+.fact p.en{margin:8px 0 0;font-size:14px;line-height:1.5;color:var(--slate);font-style:italic;}
+.fact .mark{margin-top:10px;font-size:12.5px;font-weight:600;color:var(--red);background:none;border:none;padding:0;}
+.fact.read .mark{color:var(--green);}
+
+.bigcard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:26px 22px;min-height:200px;cursor:pointer;box-shadow:0 2px 12px rgba(27,35,48,.06);}
+.btnrow{display:flex;gap:10px;margin-top:14px;}
+.btn{padding:13px 0;border-radius:12px;font-weight:700;font-size:14px;flex:1;border:none;}
+.btn small{display:block;font-weight:400;font-size:12px;}
+.btn.no{background:#fff;border:1.5px solid var(--red);color:var(--red);}
+.btn.yes{background:var(--green);color:#fff;}
+.btn.primary{background:var(--red);color:#fff;width:100%;padding:15px 0;font-size:16px;}
+.btn.dark{background:var(--ink);color:#fff;padding:9px 18px;font-size:13px;width:auto;flex:none;border-radius:10px;}
+.navbtns{display:flex;justify-content:space-between;margin-top:16px;}
+.navbtns button{padding:9px 16px;border-radius:10px;font-weight:600;font-size:13px;}
+.navbtns .back{border:1.5px solid var(--line);background:#fff;}
+.navbtns .next{border:none;background:var(--red);color:#fff;}
+.navbtns button:disabled{opacity:.4;cursor:default;}
+
+.boxes{display:flex;gap:8px;margin-bottom:14px;}
+.boxstat{flex:1;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 8px;text-align:center;}
+.boxstat .n{font-family:'Fraunces',serif;font-size:22px;font-weight:700;}
+.boxstat .l{font-size:11px;color:var(--slate);font-weight:600;}
+
+.q{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:12px;}
+.q .qt{margin:0 0 4px;font-weight:700;font-size:15px;}
+.q .qe{margin:0 0 10px;font-size:13px;color:var(--slate);font-style:italic;}
+.opt{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;border-radius:10px;border:1.5px solid var(--line);background:#fff;margin-bottom:7px;cursor:pointer;}
+.opt .cb{width:18px;height:18px;border-radius:5px;border:2px solid #C2C9D2;background:#fff;flex-shrink:0;margin-top:1px;color:#fff;font-size:12px;line-height:15px;text-align:center;font-weight:700;}
+.opt.sel{background:#EEF1F4;border-color:var(--ink);}
+.opt.sel .cb{background:var(--ink);border-color:var(--ink);}
+.opt .ode{font-size:14.5px;}
+.opt .oen{font-size:12.5px;color:var(--slate);font-style:italic;}
+.opt.ok{background:var(--green-bg);border-color:var(--green);}
+.opt.missed{background:var(--gold-bg);border-color:var(--gold);}
+.opt.bad{background:var(--red-bg);border-color:var(--red);}
+.result{border-radius:14px;padding:18px;margin-bottom:16px;border:1.5px solid;}
+.result.pass{background:var(--green-bg);border-color:var(--green);}
+.result.fail{background:var(--red-bg);border-color:var(--red);}
+
+.vrow{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin-bottom:8px;}
+.vrow .top{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;}
+.vrow .w{font-weight:700;font-size:15px;}
+.vrow .t{font-size:14px;color:var(--gold);font-weight:600;}
+.vrow .ex{margin:5px 0 0;font-size:13px;color:var(--slate);font-style:italic;}
+
+.infobox{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;margin-bottom:14px;}
+.infobox ul{margin:0;padding-left:18px;font-size:14px;line-height:1.7;}
+.donebox{background:var(--green-bg);border:1px solid #CDE5DA;border-radius:14px;padding:24px;text-align:center;}
+.toggle{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--slate);margin-bottom:12px;cursor:pointer;}
+footer p{font-size:11.5px;color:var(--slate);line-height:1.6;margin-top:12px;}
+.center{text-align:center;}
+.muted{font-size:13px;color:var(--slate);}
+.play{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;border:1.5px solid var(--line);background:#fff;color:var(--red);font-size:13px;line-height:1;padding:0;vertical-align:middle;margin-left:6px;flex-shrink:0;}
+.play:hover{border-color:var(--red);background:var(--red-bg);}
+.play.lg{width:34px;height:34px;font-size:16px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="ribbon"><div class="r"></div><div class="w"></div><div class="r"></div></div>
+  <header style="margin:16px 0 6px">
+    <h1>Mein Österreich</h1>
+    <p class="sub">Staatsbürgerschaftsprüfung · Land Salzburg — <i>von der Rot-Weiß-Rot-Karte zum Reisepass</i></p>
+  </header>
+  <div id="stats" style="margin:12px 0 16px"></div>
+  <nav class="tabs" id="tabs"></nav>
+  <main id="view"></main>
+  <footer style="margin-top:30px">
+    <div class="ribbon"><div class="r"></div><div class="w"></div><div class="r"></div></div>
+    <p>Inhalte basierend auf der offiziellen Lernunterlage „Mein Österreich“ (BMI) und der Salzburger Landesunterlage. Offizielle Quellen: staatsbuergerschaft.gv.at · salzburg.gv.at. Die offizielle Broschüre erhältst du beim Amt der Salzburger Landesregierung bei der Antragstellung.</p>
+  </footer>
+</div>
+
+<script>
+/* ===================== DATA ===================== */
+const AREAS=[
+{id:"geschichte",label:"Geschichte Österreichs",labelEn:"History of Austria",chapters:[
+{title:"Frühe Siedler",titleEn:"Early settlers",facts:[
+{de:"Vor etwa 2000 Jahren gehörte das Gebiet des heutigen Österreich fast 500 Jahre lang zum Römischen Reich.",en:"About 2,000 years ago, the territory of today's Austria belonged to the Roman Empire for almost 500 years.",v:["das Gebiet = territory","das Reich = empire"]},
+{de:"Die Donau war damals die Grenze des Römischen Reiches.",en:"The Danube was the border of the Roman Empire at that time.",v:["die Grenze = border"]},
+{de:"Wien hieß in der Römerzeit „Vindobona“, Linz hieß „Lentia“. Die größte römische Siedlung war Carnuntum.",en:"In Roman times Vienna was called 'Vindobona' and Linz 'Lentia'. The largest Roman settlement was Carnuntum.",v:["die Siedlung = settlement"]},
+{de:"Nach der Römerzeit kamen Slawen, Alemannen, Bajuwaren und später Ungarn in das Land.",en:"After the Roman era, Slavs, Alemanni, Bavarians (Bajuwaren) and later Hungarians came to the country.",v:[]},
+{de:"Der Name „Ostarrichi“ (Österreich) wurde im Jahr 996 zum ersten Mal in einer Urkunde erwähnt.",en:"The name 'Ostarrichi' (Austria) was first mentioned in a document in the year 996.",v:["die Urkunde = document/charter","erwähnen = to mention"]}]},
+{title:"Die Habsburger",titleEn:"The Habsburgs",facts:[
+{de:"Die Habsburger regierten ab 1273 fast 650 Jahre lang in Österreich. Die Familie kam ursprünglich aus der Schweiz.",en:"The Habsburgs ruled in Austria for almost 650 years from 1273. The family originally came from Switzerland.",v:["regieren = to rule/govern","ursprünglich = originally"]},
+{de:"Die Habsburger vergrößerten ihr Reich vor allem durch Heiratspolitik: „Kriege mögen andere führen, Du, glückliches Österreich, heirate!“",en:"The Habsburgs enlarged their empire mainly through marriage policy: 'Let others wage wars; you, happy Austria, marry!'",v:["die Heirat = marriage","der Krieg = war"]},
+{de:"Das Kaiserreich Österreich wurde 1804 gegründet. Von 1867 bis 1918 hieß der Staat „Österreich-Ungarn“.",en:"The Austrian Empire was founded in 1804. From 1867 to 1918 the state was called 'Austria-Hungary'.",v:["das Kaiserreich = empire","gründen = to found"]},
+{de:"Maria Theresia (Regierungszeit 1740–1780) führte die Schulpflicht ein und schaffte die Folter ab.",en:"Maria Theresia (reign 1740–1780) introduced compulsory schooling and abolished torture.",v:["die Schulpflicht = compulsory schooling","abschaffen = to abolish"]},
+{de:"Salzburg wurde erst ab dem frühen 19. Jahrhundert von den Habsburgern regiert.",en:"Salzburg was only ruled by the Habsburgs from the early 19th century onwards.",v:["das Jahrhundert = century"]}]},
+{title:"Umbrüche im 19. Jahrhundert",titleEn:"Upheavals in the 19th century",facts:[
+{de:"Im 19. Jahrhundert veränderte die industrielle Revolution Österreichs Wirtschaft und Gesellschaft.",en:"In the 19th century, the industrial revolution changed Austria's economy and society.",v:["die Wirtschaft = economy","die Gesellschaft = society"]},
+{de:"1848 gab es eine Revolution: Die Menschen forderten Freiheit, Bürgerrechte, eine Verfassung und ein gewähltes Parlament.",en:"In 1848 there was a revolution: people demanded freedom, civil rights, a constitution and an elected parliament.",v:["fordern = to demand","die Verfassung = constitution"]},
+{de:"Die Revolution wurde 1849 von Kaiser Franz Josef unterdrückt, aber wichtige Reformen blieben: die Bauernbefreiung und gewählte Bürgermeister.",en:"The revolution was suppressed by Emperor Franz Josef in 1849, but important reforms remained: liberation of the peasants and elected mayors.",v:["unterdrücken = to suppress","der Bürgermeister = mayor"]}]},
+{title:"Vielvölkerstaat & Ende der Monarchie",titleEn:"Multi-ethnic state & end of the monarchy",facts:[
+{de:"Österreich-Ungarn war ein „Vielvölkerstaat“: Im 19. Jahrhundert waren elf Sprachen offiziell anerkannt.",en:"Austria-Hungary was a 'multi-ethnic state': in the 19th century eleven languages were officially recognised.",v:["anerkannt = recognised"]},
+{de:"Judentum und Islam waren in der Monarchie anerkannte Religionen, neben katholischen, evangelischen und orthodoxen Christen.",en:"Judaism and Islam were recognised religions in the monarchy, alongside Catholic, Protestant and Orthodox Christians.",v:["die Religion = religion"]},
+{de:"Österreich-Ungarn verlor den Ersten Weltkrieg (1914–1918) und zerfiel in einzelne Nationalstaaten.",en:"Austria-Hungary lost the First World War (1914–1918) and broke apart into individual nation states.",v:["verlieren = to lose","zerfallen = to fall apart"]}]},
+{title:"Erste Republik & Ständestaat (1918–1938)",titleEn:"First Republic & corporate state (1918–1938)",facts:[
+{de:"Im November 1918 wurde die Republik Österreich ausgerufen. Karl Renner war der erste Staatskanzler.",en:"In November 1918 the Republic of Austria was proclaimed. Karl Renner was the first State Chancellor.",v:["ausrufen = to proclaim"]},
+{de:"Der Friedensvertrag von Saint Germain (1919) verbot die Vereinigung mit Deutschland und legte den Namen „Republik Österreich“ fest.",en:"The peace treaty of Saint Germain (1919) forbade unification with Germany and fixed the name 'Republic of Austria'.",v:["der Vertrag = treaty/contract","verbieten = to forbid"]},
+{de:"Im Oktober 1920 wurde die Bundesverfassung (B-VG) beschlossen. Sie gilt bis heute.",en:"In October 1920 the Federal Constitution (B-VG) was adopted. It is still valid today.",v:["beschließen = to adopt/decide","gelten = to be valid"]},
+{de:"Seit 1921 hat Österreich neun Bundesländer: Wien wurde ein eigenes Bundesland und das Burgenland kam neu dazu.",en:"Since 1921 Austria has had nine federal provinces: Vienna became its own province and Burgenland was added.",v:["das Bundesland = federal province"]},
+{de:"1933 schaltete Bundeskanzler Dollfuß das Parlament aus. 1934 gab es einen Bürgerkrieg, danach den autoritären „Ständestaat“.",en:"In 1933 Chancellor Dollfuß eliminated parliament. In 1934 there was a civil war, followed by the authoritarian 'corporate state'.",v:["der Bürgerkrieg = civil war"]}]},
+{title:"Nationalsozialismus & Zweiter Weltkrieg",titleEn:"National Socialism & World War II",facts:[
+{de:"Im März 1938 kam der „Anschluss“: Österreich wurde Teil des nationalsozialistischen Deutschland und hieß „Ostmark“.",en:"In March 1938 came the 'Anschluss': Austria became part of National Socialist Germany and was called 'Ostmark'.",v:[]},
+{de:"Verfolgt und ermordet wurden Jüdinnen und Juden, Roma und Sinti, Slowenen, Menschen mit Behinderung, Homosexuelle und politische Gegner.",en:"Jews, Roma and Sinti, Slovenes, people with disabilities, homosexuals and political opponents were persecuted and murdered.",v:["verfolgen = to persecute","der Gegner = opponent"]},
+{de:"Das größte Konzentrationslager auf österreichischem Gebiet war Mauthausen in Oberösterreich. Dort wurden etwa 100.000 Menschen ermordet.",en:"The largest concentration camp on Austrian territory was Mauthausen in Upper Austria. About 100,000 people were murdered there.",v:[]},
+{de:"Der Zweite Weltkrieg begann 1939 mit dem Überfall auf Polen und endete in Europa im Mai 1945. Es gab auch österreichischen Widerstand gegen das NS-Regime.",en:"The Second World War began in 1939 with the invasion of Poland and ended in Europe in May 1945. There was also Austrian resistance against the Nazi regime.",v:["der Widerstand = resistance"]}]},
+{title:"Die Zweite Republik",titleEn:"The Second Republic",facts:[
+{de:"Im April 1945 wurde die Republik Österreich erneut ausgerufen. Von 1945 bis 1955 war Österreich in vier Besatzungszonen geteilt.",en:"In April 1945 the Republic of Austria was proclaimed again. From 1945 to 1955 Austria was divided into four occupation zones.",v:["die Besatzung = occupation","teilen = to divide"]},
+{de:"Die USA halfen mit dem Marshall-Plan beim Wiederaufbau. Dieses Geld war ein Geschenk und musste nicht zurückgezahlt werden.",en:"The USA helped with reconstruction through the Marshall Plan. This money was a gift and did not have to be repaid.",v:["der Wiederaufbau = reconstruction"]},
+{de:"1955 wurde der Staatsvertrag unterzeichnet. Österreich bekam die volle Unabhängigkeit zurück. Wichtig waren Bundeskanzler Julius Raab und Außenminister Leopold Figl.",en:"In 1955 the State Treaty was signed. Austria regained full independence. Chancellor Julius Raab and Foreign Minister Leopold Figl played key roles.",v:["die Unabhängigkeit = independence","unterzeichnen = to sign"]},
+{de:"Am 26. Oktober 1955 beschloss das Parlament die immerwährende Neutralität. Der 26. Oktober ist heute der Nationalfeiertag.",en:"On 26 October 1955 parliament declared permanent neutrality. 26 October is now the national holiday.",v:["die Neutralität = neutrality","der Nationalfeiertag = national holiday"]},
+{de:"Die Sozialpartnerschaft ist die Zusammenarbeit von Arbeiterkammer (AK), Wirtschaftskammer (WKÖ), Gewerkschaftsbund (ÖGB) und Landwirtschaftskammer (LK).",en:"The 'social partnership' is the cooperation of the Chamber of Labour (AK), Economic Chamber (WKÖ), Trade Union Federation (ÖGB) and Chamber of Agriculture (LK).",v:["die Zusammenarbeit = cooperation"]}]},
+{title:"Das moderne Österreich",titleEn:"Modern Austria",facts:[
+{de:"In den 1970er Jahren gab es viele Reformen unter Bundeskanzler Bruno Kreisky: Ausbau der Schulen und Universitäten, gratis Schulbücher und Schülerfreifahrt.",en:"In the 1970s there were many reforms under Chancellor Bruno Kreisky: expansion of schools and universities, free schoolbooks and free school transport.",v:["der Ausbau = expansion"]},
+{de:"Das Familienrecht wurde reformiert: Frauen und Männer haben seither gleiche Rechte und Pflichten.",en:"Family law was reformed: since then women and men have equal rights and duties.",v:["das Recht = right/law","die Pflicht = duty"]},
+{de:"Geraubte Kunstwerke aus der NS-Zeit werden zurückgegeben, und ehemalige Zwangsarbeiter wurden entschädigt.",en:"Artworks stolen during the Nazi era are returned, and former forced labourers were compensated.",v:["entschädigen = to compensate"]}]},
+{title:"Aufbruch nach Europa",titleEn:"Departure towards Europe",facts:[
+{de:"1989 fiel der „Eiserne Vorhang“. Österreich lag danach wieder in der Mitte Europas.",en:"In 1989 the 'Iron Curtain' fell. Austria was once again in the centre of Europe.",v:["der Vorhang = curtain"]},
+{de:"1995 wurde Österreich Mitglied der Europäischen Union (EU).",en:"In 1995 Austria became a member of the European Union (EU).",v:["das Mitglied = member"]},
+{de:"Seit 2002 bezahlen wir in Österreich mit dem Euro, der gemeinsamen Währung vieler EU-Staaten.",en:"Since 2002 we pay with the euro in Austria, the common currency of many EU states.",v:["die Währung = currency"]},
+{de:"EU-Bürger dürfen in Österreich grundsätzlich nicht schlechter behandelt werden als österreichische Staatsbürger.",en:"EU citizens may, as a rule, not be treated worse in Austria than Austrian citizens.",v:["behandeln = to treat"]}]}
+]},
+{id:"demokratie",label:"Demokratische Grundordnung",labelEn:"Democratic order",chapters:[
+{title:"Die Menschenwürde",titleEn:"Human dignity",facts:[
+{de:"Menschenwürde bedeutet: Alle Menschen sind gleich viel wert und haben Rechte, die ihnen niemand wegnehmen darf — unabhängig von Herkunft, Geschlecht, Alter, Religion oder Sprache.",en:"Human dignity means: all people have equal worth and have rights that no one may take away — regardless of origin, gender, age, religion or language.",v:["die Würde = dignity","die Herkunft = origin"]},
+{de:"Österreich hat internationale Abkommen unterschrieben, z.B. die Europäische Menschenrechtskonvention und die Grundrechtecharta der EU.",en:"Austria has signed international agreements, e.g. the European Convention on Human Rights and the EU Charter of Fundamental Rights.",v:["das Abkommen = agreement"]},
+{de:"Wichtige Grundrechte sind: das Recht auf Leben, das Verbot der Folter, das Verbot der Sklaverei und das Verbot der Diskriminierung.",en:"Important fundamental rights are: the right to life, the prohibition of torture, the prohibition of slavery and the prohibition of discrimination.",v:["das Verbot = prohibition","die Folter = torture"]},
+{de:"Bei Diskriminierung in der Arbeitswelt kann man sich an die Gleichbehandlungsanwaltschaft, die Arbeiterkammer oder die Gewerkschaft wenden.",en:"In cases of discrimination at work, you can turn to the Equal Treatment Ombud, the Chamber of Labour or the trade union.",v:["die Gleichbehandlung = equal treatment"]}]},
+{title:"Österreich als liberaler Staat",titleEn:"Austria as a liberal state",facts:[
+{de:"Ein liberaler Staat ermöglicht ein Leben in größtmöglicher Freiheit. Der Staat darf in viele Lebensbereiche nicht eingreifen.",en:"A liberal state makes life in the greatest possible freedom possible. The state may not interfere in many areas of life.",v:["die Freiheit = freedom","eingreifen = to interfere"]},
+{de:"Freiheitsrechte sind z.B.: freie Wahl des Wohnorts, des Berufs, des Ehepartners und der Religion sowie Meinungsfreiheit ohne Zensur.",en:"Examples of freedom rights: free choice of residence, profession, spouse and religion, plus freedom of opinion without censorship.",v:["die Meinungsfreiheit = freedom of opinion","die Zensur = censorship"]},
+{de:"Ab dem Alter von 14 Jahren dürfen Kinder selbst entscheiden, welche Religion sie ausüben wollen.",en:"From the age of 14, children may decide for themselves which religion they want to practise.",v:["ausüben = to practise"]},
+{de:"Österreich hat eine soziale Marktwirtschaft: wirtschaftliche Freiheit mit sozialer Verantwortung und Schutz durch die Sozialversicherung.",en:"Austria has a social market economy: economic freedom with social responsibility and protection through social insurance.",v:["die Verantwortung = responsibility"]}]},
+{title:"Österreich als Rechtsstaat",titleEn:"Austria as a state under the rule of law",facts:[
+{de:"Im Rechtsstaat gilt die Rechtsordnung für alle — auch für den Staat selbst. Gesetze dürfen die Grund- und Menschenrechte nicht verletzen.",en:"Under the rule of law, the legal order applies to everyone — including the state itself. Laws may not violate fundamental and human rights.",v:["das Gesetz = law","verletzen = to violate"]},
+{de:"Der Bürger darf alles tun, was nicht verboten ist. Der Staat darf nur tun, was das Gesetz erlaubt.",en:"Citizens may do anything that is not forbidden. The state may only do what the law allows.",v:["erlauben = to allow"]},
+{de:"Richterinnen und Richter sind unabhängig, unabsetzbar und unversetzbar.",en:"Judges are independent, cannot be removed and cannot be transferred against their will.",v:["der Richter = judge","unabhängig = independent"]},
+{de:"Der Verfassungsgerichtshof prüft, ob Gesetze zur Verfassung passen. Der Verwaltungsgerichtshof kontrolliert die Verwaltung. Der Oberste Gerichtshof ist die letzte Instanz im Zivil- und Strafrecht.",en:"The Constitutional Court checks whether laws comply with the constitution. The Administrative Court controls the administration. The Supreme Court is the final instance in civil and criminal law.",v:["der Gerichtshof = court of justice"]},
+{de:"An „Amtstagen“ geben Bezirksgerichte kostenlose Rechtsauskünfte, meistens einmal pro Woche.",en:"On 'office days', district courts give free legal information, usually once a week.",v:["kostenlos = free of charge"]}]},
+{title:"Österreich als Demokratie",titleEn:"Austria as a democracy",facts:[
+{de:"In einer Demokratie geht das Recht vom Volk aus. Das Volk wählt das Parlament in freien, gleichen, geheimen und persönlichen Wahlen.",en:"In a democracy, law comes from the people. The people elect parliament in free, equal, secret and personal elections.",v:["wählen = to elect/vote","geheim = secret"]},
+{de:"Wahlberechtigt bei Nationalratswahlen sind österreichische Staatsbürger ab 16 Jahren. Kandidieren kann man ab 18 Jahren.",en:"Austrian citizens aged 16 and over may vote in National Council elections. You can stand as a candidate from age 18.",v:["wahlberechtigt = entitled to vote"]},
+{de:"Der Nationalrat hat 183 Abgeordnete und wird alle fünf Jahre gewählt. Der Bundesrat vertritt die Bundesländer.",en:"The National Council has 183 members and is elected every five years. The Federal Council represents the federal provinces.",v:["der Abgeordnete = member of parliament","vertreten = to represent"]},
+{de:"Direkte Demokratie: Volksbegehren, Volksbefragung und Volksabstimmung sind Instrumente der direkten Mitbestimmung.",en:"Direct democracy: popular initiative, public consultation and referendum are instruments of direct participation.",v:["die Volksabstimmung = referendum"]}]},
+{title:"Österreich als Republik",titleEn:"Austria as a republic",facts:[
+{de:"Republik bedeutet: Das Staatsoberhaupt ist kein Monarch, sondern wird vom Volk gewählt.",en:"Republic means: the head of state is not a monarch but is elected by the people.",v:["das Staatsoberhaupt = head of state"]},
+{de:"Der Bundespräsident wird direkt vom Volk für sechs Jahre gewählt — höchstens zwei Amtszeiten hintereinander.",en:"The Federal President is elected directly by the people for six years — at most two consecutive terms.",v:["die Amtszeit = term of office"]},
+{de:"Der Bundespräsident ernennt den Bundeskanzler und auf dessen Vorschlag die Mitglieder der Bundesregierung.",en:"The Federal President appoints the Federal Chancellor and, on the Chancellor's proposal, the members of the federal government.",v:["ernennen = to appoint","der Vorschlag = proposal"]},
+{de:"Der Bundeskanzler ist der Chef der Bundesregierung. Die Regierung braucht das Vertrauen des Nationalrats.",en:"The Federal Chancellor heads the federal government. The government needs the confidence of the National Council.",v:["das Vertrauen = confidence/trust"]}]},
+{title:"Österreich als Bundesstaat",titleEn:"Austria as a federal state",facts:[
+{de:"Österreich ist ein Bundesstaat mit neun Bundesländern: Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien.",en:"Austria is a federal state with nine provinces: Burgenland, Carinthia, Lower Austria, Upper Austria, Salzburg, Styria, Tyrol, Vorarlberg and Vienna.",v:[]},
+{de:"Jedes Bundesland hat einen Landtag (Landesparlament), eine Landesregierung und einen Landeshauptmann bzw. eine Landeshauptfrau.",en:"Each province has a Landtag (provincial parliament), a provincial government and a governor (Landeshauptmann/Landeshauptfrau).",v:["der Landtag = provincial parliament"]},
+{de:"Die Gemeinden sind die kleinste Verwaltungseinheit. Der Gemeinderat und der Bürgermeister werden gewählt.",en:"Municipalities are the smallest administrative unit. The municipal council and the mayor are elected.",v:["die Gemeinde = municipality"]}]},
+{title:"Gewaltenteilung & Staatsaufgaben",titleEn:"Separation of powers & state functions",facts:[
+{de:"Die Staatsgewalt ist geteilt in Gesetzgebung (Parlament), Verwaltung (Regierung, Behörden) und Gerichtsbarkeit (unabhängige Gerichte).",en:"State power is divided into legislation (parliament), administration (government, authorities) and the judiciary (independent courts).",v:["die Gewaltenteilung = separation of powers","die Gerichtsbarkeit = judiciary"]},
+{de:"Diese Teilung verhindert den Missbrauch der Macht: Die Gewalten kontrollieren einander.",en:"This division prevents the abuse of power: the branches control each other.",v:["der Missbrauch = abuse","verhindern = to prevent"]},
+{de:"Gesetze werden vom Nationalrat beschlossen. Der Bundesrat kann in den meisten Fällen Einspruch erheben.",en:"Laws are passed by the National Council. The Federal Council can object in most cases.",v:["der Einspruch = objection"]}]},
+{title:"Österreich in der EU",titleEn:"Austria in the EU",facts:[
+{de:"Österreich ist seit 1995 Mitglied der Europäischen Union. EU-Recht ist neben der Bundesverfassung eine wichtige Grundlage der Rechtsordnung.",en:"Austria has been a member of the European Union since 1995. EU law, alongside the federal constitution, is an important basis of the legal order.",v:["die Grundlage = basis/foundation"]},
+{de:"Die Bürgerinnen und Bürger wählen alle fünf Jahre das Europäische Parlament.",en:"Citizens elect the European Parliament every five years.",v:[]},
+{de:"Vorteile der EU im Alltag: der Euro, Reisefreiheit, Studieren in der ganzen EU und günstigeres Telefonieren zwischen EU-Staaten.",en:"Everyday benefits of the EU: the euro, freedom of travel, studying anywhere in the EU and cheaper phone calls between EU states.",v:["der Vorteil = advantage","der Alltag = everyday life"]}]}
+]},
+{id:"salzburg",label:"Geschichte Salzburgs",labelEn:"History of Salzburg",chapters:[
+{title:"Vom Erzbistum zum Bundesland",titleEn:"From archbishopric to federal province",facts:[
+{de:"Der Name „Salzburg“ kommt vom Salz: Der Salzhandel auf der Salzach machte das Land reich.",en:"The name 'Salzburg' comes from salt: the salt trade on the Salzach river made the land rich.",v:["das Salz = salt","der Handel = trade"]},
+{de:"Um das Jahr 696 gründete der heilige Rupert das Bistum Salzburg. Rupert ist der Landespatron Salzburgs.",en:"Around the year 696, Saint Rupert founded the bishopric of Salzburg. Rupert is the patron saint of the province.",v:["der Landespatron = patron saint of the province"]},
+{de:"Salzburg war jahrhundertelang ein selbstständiges geistliches Fürstentum, regiert von Fürsterzbischöfen — kein Teil Österreichs.",en:"For centuries Salzburg was an independent ecclesiastical principality ruled by prince-archbishops — not part of Austria.",v:["selbstständig = independent","der Fürsterzbischof = prince-archbishop"]},
+{de:"Der Bau der Festung Hohensalzburg begann im Jahr 1077 unter Erzbischof Gebhard.",en:"Construction of the Hohensalzburg Fortress began in 1077 under Archbishop Gebhard.",v:["die Festung = fortress"]},
+{de:"1731/32 mussten rund 20.000 Protestanten unter Fürsterzbischof Firmian das Land verlassen.",en:"In 1731/32 around 20,000 Protestants had to leave the country under Prince-Archbishop Firmian.",v:["verlassen = to leave"]},
+{de:"1803 endete die geistliche Herrschaft (Säkularisierung). 1816 kam Salzburg endgültig zu Österreich.",en:"In 1803 ecclesiastical rule ended (secularisation). In 1816 Salzburg finally became part of Austria.",v:["endgültig = final/definitive"]},
+{de:"Seit 1921 ist Salzburg ein eigenes Bundesland der Republik Österreich mit eigener Landesverfassung.",en:"Since 1921 Salzburg has been a federal province of the Republic of Austria with its own provincial constitution.",v:[]}]},
+{title:"Kultur & berühmte Persönlichkeiten",titleEn:"Culture & famous people",facts:[
+{de:"Wolfgang Amadeus Mozart wurde 1756 in der Stadt Salzburg geboren.",en:"Wolfgang Amadeus Mozart was born in the city of Salzburg in 1756.",v:["geboren = born"]},
+{de:"Die Salzburger Festspiele wurden 1920 gegründet und gehören zu den berühmtesten Kulturfestivals der Welt. Das Stück „Jedermann“ wird jedes Jahr am Domplatz gespielt.",en:"The Salzburg Festival was founded in 1920 and is one of the most famous cultural festivals in the world. The play 'Jedermann' is performed every year on the cathedral square.",v:["die Festspiele = festival"]},
+{de:"Das Lied „Stille Nacht, heilige Nacht“ wurde 1818 in Oberndorf bei Salzburg zum ersten Mal gesungen (Text: Joseph Mohr, Melodie: Franz Xaver Gruber).",en:"The song 'Silent Night, Holy Night' was sung for the first time in 1818 in Oberndorf near Salzburg (lyrics: Joseph Mohr, melody: Franz Xaver Gruber).",v:["das Lied = song"]},
+{de:"Die Altstadt von Salzburg ist seit 1996 UNESCO-Weltkulturerbe.",en:"Salzburg's old town has been a UNESCO World Heritage Site since 1996.",v:["das Weltkulturerbe = world cultural heritage"]},
+{de:"Der berühmte Arzt Paracelsus lebte und starb in Salzburg (1541).",en:"The famous physician Paracelsus lived and died in Salzburg (1541).",v:["der Arzt = physician/doctor"]}]},
+{title:"Land & Bezirke heute",titleEn:"The province & its districts today",facts:[
+{de:"Das Land Salzburg hat sechs Bezirke: die Stadt Salzburg, Flachgau (Salzburg-Umgebung), Tennengau (Hallein), Pongau (St. Johann), Pinzgau (Zell am See) und Lungau (Tamsweg).",en:"The province of Salzburg has six districts: the city of Salzburg, Flachgau (Salzburg-Umgebung), Tennengau (Hallein), Pongau (St. Johann), Pinzgau (Zell am See) and Lungau (Tamsweg).",v:["der Bezirk = district"]},
+{de:"Im Land Salzburg leben rund 560.000 Menschen in 119 Gemeinden. Die Landeshauptstadt ist die Stadt Salzburg.",en:"Around 560,000 people live in the province of Salzburg in 119 municipalities. The provincial capital is the city of Salzburg.",v:["die Landeshauptstadt = provincial capital"]},
+{de:"Der höchste Berg, der ganz in Salzburg liegt, ist der Großvenediger (3.657 m). Ein großer Teil des Nationalparks Hohe Tauern liegt in Salzburg.",en:"The highest mountain entirely within Salzburg is the Großvenediger (3,657 m). A large part of the Hohe Tauern National Park lies in Salzburg.",v:["der Berg = mountain"]},
+{de:"Die Großglockner-Hochalpenstraße wurde 1935 eröffnet und verbindet Salzburg mit Kärnten.",en:"The Großglockner High Alpine Road was opened in 1935 and connects Salzburg with Carinthia.",v:["eröffnen = to open"]},
+{de:"Wichtige Wirtschaftszweige sind Tourismus, Handel und Gewerbe. Die Salzach ist der wichtigste Fluss des Landes.",en:"Important economic sectors are tourism, trade and crafts. The Salzach is the most important river of the province.",v:["der Fluss = river"]}]},
+{title:"Politik im Land Salzburg",titleEn:"Politics in the province",facts:[
+{de:"Der Salzburger Landtag hat 36 Abgeordnete und wird alle fünf Jahre gewählt.",en:"The Salzburg Landtag has 36 members and is elected every five years.",v:[]},
+{de:"An der Spitze der Landesregierung steht der Landeshauptmann bzw. die Landeshauptfrau. Seit 2025 ist Karoline Edtstadler Landeshauptfrau (Stand 2026).",en:"The provincial government is headed by the governor. Since 2025, Karoline Edtstadler has been governor (as of 2026).",v:["die Spitze = top/head"]},
+{de:"Die Landesfarben Salzburgs sind Rot-Weiß. Das Wappen zeigt einen schwarzen Löwen und einen weißen Balken auf Rot.",en:"Salzburg's provincial colours are red and white. The coat of arms shows a black lion and a white bar on red.",v:["das Wappen = coat of arms"]},
+{de:"Die Bezirksverwaltung machen die Bezirkshauptmannschaften; in der Stadt Salzburg ist es der Magistrat.",en:"District administration is handled by the district authorities (Bezirkshauptmannschaften); in the city of Salzburg it is the Magistrat.",v:["die Verwaltung = administration"]}]}
+]}];
+
+const QUESTIONS={
+geschichte:[
+{q:"Zu welchem großen Reich gehörte das Gebiet des heutigen Österreich fast 500 Jahre lang?",qEn:"To which great empire did the territory of today's Austria belong for almost 500 years?",opts:[["Zum Römischen Reich","The Roman Empire",true],["Zum Persischen Reich","The Persian Empire",false],["Zum Chinesischen Reich","The Chinese Empire",false],["Zum Osmanischen Reich","The Ottoman Empire",false]]},
+{q:"In welchem Jahr wurde der Name „Ostarrichi“ erstmals erwähnt?",qEn:"In which year was the name 'Ostarrichi' first mentioned?",opts:[["996","996",true],["1273","1273",false],["1804","1804",false],["1918","1918",false]]},
+{q:"Welche Reformen führte Maria Theresia ein?",qEn:"Which reforms did Maria Theresia introduce?",opts:[["Die Schulpflicht","Compulsory schooling",true],["Die Abschaffung der Folter","Abolition of torture",true],["Den Beitritt zur EU","Joining the EU",false],["Die Einführung des Euro","Introduction of the euro",false]]},
+{q:"Was waren wesentliche Forderungen der Revolution von 1848?",qEn:"What were key demands of the 1848 revolution?",opts:[["Freiheit und Bürgerrechte","Freedom and civil rights",true],["Eine Verfassung","A constitution",true],["Mehr Macht für den Kaiser","More power for the emperor",false],["Ein gewähltes Parlament","An elected parliament",true]]},
+{q:"Wie hieß der Staat der Habsburger von 1867 bis 1918?",qEn:"What was the Habsburg state called from 1867 to 1918?",opts:[["Österreich-Ungarn","Austria-Hungary",true],["Ostmark","Ostmark",false],["Deutsch-Österreich","German-Austria",false],["Heiliges Römisches Reich","Holy Roman Empire",false]]},
+{q:"Welche Folgen hatte der Erste Weltkrieg für Österreich?",qEn:"What consequences did WWI have for Austria?",opts:[["Die Herrschaft der Habsburger endete","Habsburg rule ended",true],["Österreich wurde eine Republik","Austria became a republic",true],["Österreich wurde EU-Mitglied","Austria joined the EU",false],["Franz Josef wurde Kaiser","Franz Josef became emperor",false]]},
+{q:"Wann wurde die österreichische Bundesverfassung (B-VG) beschlossen?",qEn:"When was the Austrian Federal Constitution adopted?",opts:[["1920","1920",true],["1955","1955",false],["1848","1848",false],["1995","1995",false]]},
+{q:"Wer wurde nach dem „Anschluss“ 1938 verfolgt?",qEn:"Who was persecuted after the 'Anschluss' in 1938?",opts:[["Jüdinnen und Juden","Jews",true],["Roma und Sinti","Roma and Sinti",true],["Menschen mit Behinderung","People with disabilities",true],["Mitglieder der NSDAP","Members of the Nazi party",false]]},
+{q:"Wo war das größte Konzentrationslager auf dem Gebiet des heutigen Österreich?",qEn:"Where was the largest concentration camp on the territory of today's Austria?",opts:[["Mauthausen","Mauthausen",true],["Salzburg","Salzburg",false],["Graz","Graz",false],["St. Pölten","St. Pölten",false]]},
+{q:"Welche wichtigen Ereignisse passierten im Jahr 1955?",qEn:"Which important events happened in 1955?",opts:[["Unterzeichnung des Staatsvertrages","Signing of the State Treaty",true],["Ende der Besatzungszeit","End of the occupation",true],["Beschluss der immerwährenden Neutralität","Declaration of permanent neutrality",true],["Einführung des Euro","Introduction of the euro",false]]},
+{q:"Warum ist der 26. Oktober der österreichische Nationalfeiertag?",qEn:"Why is 26 October Austria's national holiday?",opts:[["Weil 1955 die immerwährende Neutralität beschlossen wurde","Because permanent neutrality was declared in 1955",true],["Weil Mozart geboren wurde","Because Mozart was born",false],["Weil Österreich der EU beitrat","Because Austria joined the EU",false],["Weil der Erste Weltkrieg endete","Because WWI ended",false]]},
+{q:"Wann wurde Österreich Mitglied der Europäischen Union?",qEn:"When did Austria become a member of the EU?",opts:[["1995","1995",true],["1955","1955",false],["1989","1989",false],["2002","2002",false]]},
+{q:"Welche Organisationen bilden die Sozialpartnerschaft?",qEn:"Which organisations form the social partnership?",opts:[["Arbeiterkammer (AK)","Chamber of Labour (AK)",true],["Wirtschaftskammer (WKÖ)","Economic Chamber (WKÖ)",true],["Österreichischer Gewerkschaftsbund (ÖGB)","Trade Union Federation (ÖGB)",true],["Bundesheer","Federal Army",false]]}],
+demokratie:[
+{q:"Was kennzeichnet die Menschenwürde?",qEn:"What characterises human dignity?",opts:[["Alle Menschen sind gleich viel wert","All people have equal worth",true],["Alle Menschen haben Rechte, die ihnen niemand nehmen darf","All people have rights no one may take away",true],["Sie hängt von der Staatsbürgerschaft ab","It depends on citizenship",false],["Sie hängt vom Alter ab","It depends on age",false]]},
+{q:"Was kennzeichnet einen liberalen Staat?",qEn:"What characterises a liberal state?",opts:[["Ein Leben in größtmöglicher Freiheit","Life in the greatest possible freedom",true],["Freie Wahl von Beruf und Wohnort","Free choice of profession and residence",true],["Es gibt keine Gesetze","There are no laws",false],["Der Staat bestimmt die Religion","The state determines religion",false]]},
+{q:"Was sind Merkmale eines Rechtsstaates?",qEn:"What are features of the rule of law?",opts:[["Die Rechtsordnung gilt auch für den Staat selbst","The legal order also applies to the state itself",true],["Gesetze dürfen die Menschenrechte nicht verletzen","Laws may not violate human rights",true],["Der Staat darf alles tun","The state may do anything",false],["Richter sind unabhängig","Judges are independent",true]]},
+{q:"Welches Gericht prüft, ob Gesetze zur Verfassung passen?",qEn:"Which court checks whether laws comply with the constitution?",opts:[["Der Verfassungsgerichtshof","The Constitutional Court",true],["Das Bezirksgericht","The district court",false],["Die Polizei","The police",false],["Der Bundesrat","The Federal Council",false]]},
+{q:"Ab welchem Alter dürfen österreichische Staatsbürger bei Nationalratswahlen wählen?",qEn:"From what age may Austrian citizens vote in National Council elections?",opts:[["Ab 16 Jahren","From age 16",true],["Ab 18 Jahren","From age 18",false],["Ab 21 Jahren","From age 21",false],["Ab 14 Jahren","From age 14",false]]},
+{q:"Wie viele Abgeordnete hat der Nationalrat?",qEn:"How many members does the National Council have?",opts:[["183","183",true],["100","100",false],["36","36",false],["61","61",false]]},
+{q:"Wie lange dauert die Amtszeit des Bundespräsidenten?",qEn:"How long is the Federal President's term of office?",opts:[["Sechs Jahre","Six years",true],["Vier Jahre","Four years",false],["Fünf Jahre","Five years",false],["Zehn Jahre","Ten years",false]]},
+{q:"Wer ernennt den Bundeskanzler?",qEn:"Who appoints the Federal Chancellor?",opts:[["Der Bundespräsident","The Federal President",true],["Der Nationalrat","The National Council",false],["Die Landeshauptleute","The provincial governors",false],["Das Volk direkt","The people directly",false]]},
+{q:"Welche sind österreichische Bundesländer?",qEn:"Which are Austrian federal provinces?",opts:[["Salzburg","Salzburg",true],["Tirol","Tyrol",true],["Bayern","Bavaria",false],["Kärnten","Carinthia",true]]},
+{q:"In welche drei Gewalten ist die Staatsgewalt geteilt?",qEn:"Into which three branches is state power divided?",opts:[["Gesetzgebung","Legislation",true],["Verwaltung","Administration",true],["Gerichtsbarkeit","Judiciary",true],["Religion","Religion",false]]},
+{q:"Welche Instrumente der direkten Demokratie gibt es in Österreich?",qEn:"Which instruments of direct democracy exist in Austria?",opts:[["Volksbegehren","Popular initiative",true],["Volksabstimmung","Referendum",true],["Volksbefragung","Public consultation",true],["Volksgericht","People's court",false]]},
+{q:"Was sind Vorteile der EU-Mitgliedschaft im Alltag?",qEn:"What are everyday benefits of EU membership?",opts:[["Der Euro als gemeinsame Währung","The euro as common currency",true],["Studieren in der ganzen EU","Studying anywhere in the EU",true],["EU-Bürger dürfen nicht schlechter behandelt werden","EU citizens may not be treated worse",true],["Es gibt keine Steuern mehr","There are no more taxes",false]]}],
+salzburg:[
+{q:"Wer gründete um das Jahr 696 das Bistum Salzburg?",qEn:"Who founded the bishopric of Salzburg around 696?",opts:[["Der heilige Rupert","Saint Rupert",true],["Mozart","Mozart",false],["Maria Theresia","Maria Theresia",false],["Kaiser Franz Josef","Emperor Franz Josef",false]]},
+{q:"Wer regierte Salzburg jahrhundertelang als selbstständiges Fürstentum?",qEn:"Who ruled Salzburg for centuries as an independent principality?",opts:[["Die Fürsterzbischöfe","The prince-archbishops",true],["Die Habsburger","The Habsburgs",false],["Die Römer","The Romans",false],["Die Bayern","The Bavarians",false]]},
+{q:"Wann kam Salzburg endgültig zu Österreich?",qEn:"When did Salzburg finally become part of Austria?",opts:[["1816","1816",true],["996","996",false],["1273","1273",false],["1955","1955",false]]},
+{q:"Welcher berühmte Komponist wurde 1756 in Salzburg geboren?",qEn:"Which famous composer was born in Salzburg in 1756?",opts:[["Wolfgang Amadeus Mozart","Wolfgang Amadeus Mozart",true],["Ludwig van Beethoven","Ludwig van Beethoven",false],["Johann Strauss","Johann Strauss",false],["Joseph Haydn","Joseph Haydn",false]]},
+{q:"In welchem Jahr wurden die Salzburger Festspiele gegründet?",qEn:"In which year was the Salzburg Festival founded?",opts:[["1920","1920",true],["1818","1818",false],["1996","1996",false],["1756","1756",false]]},
+{q:"Wo wurde das Lied „Stille Nacht, heilige Nacht“ 1818 zum ersten Mal gesungen?",qEn:"Where was 'Silent Night' first sung in 1818?",opts:[["In Oberndorf bei Salzburg","In Oberndorf near Salzburg",true],["In Wien","In Vienna",false],["In Hallein","In Hallein",false],["In Zell am See","In Zell am See",false]]},
+{q:"Welche sind Bezirke des Landes Salzburg?",qEn:"Which are districts of the province of Salzburg?",opts:[["Pinzgau","Pinzgau",true],["Lungau","Lungau",true],["Flachgau","Flachgau",true],["Innviertel","Innviertel",false]]},
+{q:"Wie viele Abgeordnete hat der Salzburger Landtag?",qEn:"How many members does the Salzburg Landtag have?",opts:[["36","36",true],["183","183",false],["61","61",false],["100","100",false]]},
+{q:"In welchem Abstand finden die Landtagswahlen in Salzburg statt?",qEn:"How often are Landtag elections held in Salzburg?",opts:[["Alle fünf Jahre","Every five years",true],["Alle vier Jahre","Every four years",false],["Alle sechs Jahre","Every six years",false],["Alle zehn Jahre","Every ten years",false]]},
+{q:"Seit wann ist die Altstadt von Salzburg UNESCO-Weltkulturerbe?",qEn:"Since when has Salzburg's old town been a UNESCO World Heritage Site?",opts:[["Seit 1996","Since 1996",true],["Seit 1920","Since 1920",false],["Seit 1816","Since 1816",false],["Seit 2002","Since 2002",false]]},
+{q:"Woher kommt der Name „Salzburg“?",qEn:"Where does the name 'Salzburg' come from?",opts:[["Vom Salz und dem Salzhandel","From salt and the salt trade",true],["Von einem römischen Kaiser","From a Roman emperor",false],["Von einem Berg","From a mountain",false],["Von Mozart","From Mozart",false]]},
+{q:"Welcher Fluss fließt durch die Stadt Salzburg?",qEn:"Which river flows through the city of Salzburg?",opts:[["Die Salzach","The Salzach",true],["Die Donau","The Danube",false],["Der Inn","The Inn",false],["Die Mur","The Mur",false]]}]};
+
+const VOCAB=[
+["die Staatsbürgerschaft","citizenship","Ich beantrage die österreichische Staatsbürgerschaft."],
+["die Verfassung","constitution","Die Bundesverfassung gilt seit 1920."],
+["das Gesetz, -e","law","Das Parlament beschließt die Gesetze."],
+["die Wahl, -en","election","Die Wahlen sind frei, gleich und geheim."],
+["wählen","to vote / to elect","Man darf ab 16 Jahren wählen."],
+["das Recht, -e","right / law","Alle Menschen haben gleiche Rechte."],
+["die Pflicht, -en","duty / obligation","Rechte und Pflichten gehören zusammen."],
+["das Grundrecht, -e","fundamental right","Die Meinungsfreiheit ist ein Grundrecht."],
+["die Menschenwürde","human dignity","Die Menschenwürde ist unantastbar."],
+["die Freiheit, -en","freedom","Die Freiheit der Person wird geschützt."],
+["die Gleichberechtigung","equal rights","Frauen und Männer haben Gleichberechtigung."],
+["der Rechtsstaat","state under the rule of law","Österreich ist ein Rechtsstaat."],
+["die Demokratie","democracy","In einer Demokratie geht das Recht vom Volk aus."],
+["die Republik","republic","Österreich ist seit 1918 eine Republik."],
+["der Bundesstaat","federal state","Der Bundesstaat besteht aus neun Bundesländern."],
+["das Bundesland, -länder","federal province","Salzburg ist ein Bundesland."],
+["die Gewaltenteilung","separation of powers","Die Gewaltenteilung verhindert Machtmissbrauch."],
+["der Nationalrat","National Council","Der Nationalrat hat 183 Abgeordnete."],
+["der Bundesrat","Federal Council","Der Bundesrat vertritt die Bundesländer."],
+["der Bundespräsident","Federal President","Der Bundespräsident wird für sechs Jahre gewählt."],
+["der Bundeskanzler","Federal Chancellor","Der Bundeskanzler leitet die Regierung."],
+["die Regierung, -en","government","Die Regierung braucht das Vertrauen des Parlaments."],
+["das Parlament, -e","parliament","Das Parlament beschließt die Gesetze."],
+["der Abgeordnete, -n","member of parliament","Die Abgeordneten werden gewählt."],
+["der Landtag","provincial parliament","Der Salzburger Landtag hat 36 Abgeordnete."],
+["der Landeshauptmann / die Landeshauptfrau","provincial governor","Die Landeshauptfrau führt die Landesregierung."],
+["die Gemeinde, -n","municipality","Salzburg hat 119 Gemeinden."],
+["der Bürgermeister, -","mayor","Der Bürgermeister wird gewählt."],
+["der Bezirk, -e","district","Der Pinzgau ist ein Bezirk Salzburgs."],
+["das Gericht, -e","court","Die Gerichte sind unabhängig."],
+["der Richter, - / die Richterin","judge","Richter sind unabsetzbar."],
+["die Neutralität","neutrality","Österreich beschloss 1955 die Neutralität."],
+["der Staatsvertrag","State Treaty","Der Staatsvertrag wurde 1955 unterzeichnet."],
+["die Monarchie","monarchy","Die Monarchie endete 1918."],
+["der Kaiser, -","emperor","Franz Josef war Kaiser von Österreich-Ungarn."],
+["der Krieg, -e","war","Der Zweite Weltkrieg endete 1945."],
+["der Frieden","peace","Nach dem Krieg kam der Frieden."],
+["die Geschichte","history","Die Geschichte Österreichs ist Prüfungsstoff."],
+["die Verfolgung","persecution","Die Verfolgung von Minderheiten ist verboten."],
+["die Minderheit, -en","minority","Minderheiten werden in Österreich geschützt."],
+["die Meinungsfreiheit","freedom of opinion","Die Meinungsfreiheit gilt ohne Zensur."],
+["die Glaubensfreiheit","freedom of religion","Jeder darf seine Religion frei wählen."],
+["die Diskriminierung","discrimination","Diskriminierung ist verboten."],
+["die Volksabstimmung","referendum","1994 gab es eine Volksabstimmung über den EU-Beitritt."],
+["die Währung, -en","currency","Der Euro ist die gemeinsame Währung."],
+["der Beitritt","accession / joining","Der EU-Beitritt war 1995."],
+["die Unabhängigkeit","independence","1955 bekam Österreich die volle Unabhängigkeit."],
+["die Besatzung","occupation","Die Besatzungszeit dauerte bis 1955."],
+["der Nationalfeiertag","national holiday","Der Nationalfeiertag ist am 26. Oktober."],
+["die Festung","fortress","Die Festung Hohensalzburg steht über der Stadt."]];
+
+/* ===================== STATE & STORAGE ===================== */
+let state={tab:"lernen",showEn:true,read:{},boxes:{},history:[],
+  areaIdx:0,chIdx:0,
+  fcFilter:"all",fcQueue:[],fcFlipped:false,
+  exam:null,answers:{},submitted:false,showEnQ:true,
+  vMode:"list",vWord:null,vRevealed:false,vRight:0,vTotal:0};
+
+const memStore={};
+async function save(){
+  const data=JSON.stringify({read:state.read,boxes:state.boxes,history:state.history});
+  try{ if(window.storage){await window.storage.set("sbp-progress-v1",data);} else {memStore.p=data;} }catch(e){ memStore.p=data; }
+}
+async function load(){
+  try{
+    if(window.storage){const r=await window.storage.get("sbp-progress-v1"); if(r){return JSON.parse(r.value);}}
+  }catch(e){}
+  return memStore.p?JSON.parse(memStore.p):null;
+}
+
+/* ===================== HELPERS ===================== */
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+function shuffle(a){a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+const allCards=[];
+AREAS.forEach(area=>area.chapters.forEach((ch,ci)=>ch.facts.forEach((f,fi)=>allCards.push({id:area.id+"-"+ci+"-"+fi,area:area.label,chapter:ch.title,...f}))));
+function pillRow(items){return items.map(w=>`<span class="pill gold">${esc(w)}</span>`).join("");}
+
+/* ---- Text-to-speech (browser built-in, German voice) ---- */
+let voices=[];
+function loadVoices(){try{voices=speechSynthesis.getVoices();}catch(e){}}
+if("speechSynthesis" in window){loadVoices();speechSynthesis.onvoiceschanged=loadVoices;}
+function pickVoice(lang){
+  const l=v=>v.lang.toLowerCase();
+  if(lang==="de")return voices.find(v=>l(v).startsWith("de-at"))||voices.find(v=>l(v).startsWith("de"));
+  return voices.find(v=>l(v).startsWith("en-gb"))||voices.find(v=>l(v).startsWith("en"));
+}
+function speak(text,lang){
+  if(!("speechSynthesis" in window)){alert("Sprachausgabe wird in diesem Browser nicht unterstützt. / Speech is not supported in this browser.");return;}
+  speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(text);
+  const v=pickVoice(lang||"de");
+  if(v){u.voice=v;u.lang=v.lang;}else{u.lang=lang==="en"?"en-GB":"de-DE";}
+  u.rate=0.88;
+  speechSynthesis.speak(u);
+}
+function sayBtn(text,lang,lg){return `<button class="play${lg?" lg":""}" data-say="${esc(text)}" data-lang="${lang||"de"}" title="Anhören · listen" aria-label="Anhören">🔊</button>`;}
+
+/* ===================== RENDER ===================== */
+const $view=document.getElementById("view");
+const $tabs=document.getElementById("tabs");
+const $stats=document.getElementById("stats");
+const TABS=[["lernen","Lernen","Study"],["karten","Lernkarten","Flashcards"],["pruefung","Prüfung","Exam"],["woerter","Wortschatz","Vocabulary"]];
+
+function renderTabs(){
+  $tabs.innerHTML=TABS.map(([k,de,en])=>`<button class="${state.tab===k?"on":""}" data-tab="${k}">${de}<span>${en}</span></button>`).join("");
+  $tabs.querySelectorAll("button").forEach(b=>b.onclick=()=>{state.tab=b.dataset.tab;render();});
+}
+function renderStats(){
+  const readCount=Object.values(state.read).filter(Boolean).length;
+  const mastered=Object.values(state.boxes).filter(b=>b===3).length;
+  const passed=state.history.filter(h=>h.passed).length;
+  $stats.innerHTML=`<span class="pill red">${readCount}/${allCards.length} Fakten gelernt</span>
+    <span class="pill green">${mastered} Karten in Box 3</span>
+    ${state.history.length?`<span class="pill">${passed}/${state.history.length} Prüfungen bestanden</span>`:""}`;
+}
+
+/* ---------- STUDY ---------- */
+function renderStudy(){
+  const area=AREAS[state.areaIdx],ch=area.chapters[state.chIdx];
+  let html=`<label class="toggle"><input type="checkbox" id="entog" ${state.showEn?"checked":""}> Englische Übersetzung anzeigen · show English translation</label>`;
+  html+=`<div style="margin-bottom:6px">`+AREAS.map((a,i)=>`<button class="chip ${i===state.areaIdx?"on":""}" data-area="${i}">Teil ${i+1} · ${a.label}</button>`).join("")+`</div>`;
+  html+=`<div class="scroll-x">`+area.chapters.map((c,i)=>{
+    const done=c.facts.every((_,fi)=>state.read[area.id+"-"+i+"-"+fi]);
+    return `<button class="chip sm ${i===state.chIdx?"on":done?"done":""}" data-ch="${i}" style="margin-right:6px">${done?"✓ ":""}${esc(c.title)}</button>`;
+  }).join("")+`</div>`;
+  html+=`<h2>${esc(ch.title)}</h2><p class="sub" style="margin:0 0 16px">${esc(ch.titleEn)}</p>`;
+  ch.facts.forEach((f,fi)=>{
+    const id=area.id+"-"+state.chIdx+"-"+fi, isRead=!!state.read[id];
+    html+=`<div class="fact ${isRead?"read":""}">
+      <p class="de">${esc(f.de)} ${sayBtn(f.de,"de")}</p>
+      ${state.showEn?`<p class="en">${esc(f.en)} ${sayBtn(f.en,"en")}</p>`:""}
+      ${f.v&&f.v.length?`<div style="margin-top:10px">${pillRow(f.v)}</div>`:""}
+      <button class="mark" data-read="${id}">${isRead?"✓ Gelernt (learned)":"Als gelernt markieren · mark as learned"}</button>
+    </div>`;
+  });
+  html+=`<div class="navbtns">
+    <button class="back" ${state.chIdx===0?"disabled":""} id="prevCh">← Zurück</button>
+    <button class="next" ${state.chIdx===area.chapters.length-1?"disabled":""} id="nextCh">Weiter →</button></div>`;
+  $view.innerHTML=html;
+  document.getElementById("entog").onchange=e=>{state.showEn=e.target.checked;render();};
+  $view.querySelectorAll("[data-area]").forEach(b=>b.onclick=()=>{state.areaIdx=+b.dataset.area;state.chIdx=0;render();});
+  $view.querySelectorAll("[data-ch]").forEach(b=>b.onclick=()=>{state.chIdx=+b.dataset.ch;render();});
+  $view.querySelectorAll("[data-read]").forEach(b=>b.onclick=()=>{const id=b.dataset.read;state.read[id]=!state.read[id];save();render();});
+  document.getElementById("prevCh").onclick=()=>{if(state.chIdx>0){state.chIdx--;render();window.scrollTo(0,0);}};
+  document.getElementById("nextCh").onclick=()=>{if(state.chIdx<area.chapters.length-1){state.chIdx++;render();window.scrollTo(0,0);}};
+}
+
+/* ---------- FLASHCARDS ---------- */
+function buildQueue(){
+  let pool=allCards.filter(c=>(state.boxes[c.id]||1)<3);
+  if(state.fcFilter!=="all")pool=pool.filter(c=>c.id.startsWith(state.fcFilter));
+  const b1=shuffle(pool.filter(c=>(state.boxes[c.id]||1)===1));
+  const b2=shuffle(pool.filter(c=>(state.boxes[c.id]||1)===2));
+  state.fcQueue=b1.concat(b2).slice(0,15);
+  state.fcFlipped=false;
+}
+function renderCards(){
+  const counts={1:0,2:0,3:0};
+  allCards.forEach(c=>counts[state.boxes[c.id]||1]++);
+  let html=`<p class="muted" style="margin-top:0;line-height:1.5">Das offizielle Lernkarten-System: Karten wandern bei richtiger Antwort eine Box weiter. Box 3 = sicher gewusst. <i>The official flashcard method: cards move up a box when you know them. Box 3 = mastered.</i></p>`;
+  html+=`<div class="boxes">
+    <div class="boxstat"><div class="n" style="color:var(--red)">${counts[1]}</div><div class="l">Box 1 · neu/schwer</div></div>
+    <div class="boxstat"><div class="n" style="color:var(--gold)">${counts[2]}</div><div class="l">Box 2 · halbwegs</div></div>
+    <div class="boxstat" style="background:var(--green-bg)"><div class="n" style="color:var(--green)">${counts[3]}</div><div class="l">Box 3 · gewusst ✓</div></div></div>`;
+  const filters=[["all","Alle Teile"],["geschichte","Geschichte"],["demokratie","Demokratie"],["salzburg","Salzburg"]];
+  html+=`<div style="margin-bottom:14px">`+filters.map(([k,l])=>`<button class="chip sm ${state.fcFilter===k?"on":""}" data-f="${k}" style="margin-right:6px">${l}</button>`).join("")+`</div>`;
+  const card=state.fcQueue[0];
+  if(!card){
+    html+=`<div class="donebox"><div style="font-size:32px">🎉</div>
+      <p style="font-weight:700;color:var(--green);margin:8px 0 4px">Stapel geschafft! Round complete!</p>
+      <p class="muted" style="margin:0 0 14px">Alle fälligen Karten dieser Runde sind gelernt. Starte eine neue Runde oder wechsle den Teil.</p>
+      <button class="btn yes" id="newRound" style="flex:none;padding:10px 20px;width:auto">Neue Runde · New round</button></div>`;
+  }else{
+    html+=`<div class="bigcard" id="fc">
+      <div style="margin-bottom:10px"><span class="pill">${esc(card.area)} · ${esc(card.chapter)}</span></div>`;
+    if(!state.fcFlipped){
+      html+=`<p style="font-size:17.5px;line-height:1.55;margin:0;font-weight:500">${esc(card.de)} ${sayBtn(card.de,"de",true)}</p>
+        <p class="muted" style="font-size:12.5px;margin-top:16px">Tippen für Übersetzung · tap for English →</p>`;
+    }else{
+      html+=`<p style="font-size:16px;line-height:1.55;margin:0;font-style:italic">${esc(card.en)} ${sayBtn(card.en,"en",true)}</p>
+        ${card.v&&card.v.length?`<div style="margin-top:14px">${pillRow(card.v)}</div>`:""}`;
+    }
+    html+=`</div>
+      <p class="center muted" style="margin:12px 0">Hast du den Satz verstanden? · Did you understand the sentence?</p>
+      <div class="btnrow">
+        <button class="btn no" id="gradeNo">Nein, nochmal<small>not yet</small></button>
+        <button class="btn yes" id="gradeYes">Ja, gewusst ✓<small>I knew it</small></button></div>
+      <p class="center muted" style="font-size:12px;margin-top:10px">${state.fcQueue.length} Karten übrig in dieser Runde · cards left this round</p>`;
+  }
+  $view.innerHTML=html;
+  $view.querySelectorAll("[data-f]").forEach(b=>b.onclick=()=>{state.fcFilter=b.dataset.f;buildQueue();render();});
+  const nr=document.getElementById("newRound"); if(nr)nr.onclick=()=>{buildQueue();render();};
+  const fc=document.getElementById("fc"); if(fc)fc.onclick=()=>{state.fcFlipped=!state.fcFlipped;render();};
+  const grade=knew=>{
+    const c=state.fcQueue[0],cur=state.boxes[c.id]||1;
+    state.boxes[c.id]=knew?Math.min(3,cur+1):1;
+    state.fcQueue.shift();state.fcFlipped=false;save();render();
+  };
+  const gy=document.getElementById("gradeYes"); if(gy)gy.onclick=()=>grade(true);
+  const gn=document.getElementById("gradeNo"); if(gn)gn.onclick=()=>grade(false);
+}
+
+/* ---------- EXAM ---------- */
+const areaLabel={geschichte:"Teil 1 · Geschichte Österreichs",demokratie:"Teil 2 · Demokratische Grundordnung",salzburg:"Teil 3 · Geschichte Salzburgs"};
+function startExam(){
+  const pick=id=>shuffle(QUESTIONS[id]).slice(0,6).map(q=>({areaId:id,q:q.q,qEn:q.qEn,opts:shuffle(q.opts.map(([de,en,c])=>({de,en,correct:c})))}));
+  state.exam=[...pick("geschichte"),...pick("demokratie"),...pick("salzburg")];
+  state.answers={};state.submitted=false;
+}
+function examScore(){
+  const per={geschichte:0,demokratie:0,salzburg:0};
+  state.exam.forEach((q,qi)=>{
+    const sel=state.answers[qi]||new Set();
+    const nCorrect=q.opts.filter(o=>o.correct).length;
+    const wrong=[...sel].some(i=>!q.opts[i].correct);
+    if(!wrong&&sel.size>0)per[q.areaId]+=[...sel].filter(i=>q.opts[i].correct).length/nCorrect;
+  });
+  const r=n=>Math.round(n*100)/100;
+  const total=r(per.geschichte+per.demokratie+per.salzburg);
+  const passed=total>=12||(per.geschichte>=3&&per.demokratie>=3&&per.salzburg>=3);
+  return{per:{geschichte:r(per.geschichte),demokratie:r(per.demokratie),salzburg:r(per.salzburg)},total,passed};
+}
+function renderExam(){
+  if(!state.exam){
+    let html=`<div class="infobox"><h3>So funktioniert die echte Prüfung</h3><ul>
+      <li><b>18 Fragen</b> — 6 pro Teil (Geschichte, Demokratie, Salzburg)</li>
+      <li>Pro Frage <b>4 Antworten</b>: mindestens 1, höchstens 3 sind richtig</li>
+      <li>Eine falsch angekreuzte Antwort = <b>0 Punkte</b> für die Frage. Nur ankreuzen, wenn du sicher bist!</li>
+      <li><b>Bestanden:</b> mindestens 12 Punkte gesamt — <i>oder</i> mindestens 3 Punkte in jedem Teil</li></ul>
+      <p class="muted" style="font-size:12.5px;margin:10px 0 0;font-style:italic">18 questions, 6 per part. At least 1 and at most 3 answers are correct. One wrong tick = 0 points for that question. Pass: 12 points total or ≥3 points in every part.</p></div>`;
+    if(state.history.length){
+      html+=`<p style="font-size:13px;font-weight:700;color:var(--slate);margin:0 0 6px">Deine bisherigen Versuche · your attempts</p><div style="margin-bottom:14px">`+
+        state.history.slice(-8).map(h=>`<span class="pill ${h.passed?"green":"red"}">${h.date}: ${h.total}/18 ${h.passed?"✓":"✗"}</span>`).join("")+`</div>`;
+    }
+    html+=`<button class="btn primary" id="startEx">Prüfung starten · Start exam</button>`;
+    $view.innerHTML=html;
+    document.getElementById("startEx").onclick=()=>{startExam();render();window.scrollTo(0,0);};
+    return;
+  }
+  let html="";
+  if(state.submitted){
+    const s=examScore();
+    html+=`<div class="result ${s.passed?"pass":"fail"}">
+      <h3 style="font-size:22px;color:${s.passed?"var(--green)":"var(--red)"}">${s.passed?"Bestanden! ✓ Passed!":"Leider nicht bestanden · Not passed"}</h3>
+      <p style="margin:0 0 8px;font-weight:700;font-size:16px">${s.total} / 18 Punkte</p>
+      <div style="font-size:13.5px;line-height:1.7">Geschichte: <b>${s.per.geschichte}</b>/6 · Demokratie: <b>${s.per.demokratie}</b>/6 · Salzburg: <b>${s.per.salzburg}</b>/6</div>
+      <button class="btn dark" id="newEx" style="margin-top:12px">Neue Prüfung · New exam</button></div>`;
+  }
+  html+=`<label class="toggle"><input type="checkbox" id="enq" ${state.showEnQ?"checked":""}> Englische Übersetzung anzeigen · show English translation</label>`;
+  state.exam.forEach((q,qi)=>{
+    const sel=state.answers[qi]||new Set();
+    if(qi===0||state.exam[qi-1].areaId!==q.areaId)html+=`<div style="margin:18px 0 10px"><span class="pill red">${areaLabel[q.areaId]}</span></div>`;
+    html+=`<div class="q"><p class="qt">${qi+1}. ${esc(q.q)} ${sayBtn(q.q,"de")}</p>${state.showEnQ?`<p class="qe">${esc(q.qEn)}</p>`:""}`;
+    q.opts.forEach((o,oi)=>{
+      const chosen=sel.has(oi);
+      let cls="";
+      if(state.submitted){
+        if(o.correct&&chosen)cls="ok";else if(o.correct&&!chosen)cls="missed";else if(!o.correct&&chosen)cls="bad";
+      }else if(chosen)cls="sel";
+      html+=`<div class="opt ${cls}" data-q="${qi}" data-o="${oi}">
+        <div class="cb">${chosen?"✓":""}</div>
+        <div><span class="ode">${esc(o.de)}</span> ${sayBtn(o.de,"de")}${state.showEnQ&&o.en!==o.de?` <span class="oen">— ${esc(o.en)}</span>`:""}
+        ${state.submitted&&o.correct&&!chosen?` <span style="font-size:12px;color:var(--gold);font-weight:700">(richtig, nicht angekreuzt)</span>`:""}</div></div>`;
+    });
+    html+=`</div>`;
+  });
+  if(!state.submitted)html+=`<button class="btn primary" id="submitEx" style="margin-top:6px">Prüfung abgeben · Submit exam</button>`;
+  $view.innerHTML=html;
+  document.getElementById("enq").onchange=e=>{state.showEnQ=e.target.checked;render();};
+  if(!state.submitted){
+    $view.querySelectorAll(".opt").forEach(el=>el.onclick=()=>{
+      const qi=+el.dataset.q,oi=+el.dataset.o;
+      const s=new Set(state.answers[qi]||[]);
+      s.has(oi)?s.delete(oi):s.add(oi);
+      state.answers[qi]=s;render();
+    });
+    document.getElementById("submitEx").onclick=()=>{
+      state.submitted=true;
+      const s=examScore();
+      state.history.push({date:new Date().toISOString().slice(0,10),total:s.total,passed:s.passed});
+      if(state.history.length>20)state.history=state.history.slice(-20);
+      save();render();window.scrollTo(0,0);
+    };
+  }else{
+    document.getElementById("newEx").onclick=()=>{startExam();render();window.scrollTo(0,0);};
+  }
+}
+
+/* ---------- VOCAB ---------- */
+function nextWord(){state.vWord=VOCAB[Math.floor(Math.random()*VOCAB.length)];state.vRevealed=false;}
+function renderVocab(){
+  let html=`<div class="btnrow" style="margin:0 0 14px">
+    <button class="chip ${state.vMode==="list"?"on":""}" style="flex:1;margin:0" id="vlist">Wörterliste · word list</button>
+    <button class="chip ${state.vMode==="quiz"?"on":""}" style="flex:1;margin:0" id="vquiz">Wörter üben · practise</button></div>`;
+  if(state.vMode==="list"){
+    html+=`<p class="muted" style="margin-top:0">${VOCAB.length} Prüfungswörter mit Artikel, Übersetzung und Beispielsatz. Lerne die Artikel (der/die/das) immer mit!</p>`;
+    VOCAB.forEach(([de,en,ex])=>{
+      html+=`<div class="vrow"><div class="top"><span class="w">${esc(de)} ${sayBtn(de,"de")}</span><span class="t">${esc(en)}</span></div><p class="ex">„${esc(ex)}“ ${sayBtn(ex,"de")}</p></div>`;
+    });
+  }else{
+    const w=state.vWord;
+    html+=`<p class="center muted">Richtig: ${state.vRight} / ${state.vTotal}</p>
+      <div class="bigcard center" id="vcard" style="padding:28px">
+        <p class="muted" style="margin:0 0 8px">Was bedeutet das auf Englisch?</p>
+        <p style="font-family:'Fraunces',serif;font-size:26px;font-weight:700;margin:0">${esc(w[0])} ${sayBtn(w[0],"de",true)}</p>`;
+    if(state.vRevealed){
+      html+=`<p style="font-size:19px;color:var(--gold);font-weight:700;margin:14px 0 4px">${esc(w[1])}</p>
+        <p class="muted" style="font-style:italic;margin:0">„${esc(w[2])}“ ${sayBtn(w[2],"de")}</p>`;
+    }else{
+      html+=`<p class="muted" style="font-size:12.5px;margin-top:16px">Tippen zum Aufdecken · tap to reveal</p>`;
+    }
+    html+=`</div>`;
+    if(state.vRevealed){
+      html+=`<div class="btnrow"><button class="btn no" id="vno">Gewusst? Nein</button><button class="btn yes" id="vyes">Gewusst? Ja ✓</button></div>`;
+    }
+  }
+  $view.innerHTML=html;
+  document.getElementById("vlist").onclick=()=>{state.vMode="list";render();};
+  document.getElementById("vquiz").onclick=()=>{state.vMode="quiz";nextWord();render();};
+  const vc=document.getElementById("vcard"); if(vc)vc.onclick=()=>{state.vRevealed=true;render();};
+  const vy=document.getElementById("vyes"); if(vy)vy.onclick=()=>{state.vRight++;state.vTotal++;nextWord();render();};
+  const vn=document.getElementById("vno"); if(vn)vn.onclick=()=>{state.vTotal++;nextWord();render();};
+}
+
+/* ---------- MAIN ---------- */
+function render(){
+  renderTabs();renderStats();
+  if(state.tab==="lernen")renderStudy();
+  else if(state.tab==="karten")renderCards();
+  else if(state.tab==="pruefung")renderExam();
+  else renderVocab();
+  document.querySelectorAll("[data-say]").forEach(b=>b.onclick=e=>{e.stopPropagation();speak(b.dataset.say,b.dataset.lang);});
+}
+(async()=>{
+  const p=await load();
+  if(p){state.read=p.read||{};state.boxes=p.boxes||{};state.history=p.history||[];}
+  buildQueue();
+  render();
+})();
+</script>
+</body>
+</html>
