@@ -510,7 +510,7 @@ function updateProgress(){
 document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click', ()=>{
   document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
   t.classList.add('active');
-  ['vocab','families','grammar','cards','quiz'].forEach(v=>{
+  ['vocab','grammar','cards','quiz','families'].forEach(v=>{
     document.getElementById('view-'+v).hidden = v!==t.dataset.view;
   });
   speechSynthesis.cancel();
@@ -670,7 +670,8 @@ ${hint('Learn the preposition with the verb: sich freuen <b>auf</b> (+Akk.), sic
 <p><b>und, aber, oder, denn, sondern</b> connect two main clauses without changing word order (position 0). <b>deshalb, trotzdem, dann, danach</b> count as position 1, so the verb follows immediately.</p>
 ${ex('Ich bin müde, denn ich habe lange gearbeitet.','I am tired because I worked a long time.')}
 ${ex('Ich habe lange gearbeitet, deshalb bin ich müde.','I worked a long time, therefore I am tired.')}
-${ex('Es regnet, trotzdem gehen wir spazieren.','It is raining; nevertheless we go for a walk.')}`}
+${ex('Es regnet, trotzdem gehen wir spazieren.','It is raining; nevertheless we go for a walk.')}
+${hint('This is just the start — the full table of all connectors (obwohl, damit, sonst, außerdem, nachdem…) is in <b>B1 → Sentence connectors (Konnektoren)</b>.')}`}
 ]},
 {level:'B1', topics:[
 {t:'The genitive case & all four cases together', b:`
@@ -727,6 +728,54 @@ ${ex('Wenn ich Zeit habe, lerne ich Vokabeln.','When(ever) I have time, I learn 
 <p><b>Indirect questions</b> put the verb at the end:</p>
 ${ex('Wissen Sie, wann der Zug abfährt?','Do you know when the train departs?')}
 ${ex('Können Sie mir sagen, wo das Amt ist?','Can you tell me where the office is?')}`},
+{t:'Sentence connectors (Konnektoren) — the complete overview', b:`
+<p>Connectors join sentences and ideas. In German what matters is the <b>word order</b> they cause. There are exactly three groups — learn the group, and you know where the verb goes.</p>
+
+<p><b>Group 1 — Position 0: word order stays normal</b> (subject + verb follow as usual). Remember them as <b>ADUSO</b>:</p>
+<table><tr><th>Connector</th><th>Meaning</th></tr>
+<tr><td class="de-w">aber</td><td>but</td></tr>
+<tr><td class="de-w">denn</td><td>because (gives a reason)</td></tr>
+<tr><td class="de-w">und</td><td>and</td></tr>
+<tr><td class="de-w">sondern</td><td>but rather (after a negative)</td></tr>
+<tr><td class="de-w">oder</td><td>or</td></tr></table>
+${ex('Ich lerne Deutsch, denn ich brauche das B1-Zertifikat.','I am learning German, because I need the B1 certificate.')}
+${ex('Er kommt nicht aus Deutschland, sondern aus Österreich.','He is not from Germany, but rather from Austria.')}
+
+<p><b>Group 2 — Position 1: verb comes immediately after the connector</b> (connector counts as the first element):</p>
+<table><tr><th>Connector</th><th>Meaning</th></tr>
+<tr><td class="de-w">deshalb / deswegen / darum / daher</td><td>therefore, that's why</td></tr>
+<tr><td class="de-w">trotzdem</td><td>nevertheless, despite that</td></tr>
+<tr><td class="de-w">außerdem</td><td>besides, in addition</td></tr>
+<tr><td class="de-w">dann / danach / vorher</td><td>then / after that / before that</td></tr>
+<tr><td class="de-w">zuerst / schließlich</td><td>first / finally</td></tr>
+<tr><td class="de-w">sonst</td><td>otherwise</td></tr>
+<tr><td class="de-w">also</td><td>so, thus</td></tr>
+<tr><td class="de-w">trotz allem / dabei</td><td>despite everything / at the same time</td></tr></table>
+${ex('Ich habe viel gearbeitet, deshalb bin ich müde.','I worked a lot, therefore I am tired.')}
+${ex('Beeil dich, sonst verpassen wir den Zug!','Hurry up, otherwise we will miss the train!')}
+${ex('Zuerst frühstücke ich, danach gehe ich zur Arbeit.','First I have breakfast, after that I go to work.')}
+
+<p><b>Group 3 — Verb goes to the end</b> (subordinating conjunctions, like weil/dass):</p>
+<table><tr><th>Connector</th><th>Meaning</th></tr>
+<tr><td class="de-w">weil / da</td><td>because</td></tr>
+<tr><td class="de-w">dass</td><td>that</td></tr>
+<tr><td class="de-w">wenn / falls</td><td>if, when(ever) / in case</td></tr>
+<tr><td class="de-w">als</td><td>when (single past event)</td></tr>
+<tr><td class="de-w">ob</td><td>whether</td></tr>
+<tr><td class="de-w">obwohl</td><td>although</td></tr>
+<tr><td class="de-w">damit</td><td>so that (purpose)</td></tr>
+<tr><td class="de-w">bevor / nachdem</td><td>before / after</td></tr>
+<tr><td class="de-w">während</td><td>while</td></tr>
+<tr><td class="de-w">seit / seitdem</td><td>since (time)</td></tr>
+<tr><td class="de-w">bis</td><td>until</td></tr>
+<tr><td class="de-w">sodass / so dass</td><td>so that (result)</td></tr>
+<tr><td class="de-w">indem</td><td>by (doing something)</td></tr></table>
+${ex('Obwohl es regnet, gehen wir spazieren.','Although it is raining, we go for a walk.')}
+${ex('Ich lerne jeden Tag, damit ich die Prüfung bestehe.','I study every day so that I pass the exam.')}
+${ex('Ich verbessere mein Deutsch, indem ich jeden Tag Vokabeln lerne.','I improve my German by learning vocabulary every day.')}
+${ex('Während ich koche, höre ich Radio.','While I cook, I listen to the radio.')}
+
+${hint('Same meaning, three word orders: <b>denn</b> (normal order) · <b>deshalb</b> (verb right after) · <b>weil</b> (verb at the end). "Ich bleibe zu Hause, denn ich <b>bin</b> krank." / "Ich bin krank, deshalb <b>bleibe</b> ich zu Hause." / "Ich bleibe zu Hause, weil ich krank <b>bin</b>." Using all three correctly in your B1 letter impresses the examiner.')}`},
 {t:'Futur I & two-part conjunctions', b:`
 <p><b>Futur I</b> = werden + infinitive, for plans and predictions (often the present tense + time word is enough).</p>
 ${ex('Nächstes Jahr werde ich die Staatsbürgerschaft beantragen.','Next year I will apply for citizenship.')}
