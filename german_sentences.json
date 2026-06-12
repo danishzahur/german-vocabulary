@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "german": "Grüß Gott!",
+    "english": "Hello! (formal, very Austrian)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 2,
+    "german": "Servus!",
+    "english": "Hi! / Bye! (informal, Austrian)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 3,
+    "german": "Guten Morgen!",
+    "english": "Good morning!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 4,
+    "german": "Guten Abend!",
+    "english": "Good evening!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 5,
+    "german": "Gute Nacht!",
+    "english": "Good night!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 6,
+    "german": "Hallo, wie geht's?",
+    "english": "Hello, how are you?",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 7,
+    "german": "Mir geht's gut, danke.",
+    "english": "I'm fine, thanks.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 8,
+    "german": "Und dir?",
+    "english": "And you? (informal)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 9,
+    "german": "Und Ihnen?",
+    "english": "And you? (formal)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 10,
+    "german": "Es geht so.",
+    "english": "So-so.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 11,
+    "german": "Danke, sehr gut.",
+    "english": "Thanks, very well.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 12,
+    "german": "Auf Wiedersehen!",
+    "english": "Goodbye! (formal)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 13,
+    "german": "Auf Wiederschauen!",
+    "english": "Goodbye! (Austrian formal)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 14,
+    "german": "Baba!",
+    "english": "Bye! (Austrian, informal)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 15,
+    "german": "Bis bald!",
+    "english": "See you soon!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 16,
+    "german": "Bis morgen!",
+    "english": "See you tomorrow!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 17,
+    "german": "Bis später!",
+    "english": "See you later!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 18,
+    "german": "Schönen Tag noch!",
+    "english": "Have a nice day!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 19,
+    "german": "Schönes Wochenende!",
+    "english": "Have a nice weekend!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 20,
+    "german": "Danke, gleichfalls!",
+    "english": "Thanks, same to you!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 21,
+    "german": "Danke schön!",
+    "english": "Thank you very much!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 22,
+    "german": "Vielen Dank!",
+    "english": "Many thanks!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 23,
+    "german": "Danke vielmals!",
+    "english": "Thanks a lot! (common in Austria)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 24,
+    "german": "Bitte schön!",
+    "english": "You're welcome!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 25,
+    "german": "Gern geschehen!",
+    "english": "My pleasure!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 26,
+    "german": "Kein Problem!",
+    "english": "No problem!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 27,
+    "german": "Passt schon!",
+    "english": "It's fine! (very Austrian)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 28,
+    "german": "Entschuldigung!",
+    "english": "Excuse me! / Sorry!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 29,
+    "german": "Entschuldigen Sie bitte!",
+    "english": "Excuse me, please! (formal)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 30,
+    "german": "Tut mir leid.",
+    "english": "I'm sorry.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 31,
+    "german": "Macht nichts.",
+    "english": "It doesn't matter.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 32,
+    "german": "Wie bitte?",
+    "english": "Pardon?",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 33,
+    "german": "Können Sie das bitte wiederholen?",
+    "english": "Can you please repeat that?",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 34,
+    "german": "Sprechen Sie bitte langsamer.",
+    "english": "Please speak more slowly.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 35,
+    "german": "Ich verstehe nicht.",
+    "english": "I don't understand.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 36,
+    "german": "Ich verstehe ein bisschen Deutsch.",
+    "english": "I understand a little German.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 37,
+    "german": "Sprechen Sie Englisch?",
+    "english": "Do you speak English?",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 38,
+    "german": "Wie sagt man das auf Deutsch?",
+    "english": "How do you say that in German?",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 39,
+    "german": "Was bedeutet das?",
+    "english": "What does that mean?",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 40,
+    "german": "Alles klar!",
+    "english": "All right!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 41,
+    "german": "In Ordnung.",
+    "english": "Okay.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 42,
+    "german": "Genau!",
+    "english": "Exactly!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 43,
+    "german": "Freilich!",
+    "english": "Of course! (Austrian)",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 44,
+    "german": "Na klar!",
+    "english": "Sure!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 45,
+    "german": "Vielleicht.",
+    "english": "Maybe.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 46,
+    "german": "Ich weiß nicht.",
+    "english": "I don't know.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 47,
+    "german": "Keine Ahnung.",
+    "english": "No idea.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 48,
+    "german": "Moment, bitte.",
+    "english": "One moment, please.",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 49,
+    "german": "Herzlich willkommen!",
+    "english": "Welcome!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 50,
+    "german": "Schön, dich zu sehen!",
+    "english": "Nice to see you!",
+    "section": "Greetings & Polite Phrases"
+  },
+  {
+    "id": 51,
+    "german": "Wie heißt du?",
+    "english": "What's your name? (informal)",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 52,
+    "german": "Wie heißen Sie?",
+    "english": "What's your name? (formal)",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 53,
+    "german": "Ich heiße Maria.",
+    "english": "My name is Maria.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 54,
+    "german": "Mein Name ist Huber.",
+    "english": "My name is Huber.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 55,
+    "german": "Freut mich!",
+    "english": "Nice to meet you!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 56,
+    "german": "Woher kommst du?",
+    "english": "Where are you from?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 57,
+    "german": "Ich komme aus Indien.",
+    "english": "I come from India.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 58,
+    "german": "Wo wohnst du?",
+    "english": "Where do you live?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 59,
+    "german": "Ich wohne in Wien.",
+    "english": "I live in Vienna.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 60,
+    "german": "Ich wohne seit zwei Jahren in Österreich.",
+    "english": "I've been living in Austria for two years.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 61,
+    "german": "Wie alt bist du?",
+    "english": "How old are you?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 62,
+    "german": "Ich bin dreißig Jahre alt.",
+    "english": "I'm thirty years old.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 63,
+    "german": "Was machst du beruflich?",
+    "english": "What do you do for a living?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 64,
+    "german": "Ich arbeite als Krankenpfleger.",
+    "english": "I work as a nurse.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 65,
+    "german": "Ich bin Student.",
+    "english": "I'm a student.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 66,
+    "german": "Ich lerne Deutsch.",
+    "english": "I'm learning German.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 67,
+    "german": "Ich bin verheiratet.",
+    "english": "I'm married.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 68,
+    "german": "Ich bin ledig.",
+    "english": "I'm single.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 69,
+    "german": "Hast du Kinder?",
+    "english": "Do you have children?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 70,
+    "german": "Ich habe zwei Kinder.",
+    "english": "I have two children.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 71,
+    "german": "Hast du Geschwister?",
+    "english": "Do you have siblings?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 72,
+    "german": "Ich habe einen Bruder und eine Schwester.",
+    "english": "I have a brother and a sister.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 73,
+    "german": "Welche Sprachen sprichst du?",
+    "english": "Which languages do you speak?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 74,
+    "german": "Ich spreche Englisch und ein bisschen Deutsch.",
+    "english": "I speak English and a little German.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 75,
+    "german": "Wie lange bist du schon hier?",
+    "english": "How long have you been here?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 76,
+    "german": "Ich bin seit drei Monaten hier.",
+    "english": "I've been here for three months.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 77,
+    "german": "Gefällt es dir in Österreich?",
+    "english": "Do you like it in Austria?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 78,
+    "german": "Ja, es gefällt mir sehr gut.",
+    "english": "Yes, I like it a lot.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 79,
+    "german": "Die Leute sind sehr freundlich.",
+    "english": "The people are very friendly.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 80,
+    "german": "Wien ist eine schöne Stadt.",
+    "english": "Vienna is a beautiful city.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 81,
+    "german": "Was sind deine Hobbys?",
+    "english": "What are your hobbies?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 82,
+    "german": "Ich gehe gern wandern.",
+    "english": "I like hiking.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 83,
+    "german": "Ich koche gern.",
+    "english": "I like cooking.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 84,
+    "german": "Darf ich dich etwas fragen?",
+    "english": "May I ask you something?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 85,
+    "german": "Natürlich, frag nur!",
+    "english": "Of course, go ahead!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 86,
+    "german": "Wie ist deine Telefonnummer?",
+    "english": "What's your phone number?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 87,
+    "german": "Hier ist meine Nummer.",
+    "english": "Here's my number.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 88,
+    "german": "Bist du auf WhatsApp?",
+    "english": "Are you on WhatsApp?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 89,
+    "german": "Wir können uns duzen.",
+    "english": "We can use \"du\" with each other.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 90,
+    "german": "Kommst du oft hierher?",
+    "english": "Do you come here often?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 91,
+    "german": "Was für ein Zufall!",
+    "english": "What a coincidence!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 92,
+    "german": "Die Welt ist klein!",
+    "english": "It's a small world!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 93,
+    "german": "Lange nicht gesehen!",
+    "english": "Long time no see!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 94,
+    "german": "Wie war dein Wochenende?",
+    "english": "How was your weekend?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 95,
+    "german": "Es war sehr entspannt.",
+    "english": "It was very relaxing.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 96,
+    "german": "Was hast du am Wochenende vor?",
+    "english": "What are your plans for the weekend?",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 97,
+    "german": "Ich besuche meine Familie.",
+    "english": "I'm visiting my family.",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 98,
+    "german": "Grüß deine Frau von mir!",
+    "english": "Say hi to your wife from me!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 99,
+    "german": "Mach's gut!",
+    "english": "Take care!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 100,
+    "german": "Pass auf dich auf!",
+    "english": "Take care of yourself!",
+    "section": "Introducing Yourself & Small Talk"
+  },
+  {
+    "id": 101,
+    "german": "Ich stehe um sechs Uhr auf.",
+    "english": "I get up at six o'clock.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 102,
+    "german": "Ich dusche jeden Morgen.",
+    "english": "I shower every morning.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 103,
+    "german": "Ich putze mir die Zähne.",
+    "english": "I brush my teeth.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 104,
+    "german": "Ich frühstücke um sieben.",
+    "english": "I have breakfast at seven.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 105,
+    "german": "Ich trinke zuerst einen Kaffee.",
+    "english": "First I drink a coffee.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 106,
+    "german": "Ohne Kaffee geht gar nichts.",
+    "english": "Nothing works without coffee.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 107,
+    "german": "Ich fahre mit der U-Bahn zur Arbeit.",
+    "english": "I take the subway to work.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 108,
+    "german": "Ich beginne um acht Uhr zu arbeiten.",
+    "english": "I start working at eight.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 109,
+    "german": "Mittags mache ich eine Pause.",
+    "english": "I take a break at noon.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 110,
+    "german": "Ich esse zu Mittag in der Kantine.",
+    "english": "I eat lunch in the cafeteria.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 111,
+    "german": "Am Nachmittag bin ich oft müde.",
+    "english": "In the afternoon I'm often tired.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 112,
+    "german": "Ich komme um siebzehn Uhr nach Hause.",
+    "english": "I get home at 5 p.m.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 113,
+    "german": "Nach der Arbeit gehe ich einkaufen.",
+    "english": "After work I go shopping.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 114,
+    "german": "Ich koche das Abendessen.",
+    "english": "I cook dinner.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 115,
+    "german": "Wir essen um neunzehn Uhr zu Abend.",
+    "english": "We have dinner at 7 p.m.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 116,
+    "german": "Danach sehe ich fern.",
+    "english": "Afterwards I watch TV.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 117,
+    "german": "Ich lese vor dem Schlafen.",
+    "english": "I read before sleeping.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 118,
+    "german": "Ich gehe um dreiundzwanzig Uhr schlafen.",
+    "english": "I go to bed at 11 p.m.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 119,
+    "german": "Am Wochenende schlafe ich lange.",
+    "english": "On the weekend I sleep in.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 120,
+    "german": "Ich räume die Wohnung auf.",
+    "english": "I tidy up the apartment.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 121,
+    "german": "Ich mache die Wäsche.",
+    "english": "I do the laundry.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 122,
+    "german": "Ich muss noch bügeln.",
+    "english": "I still have to iron.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 123,
+    "german": "Ich gehe mit dem Hund spazieren.",
+    "english": "I walk the dog.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 124,
+    "german": "Ich bringe den Müll raus.",
+    "english": "I take out the garbage.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 125,
+    "german": "Heute habe ich viel zu tun.",
+    "english": "I have a lot to do today.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 126,
+    "german": "Ich habe keine Zeit.",
+    "english": "I don't have time.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 127,
+    "german": "Ich bin schon spät dran.",
+    "english": "I'm running late.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 128,
+    "german": "Beeil dich!",
+    "english": "Hurry up!",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 129,
+    "german": "Ich bin gleich fertig.",
+    "english": "I'm almost done.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 130,
+    "german": "Warte kurz auf mich!",
+    "english": "Wait for me a second!",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 131,
+    "german": "Ich muss noch schnell duschen.",
+    "english": "I just need to shower quickly.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 132,
+    "german": "Hast du schon gefrühstückt?",
+    "english": "Have you had breakfast yet?",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 133,
+    "german": "Ich habe verschlafen.",
+    "english": "I overslept.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 134,
+    "german": "Mein Wecker hat nicht geläutet.",
+    "english": "My alarm didn't ring. (Austrian: läuten)",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 135,
+    "german": "Ich bin heute sehr müde.",
+    "english": "I'm very tired today.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 136,
+    "german": "Ich brauche eine Pause.",
+    "english": "I need a break.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 137,
+    "german": "Machen wir kurz Pause?",
+    "english": "Shall we take a short break?",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 138,
+    "german": "Ich gehe jetzt heim.",
+    "english": "I'm going home now. (Austrian: heim)",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 139,
+    "german": "Ich bin endlich zu Hause.",
+    "english": "I'm finally home.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 140,
+    "german": "Was machst du gerade?",
+    "english": "What are you doing right now?",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 141,
+    "german": "Ich entspanne mich ein bisschen.",
+    "english": "I'm relaxing a bit.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 142,
+    "german": "Ich rufe dich später an.",
+    "english": "I'll call you later.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 143,
+    "german": "Vergiss nicht den Termin!",
+    "english": "Don't forget the appointment!",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 144,
+    "german": "Ich habe es total vergessen.",
+    "english": "I completely forgot.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 145,
+    "german": "Das mache ich morgen.",
+    "english": "I'll do that tomorrow.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 146,
+    "german": "Heute schaffe ich das nicht mehr.",
+    "english": "I won't manage that today.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 147,
+    "german": "Zuerst muss ich aufräumen.",
+    "english": "First I have to tidy up.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 148,
+    "german": "Ich bin um Punkt acht dort.",
+    "english": "I'll be there at eight sharp.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 149,
+    "german": "Der Tag war anstrengend.",
+    "english": "The day was exhausting.",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 150,
+    "german": "Endlich Wochenende!",
+    "english": "Finally the weekend!",
+    "section": "Daily Routine"
+  },
+  {
+    "id": 151,
+    "german": "Ich habe Hunger.",
+    "english": "I'm hungry.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 152,
+    "german": "Ich habe Durst.",
+    "english": "I'm thirsty.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 153,
+    "german": "Was gibt's heute zum Essen?",
+    "english": "What's for dinner today?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 154,
+    "german": "Das schmeckt sehr gut.",
+    "english": "That tastes very good.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 155,
+    "german": "Das schmeckt mir nicht.",
+    "english": "I don't like the taste.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 156,
+    "german": "Mahlzeit!",
+    "english": "Enjoy your meal! (said around lunchtime in Austria)",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 157,
+    "german": "Guten Appetit!",
+    "english": "Enjoy your meal!",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 158,
+    "german": "Ich koche heute Schnitzel.",
+    "english": "I'm cooking schnitzel today.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 159,
+    "german": "Magst du Knödel?",
+    "english": "Do you like dumplings?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 160,
+    "german": "Ich esse gern Erdäpfel.",
+    "english": "I like eating potatoes. (Austrian: Erdäpfel)",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 161,
+    "german": "Wir brauchen noch Paradeiser.",
+    "english": "We still need tomatoes. (Austrian: Paradeiser)",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 162,
+    "german": "Kaufst du bitte Semmeln?",
+    "english": "Will you buy bread rolls, please? (Austrian: Semmeln)",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 163,
+    "german": "Ich hätte gern ein Stück Torte.",
+    "english": "I'd like a piece of cake.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 164,
+    "german": "Die Sachertorte ist berühmt.",
+    "english": "The Sachertorte is famous.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 165,
+    "german": "Ich nehme einen Apfelstrudel.",
+    "english": "I'll have an apple strudel.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 166,
+    "german": "Zum Frühstück esse ich Müsli.",
+    "english": "For breakfast I eat muesli.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 167,
+    "german": "Möchtest du Marmelade aufs Brot?",
+    "english": "Would you like jam on your bread?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 168,
+    "german": "Ich esse kein Fleisch.",
+    "english": "I don't eat meat.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 169,
+    "german": "Ich bin Vegetarier.",
+    "english": "I'm a vegetarian.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 170,
+    "german": "Ich bin allergisch gegen Nüsse.",
+    "english": "I'm allergic to nuts.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 171,
+    "german": "Das ist mir zu scharf.",
+    "english": "That's too spicy for me.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 172,
+    "german": "Das ist mir zu salzig.",
+    "english": "That's too salty for me.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 173,
+    "german": "Möchtest du noch etwas?",
+    "english": "Would you like some more?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 174,
+    "german": "Nein danke, ich bin satt.",
+    "english": "No thanks, I'm full.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 175,
+    "german": "Ein bisschen noch, bitte.",
+    "english": "A little more, please.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 176,
+    "german": "Kannst du mir das Salz geben?",
+    "english": "Can you pass me the salt?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 177,
+    "german": "Selbstgemacht schmeckt am besten.",
+    "english": "Homemade tastes best.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 178,
+    "german": "Was trinkst du?",
+    "english": "What are you drinking?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 179,
+    "german": "Ich trinke ein Glas Wasser.",
+    "english": "I'm drinking a glass of water.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 180,
+    "german": "Ein Soda Zitron, bitte.",
+    "english": "A soda water with lemon, please. (Austrian drink)",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 181,
+    "german": "Magst du einen Spritzer?",
+    "english": "Would you like a wine spritzer? (Austrian)",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 182,
+    "german": "Prost!",
+    "english": "Cheers!",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 183,
+    "german": "Zum Wohl!",
+    "english": "To your health!",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 184,
+    "german": "Wir grillen heute im Garten.",
+    "english": "We're barbecuing in the garden today.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 185,
+    "german": "Die Jause ist fertig.",
+    "english": "The snack is ready. (Austrian: Jause)",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 186,
+    "german": "Machen wir eine Jause?",
+    "english": "Shall we have a snack break?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 187,
+    "german": "Ich nasche gern Schokolade.",
+    "english": "I like snacking on chocolate.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 188,
+    "german": "Das Essen ist noch heiß.",
+    "english": "The food is still hot.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 189,
+    "german": "Vorsicht, nicht verbrennen!",
+    "english": "Careful, don't burn yourself!",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 190,
+    "german": "Das Brot ist schon hart.",
+    "english": "The bread is already stale.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 191,
+    "german": "Die Milch ist abgelaufen.",
+    "english": "The milk has expired.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 192,
+    "german": "Stell das bitte in den Kühlschrank.",
+    "english": "Please put that in the fridge.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 193,
+    "german": "Was kochen wir morgen?",
+    "english": "What shall we cook tomorrow?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 194,
+    "german": "Ich habe ein neues Rezept.",
+    "english": "I have a new recipe.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 195,
+    "german": "Hilfst du mir beim Kochen?",
+    "english": "Will you help me cook?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 196,
+    "german": "Kannst du den Tisch decken?",
+    "english": "Can you set the table?",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 197,
+    "german": "Ich wasche das Geschirr ab.",
+    "english": "I'll wash the dishes.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 198,
+    "german": "Der Geschirrspüler ist voll.",
+    "english": "The dishwasher is full.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 199,
+    "german": "Es riecht so gut!",
+    "english": "It smells so good!",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 200,
+    "german": "Ich könnte jeden Tag Pasta essen.",
+    "english": "I could eat pasta every day.",
+    "section": "Food & Eating – with Austrian Words"
+  },
+  {
+    "id": 201,
+    "german": "Haben Sie einen Tisch für zwei?",
+    "english": "Do you have a table for two?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 202,
+    "german": "Ich möchte einen Tisch reservieren.",
+    "english": "I'd like to reserve a table.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 203,
+    "german": "Die Speisekarte, bitte.",
+    "english": "The menu, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 204,
+    "german": "Was können Sie empfehlen?",
+    "english": "What can you recommend?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 205,
+    "german": "Ich hätte gern ein Wiener Schnitzel.",
+    "english": "I'd like a Wiener schnitzel.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 206,
+    "german": "Ich nehme die Tagessuppe.",
+    "english": "I'll have the soup of the day.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 207,
+    "german": "Was ist das Tagesgericht?",
+    "english": "What's the dish of the day?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 208,
+    "german": "Für mich bitte einen Salat.",
+    "english": "A salad for me, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 209,
+    "german": "Eine Melange, bitte.",
+    "english": "A melange, please. (Viennese coffee)",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 210,
+    "german": "Einen kleinen Braunen, bitte.",
+    "english": "A small coffee with milk, please. (Austrian)",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 211,
+    "german": "Ein großes Bier, bitte.",
+    "english": "A large beer, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 212,
+    "german": "Ein Krügerl, bitte.",
+    "english": "A pint, please. (Austrian: Krügerl)",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 213,
+    "german": "Ein Achtel Rotwein, bitte.",
+    "english": "An eighth of a liter of red wine, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 214,
+    "german": "Mit oder ohne Kohlensäure?",
+    "english": "Sparkling or still?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 215,
+    "german": "Leitungswasser, bitte.",
+    "english": "Tap water, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 216,
+    "german": "Können wir bestellen?",
+    "english": "Can we order?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 217,
+    "german": "Ich habe noch nicht gewählt.",
+    "english": "I haven't decided yet.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 218,
+    "german": "Kommt sofort!",
+    "english": "Coming right up!",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 219,
+    "german": "Hat es geschmeckt?",
+    "english": "Did you enjoy it?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 220,
+    "german": "Es war ausgezeichnet, danke.",
+    "english": "It was excellent, thanks.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 221,
+    "german": "Zahlen, bitte!",
+    "english": "The bill, please!",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 222,
+    "german": "Die Rechnung, bitte.",
+    "english": "The check, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 223,
+    "german": "Getrennt oder zusammen?",
+    "english": "Separately or together?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 224,
+    "german": "Zusammen, bitte.",
+    "english": "Together, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 225,
+    "german": "Getrennt, bitte.",
+    "english": "Separately, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 226,
+    "german": "Kann ich mit Karte zahlen?",
+    "english": "Can I pay by card?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 227,
+    "german": "Nur Barzahlung, leider.",
+    "english": "Cash only, unfortunately.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 228,
+    "german": "Das stimmt so.",
+    "english": "Keep the change.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 229,
+    "german": "Machen Sie zwanzig.",
+    "english": "Make it twenty. (rounding up as a tip)",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 230,
+    "german": "Wo sind die Toiletten?",
+    "english": "Where are the toilets?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 231,
+    "german": "Ist dieser Platz frei?",
+    "english": "Is this seat free?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 232,
+    "german": "Hier ist leider besetzt.",
+    "english": "This seat is taken, unfortunately.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 233,
+    "german": "Können wir draußen sitzen?",
+    "english": "Can we sit outside?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 234,
+    "german": "Der Gastgarten ist offen.",
+    "english": "The outdoor seating area is open. (Austrian: Gastgarten)",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 235,
+    "german": "Ich warte auf jemanden.",
+    "english": "I'm waiting for someone.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 236,
+    "german": "Das habe ich nicht bestellt.",
+    "english": "I didn't order this.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 237,
+    "german": "Entschuldigung, das ist kalt.",
+    "english": "Excuse me, this is cold.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 238,
+    "german": "Können Sie das einpacken?",
+    "english": "Can you wrap this up (to go)?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 239,
+    "german": "Zum Mitnehmen, bitte.",
+    "english": "To go, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 240,
+    "german": "Zum Hieressen oder zum Mitnehmen?",
+    "english": "For here or to go?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 241,
+    "german": "Noch einen Kaffee, bitte.",
+    "english": "Another coffee, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 242,
+    "german": "Mit Schlagobers, bitte.",
+    "english": "With whipped cream, please. (Austrian: Schlagobers)",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 243,
+    "german": "Ohne Zucker, bitte.",
+    "english": "Without sugar, please.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 244,
+    "german": "Haben Sie auch vegane Gerichte?",
+    "english": "Do you have vegan dishes too?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 245,
+    "german": "Gibt es eine Mittagskarte?",
+    "english": "Is there a lunch menu?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 246,
+    "german": "Das Lokal ist heute voll.",
+    "english": "The restaurant is full today. (Austrian: Lokal)",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 247,
+    "german": "Wir müssen leider warten.",
+    "english": "Unfortunately we have to wait.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 248,
+    "german": "Treffen wir uns im Kaffeehaus?",
+    "english": "Shall we meet at the coffee house?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 249,
+    "german": "Gehen wir auf ein Bier?",
+    "english": "Shall we go for a beer?",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 250,
+    "german": "Ich lade dich ein.",
+    "english": "It's my treat.",
+    "section": "Café & Restaurant"
+  },
+  {
+    "id": 251,
+    "german": "Wo ist der nächste Supermarkt?",
+    "english": "Where's the nearest supermarket?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 252,
+    "german": "Der Billa ist gleich ums Eck.",
+    "english": "The Billa is just around the corner. (Austrian supermarket)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 253,
+    "german": "Ich gehe schnell zum Hofer.",
+    "english": "I'm quickly going to Hofer. (Aldi in Austria)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 254,
+    "german": "Brauchen wir ein Sackerl?",
+    "english": "Do we need a bag? (Austrian: Sackerl)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 255,
+    "german": "Ein Sackerl, bitte.",
+    "english": "A bag, please.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 256,
+    "german": "Was kostet das?",
+    "english": "How much does that cost?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 257,
+    "german": "Das ist zu teuer.",
+    "english": "That's too expensive.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 258,
+    "german": "Das ist günstig.",
+    "english": "That's cheap.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 259,
+    "german": "Gibt es das in Aktion?",
+    "english": "Is that on sale? (Austrian: in Aktion)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 260,
+    "german": "Diese Woche ist Milch in Aktion.",
+    "english": "Milk is on sale this week.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 261,
+    "german": "Haben Sie eine Kundenkarte?",
+    "english": "Do you have a loyalty card?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 262,
+    "german": "Sammeln Sie Punkte?",
+    "english": "Are you collecting points?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 263,
+    "german": "Wo finde ich das Mehl?",
+    "english": "Where can I find the flour?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 264,
+    "german": "In der dritten Reihe links.",
+    "english": "In the third aisle on the left.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 265,
+    "german": "Ich suche frisches Obst.",
+    "english": "I'm looking for fresh fruit.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 266,
+    "german": "Ein Kilo Äpfel, bitte.",
+    "english": "A kilo of apples, please.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 267,
+    "german": "Zehn Deka Schinken, bitte.",
+    "english": "100 grams of ham, please. (Austrian: Deka)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 268,
+    "german": "Darf es ein bisschen mehr sein?",
+    "english": "Is a little more okay?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 269,
+    "german": "Sonst noch etwas?",
+    "english": "Anything else?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 270,
+    "german": "Das wäre alles, danke.",
+    "english": "That's all, thanks.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 271,
+    "german": "Die Kassa ist dort drüben.",
+    "english": "The checkout is over there. (Austrian: Kassa)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 272,
+    "german": "An der Kassa ist viel los.",
+    "english": "The checkout is busy.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 273,
+    "german": "Zahlen Sie bar oder mit Karte?",
+    "english": "Are you paying cash or by card?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 274,
+    "german": "Mit Bankomatkarte, bitte.",
+    "english": "With debit card, please. (Austrian: Bankomatkarte)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 275,
+    "german": "Brauchen Sie den Kassazettel?",
+    "english": "Do you need the receipt? (Austrian: Kassazettel)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 276,
+    "german": "Den Beleg, bitte.",
+    "english": "The receipt, please.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 277,
+    "german": "Ich habe es mir anders überlegt.",
+    "english": "I changed my mind.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 278,
+    "german": "Kann ich das umtauschen?",
+    "english": "Can I exchange this?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 279,
+    "german": "Haben Sie das in einer anderen Größe?",
+    "english": "Do you have this in another size?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 280,
+    "german": "Kann ich das anprobieren?",
+    "english": "Can I try this on?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 281,
+    "german": "Wo sind die Umkleidekabinen?",
+    "english": "Where are the fitting rooms?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 282,
+    "german": "Das passt mir nicht.",
+    "english": "It doesn't fit me.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 283,
+    "german": "Das steht dir gut!",
+    "english": "That looks good on you!",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 284,
+    "german": "Ich schaue nur, danke.",
+    "english": "I'm just looking, thanks.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 285,
+    "german": "Wann sperren Sie zu?",
+    "english": "When do you close? (Austrian: zusperren)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 286,
+    "german": "Wir haben bis achtzehn Uhr offen.",
+    "english": "We're open until 6 p.m.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 287,
+    "german": "Am Sonntag ist alles geschlossen.",
+    "english": "Everything is closed on Sunday.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 288,
+    "german": "Ich muss noch einkaufen gehen.",
+    "english": "I still have to go shopping.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 289,
+    "german": "Hast du die Einkaufsliste?",
+    "english": "Do you have the shopping list?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 290,
+    "german": "Wir brauchen Brot, Butter und Eier.",
+    "english": "We need bread, butter and eggs.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 291,
+    "german": "Vergiss das Klopapier nicht!",
+    "english": "Don't forget the toilet paper!",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 292,
+    "german": "Der Einkaufswagen braucht eine Münze.",
+    "english": "The shopping cart needs a coin.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 293,
+    "german": "Wo gibt es hier eine Apotheke?",
+    "english": "Where is there a pharmacy here?",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 294,
+    "german": "Die Trafik ist gleich daneben.",
+    "english": "The tobacco/newspaper shop is right next door. (Austrian: Trafik)",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 295,
+    "german": "Ich hole schnell eine Zeitung.",
+    "english": "I'll quickly get a newspaper.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 296,
+    "german": "Das Geschäft hat heute Ruhetag.",
+    "english": "The shop is closed today.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 297,
+    "german": "Online bestellen ist einfacher.",
+    "english": "Ordering online is easier.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 298,
+    "german": "Das Paket kommt morgen.",
+    "english": "The package arrives tomorrow.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 299,
+    "german": "Ich habe zu viel ausgegeben.",
+    "english": "I spent too much.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 300,
+    "german": "Das war ein guter Kauf.",
+    "english": "That was a good buy.",
+    "section": "Shopping & Supermarket"
+  },
+  {
+    "id": 301,
+    "german": "Wie spät ist es?",
+    "english": "What time is it?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 302,
+    "german": "Es ist halb neun.",
+    "english": "It's half past eight.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 303,
+    "german": "Es ist Viertel nach drei.",
+    "english": "It's a quarter past three.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 304,
+    "german": "Es ist Viertel vor sieben.",
+    "english": "It's a quarter to seven.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 305,
+    "german": "Es ist zehn nach fünf.",
+    "english": "It's ten past five.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 306,
+    "german": "Es ist genau Mittag.",
+    "english": "It's exactly noon.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 307,
+    "german": "Es ist schon spät.",
+    "english": "It's already late.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 308,
+    "german": "Es ist noch früh.",
+    "english": "It's still early.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 309,
+    "german": "Welcher Tag ist heute?",
+    "english": "What day is it today?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 310,
+    "german": "Heute ist Donnerstag.",
+    "english": "Today is Thursday.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 311,
+    "german": "Morgen ist Freitag.",
+    "english": "Tomorrow is Friday.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 312,
+    "german": "Übermorgen habe ich frei.",
+    "english": "I'm off the day after tomorrow.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 313,
+    "german": "Gestern war ich krank.",
+    "english": "I was sick yesterday.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 314,
+    "german": "Vorgestern hat es geregnet.",
+    "english": "It rained the day before yesterday.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 315,
+    "german": "Der Wievielte ist heute?",
+    "english": "What's the date today?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 316,
+    "german": "Heute ist der elfte Juni.",
+    "english": "Today is June 11th.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 317,
+    "german": "Mein Geburtstag ist im März.",
+    "english": "My birthday is in March.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 318,
+    "german": "Wann hast du Geburtstag?",
+    "english": "When is your birthday?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 319,
+    "german": "Alles Gute zum Geburtstag!",
+    "english": "Happy birthday!",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 320,
+    "german": "Der Termin ist nächste Woche.",
+    "english": "The appointment is next week.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 321,
+    "german": "Letzte Woche war ich auf Urlaub.",
+    "english": "Last week I was on vacation. (Austrian: auf Urlaub)",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 322,
+    "german": "Nächsten Monat ziehe ich um.",
+    "english": "Next month I'm moving.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 323,
+    "german": "Das Jahr vergeht so schnell.",
+    "english": "The year goes by so fast.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 324,
+    "german": "Heuer fahren wir nach Italien.",
+    "english": "This year we're going to Italy. (Austrian: heuer)",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 325,
+    "german": "Im Jänner ist es kalt.",
+    "english": "It's cold in January. (Austrian: Jänner)",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 326,
+    "german": "Im Sommer ist es heiß.",
+    "english": "It's hot in summer.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 327,
+    "german": "Um wie viel Uhr treffen wir uns?",
+    "english": "What time are we meeting?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 328,
+    "german": "Sagen wir um sieben?",
+    "english": "Shall we say at seven?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 329,
+    "german": "Passt dir vierzehn Uhr?",
+    "english": "Does 2 p.m. work for you?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 330,
+    "german": "Das passt mir gut.",
+    "english": "That works for me.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 331,
+    "german": "Das geht sich nicht aus.",
+    "english": "That won't work out (time-wise). (very Austrian)",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 332,
+    "german": "Das geht sich locker aus.",
+    "english": "That'll easily work out. (Austrian)",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 333,
+    "german": "Ich komme in zehn Minuten.",
+    "english": "I'll come in ten minutes.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 334,
+    "german": "Ich bin in einer halben Stunde da.",
+    "english": "I'll be there in half an hour.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 335,
+    "german": "Bitte sei pünktlich!",
+    "english": "Please be on time!",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 336,
+    "german": "Ich verspäte mich ein bisschen.",
+    "english": "I'm running a little late.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 337,
+    "german": "Wie lange dauert das?",
+    "english": "How long does that take?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 338,
+    "german": "Es dauert ungefähr eine Stunde.",
+    "english": "It takes about an hour.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 339,
+    "german": "Wir haben noch Zeit.",
+    "english": "We still have time.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 340,
+    "german": "Die Zeit ist um.",
+    "english": "Time's up.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 341,
+    "german": "Eins, zwei, drei, los!",
+    "english": "One, two, three, go!",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 342,
+    "german": "Ich zähle bis zehn.",
+    "english": "I'll count to ten.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 343,
+    "german": "Das kostet fünfzehn Euro.",
+    "english": "That costs fifteen euros.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 344,
+    "german": "Das macht zusammen vierzig Euro.",
+    "english": "That comes to forty euros altogether.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 345,
+    "german": "Ich brauche Kleingeld.",
+    "english": "I need small change.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 346,
+    "german": "Haben Sie es passend?",
+    "english": "Do you have exact change?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 347,
+    "german": "Zum ersten Mal bin ich pünktlich.",
+    "english": "For once I'm on time.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 348,
+    "german": "Montag ist mein freier Tag.",
+    "english": "Monday is my day off.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 349,
+    "german": "Am Feiertag ist zu.",
+    "english": "It's closed on the public holiday.",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 350,
+    "german": "Bis wann hast du Zeit?",
+    "english": "Until when do you have time?",
+    "section": "Numbers, Time & Dates"
+  },
+  {
+    "id": 351,
+    "german": "Wie ist das Wetter heute?",
+    "english": "How's the weather today?",
+    "section": "Weather"
+  },
+  {
+    "id": 352,
+    "german": "Die Sonne scheint.",
+    "english": "The sun is shining.",
+    "section": "Weather"
+  },
+  {
+    "id": 353,
+    "german": "Es ist schön draußen.",
+    "english": "It's nice outside.",
+    "section": "Weather"
+  },
+  {
+    "id": 354,
+    "german": "Es regnet schon wieder.",
+    "english": "It's raining again.",
+    "section": "Weather"
+  },
+  {
+    "id": 355,
+    "german": "Es schüttet!",
+    "english": "It's pouring! (Austrian colloquial)",
+    "section": "Weather"
+  },
+  {
+    "id": 356,
+    "german": "Nimm einen Schirm mit!",
+    "english": "Take an umbrella!",
+    "section": "Weather"
+  },
+  {
+    "id": 357,
+    "german": "Es ist bewölkt.",
+    "english": "It's cloudy.",
+    "section": "Weather"
+  },
+  {
+    "id": 358,
+    "german": "Es ist windig.",
+    "english": "It's windy.",
+    "section": "Weather"
+  },
+  {
+    "id": 359,
+    "german": "Es schneit.",
+    "english": "It's snowing.",
+    "section": "Weather"
+  },
+  {
+    "id": 360,
+    "german": "Es hat zwanzig Grad.",
+    "english": "It's twenty degrees. (Austrian: \"es hat\")",
+    "section": "Weather"
+  },
+  {
+    "id": 361,
+    "german": "Es hat minus fünf Grad.",
+    "english": "It's minus five degrees.",
+    "section": "Weather"
+  },
+  {
+    "id": 362,
+    "german": "Heute ist es heiß.",
+    "english": "It's hot today.",
+    "section": "Weather"
+  },
+  {
+    "id": 363,
+    "german": "Mir ist kalt.",
+    "english": "I'm cold.",
+    "section": "Weather"
+  },
+  {
+    "id": 364,
+    "german": "Mir ist heiß.",
+    "english": "I'm hot.",
+    "section": "Weather"
+  },
+  {
+    "id": 365,
+    "german": "Zieh dich warm an!",
+    "english": "Dress warmly!",
+    "section": "Weather"
+  },
+  {
+    "id": 366,
+    "german": "Es ist glatt auf der Straße.",
+    "english": "The road is icy.",
+    "section": "Weather"
+  },
+  {
+    "id": 367,
+    "german": "Pass auf, es ist rutschig!",
+    "english": "Careful, it's slippery!",
+    "section": "Weather"
+  },
+  {
+    "id": 368,
+    "german": "Der Schnee bleibt liegen.",
+    "english": "The snow is sticking.",
+    "section": "Weather"
+  },
+  {
+    "id": 369,
+    "german": "In den Bergen liegt noch Schnee.",
+    "english": "There's still snow in the mountains.",
+    "section": "Weather"
+  },
+  {
+    "id": 370,
+    "german": "Morgen soll es regnen.",
+    "english": "It's supposed to rain tomorrow.",
+    "section": "Weather"
+  },
+  {
+    "id": 371,
+    "german": "Der Wetterbericht sagt Sonne.",
+    "english": "The forecast says sun.",
+    "section": "Weather"
+  },
+  {
+    "id": 372,
+    "german": "Hoffentlich bleibt es trocken.",
+    "english": "Hopefully it stays dry.",
+    "section": "Weather"
+  },
+  {
+    "id": 373,
+    "german": "Es wird kühler.",
+    "english": "It's getting cooler.",
+    "section": "Weather"
+  },
+  {
+    "id": 374,
+    "german": "Es wird wärmer.",
+    "english": "It's getting warmer.",
+    "section": "Weather"
+  },
+  {
+    "id": 375,
+    "german": "Was für ein schöner Tag!",
+    "english": "What a beautiful day!",
+    "section": "Weather"
+  },
+  {
+    "id": 376,
+    "german": "Was für ein Sauwetter!",
+    "english": "What awful weather! (colloquial)",
+    "section": "Weather"
+  },
+  {
+    "id": 377,
+    "german": "Ein Gewitter ist im Anmarsch.",
+    "english": "A thunderstorm is coming.",
+    "section": "Weather"
+  },
+  {
+    "id": 378,
+    "german": "Es blitzt und donnert.",
+    "english": "There's lightning and thunder.",
+    "section": "Weather"
+  },
+  {
+    "id": 379,
+    "german": "Nach dem Regen kommt die Sonne.",
+    "english": "After the rain comes the sun.",
+    "section": "Weather"
+  },
+  {
+    "id": 380,
+    "german": "In der Früh ist es neblig.",
+    "english": "It's foggy in the morning. (Austrian: in der Früh)",
+    "section": "Weather"
+  },
+  {
+    "id": 381,
+    "german": "In der Früh ist es frisch.",
+    "english": "It's chilly in the morning.",
+    "section": "Weather"
+  },
+  {
+    "id": 382,
+    "german": "Der Frühling ist endlich da.",
+    "english": "Spring is finally here.",
+    "section": "Weather"
+  },
+  {
+    "id": 383,
+    "german": "Der Herbst ist meine Lieblingsjahreszeit.",
+    "english": "Autumn is my favorite season.",
+    "section": "Weather"
+  },
+  {
+    "id": 384,
+    "german": "Im Winter gehen wir Schi fahren.",
+    "english": "In winter we go skiing. (Austrian spelling: Schi)",
+    "section": "Weather"
+  },
+  {
+    "id": 385,
+    "german": "Der Föhn macht mir Kopfweh.",
+    "english": "The foehn wind gives me a headache. (Austrian)",
+    "section": "Weather"
+  },
+  {
+    "id": 386,
+    "german": "Heute ist es schwül.",
+    "english": "It's humid today.",
+    "section": "Weather"
+  },
+  {
+    "id": 387,
+    "german": "Die Hitze ist unerträglich.",
+    "english": "The heat is unbearable.",
+    "section": "Weather"
+  },
+  {
+    "id": 388,
+    "german": "Bleib im Schatten!",
+    "english": "Stay in the shade!",
+    "section": "Weather"
+  },
+  {
+    "id": 389,
+    "german": "Vergiss die Sonnencreme nicht!",
+    "english": "Don't forget the sunscreen!",
+    "section": "Weather"
+  },
+  {
+    "id": 390,
+    "german": "Es wird früh dunkel.",
+    "english": "It gets dark early.",
+    "section": "Weather"
+  },
+  {
+    "id": 391,
+    "german": "Die Tage werden länger.",
+    "english": "The days are getting longer.",
+    "section": "Weather"
+  },
+  {
+    "id": 392,
+    "german": "Bei dem Wetter bleibe ich daheim.",
+    "english": "In this weather I'm staying home.",
+    "section": "Weather"
+  },
+  {
+    "id": 393,
+    "german": "Perfektes Wetter zum Wandern!",
+    "english": "Perfect weather for hiking!",
+    "section": "Weather"
+  },
+  {
+    "id": 394,
+    "german": "Es hat über Nacht geschneit.",
+    "english": "It snowed overnight.",
+    "section": "Weather"
+  },
+  {
+    "id": 395,
+    "german": "Ich muss das Auto freikratzen.",
+    "english": "I have to scrape the ice off the car.",
+    "section": "Weather"
+  },
+  {
+    "id": 396,
+    "german": "Der Himmel ist ganz blau.",
+    "english": "The sky is completely blue.",
+    "section": "Weather"
+  },
+  {
+    "id": 397,
+    "german": "Es zieht hier.",
+    "english": "There's a draft here.",
+    "section": "Weather"
+  },
+  {
+    "id": 398,
+    "german": "Mach bitte das Fenster zu.",
+    "english": "Please close the window.",
+    "section": "Weather"
+  },
+  {
+    "id": 399,
+    "german": "Lüften wir kurz durch!",
+    "english": "Let's air the room out!",
+    "section": "Weather"
+  },
+  {
+    "id": 400,
+    "german": "Endlich hört der Regen auf.",
+    "english": "Finally the rain is stopping.",
+    "section": "Weather"
+  },
+  {
+    "id": 401,
+    "german": "Entschuldigung, wo ist der Bahnhof?",
+    "english": "Excuse me, where's the train station?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 402,
+    "german": "Wie komme ich zum Stephansplatz?",
+    "english": "How do I get to Stephansplatz?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 403,
+    "german": "Gehen Sie geradeaus.",
+    "english": "Go straight ahead.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 404,
+    "german": "Biegen Sie links ab.",
+    "english": "Turn left.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 405,
+    "german": "Biegen Sie rechts ab.",
+    "english": "Turn right.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 406,
+    "german": "Es ist gleich ums Eck.",
+    "english": "It's just around the corner. (Austrian: ums Eck)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 407,
+    "german": "Das ist nicht weit.",
+    "english": "It's not far.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 408,
+    "german": "Das ist ziemlich weit.",
+    "english": "That's quite far.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 409,
+    "german": "Zu Fuß sind es zehn Minuten.",
+    "english": "It's ten minutes on foot.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 410,
+    "german": "Ist es weit von hier?",
+    "english": "Is it far from here?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 411,
+    "german": "Können Sie mir das auf der Karte zeigen?",
+    "english": "Can you show me on the map?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 412,
+    "german": "Ich habe mich verlaufen.",
+    "english": "I'm lost.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 413,
+    "german": "Ich kenne mich hier nicht aus.",
+    "english": "I don't know my way around here.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 414,
+    "german": "Wo sind wir gerade?",
+    "english": "Where are we right now?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 415,
+    "german": "Gegenüber von der Kirche.",
+    "english": "Across from the church.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 416,
+    "german": "Neben der Bank.",
+    "english": "Next to the bank.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 417,
+    "german": "Hinter dem Rathaus.",
+    "english": "Behind the city hall.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 418,
+    "german": "Vor dem Museum.",
+    "english": "In front of the museum.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 419,
+    "german": "An der Ampel links.",
+    "english": "Left at the traffic light.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 420,
+    "german": "Bei der Kreuzung rechts.",
+    "english": "Right at the intersection.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 421,
+    "german": "Überqueren Sie die Straße.",
+    "english": "Cross the street.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 422,
+    "german": "Die erste Gasse rechts.",
+    "english": "The first lane on the right. (Austrian: Gasse)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 423,
+    "german": "Wo ist der nächste Bankomat?",
+    "english": "Where's the nearest ATM? (Austrian: Bankomat)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 424,
+    "german": "Gibt es hier ein WC?",
+    "english": "Is there a toilet here?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 425,
+    "german": "Wo kann ich parken?",
+    "english": "Where can I park?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 426,
+    "german": "Hier ist Parkverbot.",
+    "english": "Parking is forbidden here.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 427,
+    "german": "Das ist eine Kurzparkzone.",
+    "english": "This is a short-term parking zone. (Austrian)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 428,
+    "german": "Ich brauche einen Parkschein.",
+    "english": "I need a parking ticket.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 429,
+    "german": "Die Innenstadt ist eine Fußgängerzone.",
+    "english": "The city center is a pedestrian zone.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 430,
+    "german": "Der erste Bezirk ist im Zentrum.",
+    "english": "The first district is in the center. (Vienna)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 431,
+    "german": "In welchem Bezirk wohnst du?",
+    "english": "Which district do you live in?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 432,
+    "german": "Ich wohne im zehnten Bezirk.",
+    "english": "I live in the tenth district.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 433,
+    "german": "Die Adresse ist Hauptstraße fünf.",
+    "english": "The address is Hauptstraße 5.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 434,
+    "german": "Im dritten Stock, Tür zwölf.",
+    "english": "On the third floor, door twelve.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 435,
+    "german": "Läuten Sie bei Müller.",
+    "english": "Ring the bell at Müller's. (Austrian: läuten)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 436,
+    "german": "Der Lift ist kaputt.",
+    "english": "The elevator is broken. (Austrian: Lift)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 437,
+    "german": "Nehmen wir die Stiege.",
+    "english": "Let's take the stairs. (Austrian: Stiege)",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 438,
+    "german": "Folgen Sie mir, bitte.",
+    "english": "Follow me, please.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 439,
+    "german": "Ich begleite Sie ein Stück.",
+    "english": "I'll walk with you part of the way.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 440,
+    "german": "Da vorne ist es schon.",
+    "english": "It's right up ahead.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 441,
+    "german": "Sie können es nicht verfehlen.",
+    "english": "You can't miss it.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 442,
+    "german": "Fragen Sie am besten dort.",
+    "english": "Best ask over there.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 443,
+    "german": "Gibt es hier einen Spielplatz?",
+    "english": "Is there a playground here?",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 444,
+    "german": "Der Park ist sehr schön.",
+    "english": "The park is very beautiful.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 445,
+    "german": "Am Abend ist hier viel los.",
+    "english": "There's a lot going on here in the evening.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 446,
+    "german": "Die Gegend ist ruhig.",
+    "english": "The area is quiet.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 447,
+    "german": "Hier ist immer Stau.",
+    "english": "There's always a traffic jam here.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 448,
+    "german": "Die Straße ist gesperrt.",
+    "english": "The street is closed.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 449,
+    "german": "Es gibt eine Umleitung.",
+    "english": "There's a detour.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 450,
+    "german": "Wir sind gleich da.",
+    "english": "We're almost there.",
+    "section": "Directions & Around Town"
+  },
+  {
+    "id": 451,
+    "german": "Wann fährt der nächste Zug?",
+    "english": "When does the next train leave?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 452,
+    "german": "Der Zug fährt um neun Uhr zwölf.",
+    "english": "The train leaves at 9:12.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 453,
+    "german": "Von welchem Bahnsteig?",
+    "english": "From which platform?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 454,
+    "german": "Bahnsteig drei, glaube ich.",
+    "english": "Platform three, I think.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 455,
+    "german": "Eine Fahrkarte nach Salzburg, bitte.",
+    "english": "A ticket to Salzburg, please.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 456,
+    "german": "Einfach oder hin und retour?",
+    "english": "One-way or round trip? (Austrian: retour)",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 457,
+    "german": "Hin und retour, bitte.",
+    "english": "Round trip, please.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 458,
+    "german": "Gibt es eine Ermäßigung?",
+    "english": "Is there a discount?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 459,
+    "german": "Ich habe eine Vorteilscard.",
+    "english": "I have a discount card. (Austrian rail card)",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 460,
+    "german": "Ist der Zug pünktlich?",
+    "english": "Is the train on time?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 461,
+    "german": "Der Zug hat Verspätung.",
+    "english": "The train is delayed.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 462,
+    "german": "Zehn Minuten Verspätung.",
+    "english": "Ten minutes late.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 463,
+    "german": "Der Zug fällt aus.",
+    "english": "The train is cancelled.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 464,
+    "german": "Wo muss ich umsteigen?",
+    "english": "Where do I have to change?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 465,
+    "german": "Steigen Sie in Linz um.",
+    "english": "Change in Linz.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 466,
+    "german": "Ist dieser Platz noch frei?",
+    "english": "Is this seat still free?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 467,
+    "german": "Ich habe eine Reservierung.",
+    "english": "I have a reservation.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 468,
+    "german": "Die Fahrkarten, bitte!",
+    "english": "Tickets, please!",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 469,
+    "german": "Ich habe mein Ticket am Handy.",
+    "english": "I have my ticket on my phone.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 470,
+    "german": "Welche U-Bahn fährt zum Praterstern?",
+    "english": "Which subway goes to Praterstern?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 471,
+    "german": "Nehmen Sie die U1.",
+    "english": "Take the U1.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 472,
+    "german": "Wo ist die nächste Haltestelle?",
+    "english": "Where's the nearest stop?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 473,
+    "german": "Die Station ist gleich da drüben.",
+    "english": "The station is right over there.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 474,
+    "german": "Der Bus kommt alle zehn Minuten.",
+    "english": "The bus comes every ten minutes.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 475,
+    "german": "Wir haben den Bus verpasst.",
+    "english": "We missed the bus.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 476,
+    "german": "Der nächste kommt gleich.",
+    "english": "The next one is coming soon.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 477,
+    "german": "Bei welcher Station muss ich aussteigen?",
+    "english": "At which station do I get off?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 478,
+    "german": "Steigen Sie bei der dritten Station aus.",
+    "english": "Get off at the third station.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 479,
+    "german": "Bitte alle aussteigen!",
+    "english": "Everyone please get off!",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 480,
+    "german": "Zug fährt ab!",
+    "english": "Train departing! (Vienna metro announcement)",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 481,
+    "german": "Ich fahre mit der Bim.",
+    "english": "I take the tram. (Austrian: Bim)",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 482,
+    "german": "Die Straßenbahn ist langsamer.",
+    "english": "The tram is slower.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 483,
+    "german": "Hast du eine Jahreskarte?",
+    "english": "Do you have an annual pass?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 484,
+    "german": "Ich habe das Klimaticket.",
+    "english": "I have the Klimaticket. (Austrian nationwide pass)",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 485,
+    "german": "Schwarzfahren zahlt sich nicht aus.",
+    "english": "Riding without a ticket doesn't pay off.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 486,
+    "german": "Die Kontrolle kommt oft.",
+    "english": "Ticket inspections happen often.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 487,
+    "german": "Ich nehme ein Taxi.",
+    "english": "I'll take a taxi.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 488,
+    "german": "Zum Flughafen, bitte.",
+    "english": "To the airport, please.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 489,
+    "german": "Wann geht dein Flug?",
+    "english": "When does your flight leave?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 490,
+    "german": "Mein Flug geht um sechs in der Früh.",
+    "english": "My flight leaves at six in the morning.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 491,
+    "german": "Ich muss noch packen.",
+    "english": "I still have to pack.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 492,
+    "german": "Hast du deinen Reisepass?",
+    "english": "Do you have your passport?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 493,
+    "german": "Gute Reise!",
+    "english": "Have a good trip!",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 494,
+    "german": "Komm gut heim!",
+    "english": "Get home safe!",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 495,
+    "german": "Wir machen einen Ausflug.",
+    "english": "We're going on a day trip.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 496,
+    "german": "Fahren wir an den See?",
+    "english": "Shall we drive to the lake?",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 497,
+    "german": "Im Sommer fahren alle ans Meer.",
+    "english": "In summer everyone goes to the seaside.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 498,
+    "german": "Der Urlaub war zu kurz.",
+    "english": "The vacation was too short.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 499,
+    "german": "Ich freue mich auf den Urlaub.",
+    "english": "I'm looking forward to the vacation.",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 500,
+    "german": "Wohin fährst du auf Urlaub?",
+    "english": "Where are you going on vacation? (Austrian: auf Urlaub)",
+    "section": "Public Transport & Travel"
+  },
+  {
+    "id": 501,
+    "german": "Ich muss heute länger arbeiten.",
+    "english": "I have to work late today.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 502,
+    "german": "Ich habe morgen frei.",
+    "english": "I'm off tomorrow.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 503,
+    "german": "Ich nehme mir einen Urlaubstag.",
+    "english": "I'm taking a vacation day.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 504,
+    "german": "Ich bin im Homeoffice.",
+    "english": "I'm working from home.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 505,
+    "german": "Die Besprechung beginnt um zehn.",
+    "english": "The meeting starts at ten.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 506,
+    "german": "Das Meeting wurde verschoben.",
+    "english": "The meeting was postponed.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 507,
+    "german": "Hast du die E-Mail bekommen?",
+    "english": "Did you get the email?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 508,
+    "german": "Ich schicke dir die Datei.",
+    "english": "I'll send you the file.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 509,
+    "german": "Kannst du das bitte ausdrucken?",
+    "english": "Can you print that, please?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 510,
+    "german": "Der Drucker funktioniert nicht.",
+    "english": "The printer isn't working.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 511,
+    "german": "Der Computer ist abgestürzt.",
+    "english": "The computer crashed.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 512,
+    "german": "Hast du ihn schon neu gestartet?",
+    "english": "Have you tried restarting it?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 513,
+    "german": "Ich habe eine Frage.",
+    "english": "I have a question.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 514,
+    "german": "Kannst du mir kurz helfen?",
+    "english": "Can you help me for a second?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 515,
+    "german": "Ich bin gleich bei dir.",
+    "english": "I'll be right with you.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 516,
+    "german": "Das hat Zeit bis morgen.",
+    "english": "That can wait until tomorrow.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 517,
+    "german": "Das ist dringend.",
+    "english": "That's urgent.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 518,
+    "german": "Bis wann brauchst du das?",
+    "english": "By when do you need that?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 519,
+    "german": "Bis Ende der Woche, bitte.",
+    "english": "By the end of the week, please.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 520,
+    "german": "Die Deadline ist am Freitag.",
+    "english": "The deadline is on Friday.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 521,
+    "german": "Ich bin im Stress.",
+    "english": "I'm stressed.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 522,
+    "german": "Eines nach dem anderen.",
+    "english": "One thing at a time.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 523,
+    "german": "Gut gemacht!",
+    "english": "Well done!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 524,
+    "german": "Das haben wir geschafft!",
+    "english": "We did it!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 525,
+    "german": "Ich habe einen neuen Job.",
+    "english": "I have a new job.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 526,
+    "german": "Ich habe morgen ein Vorstellungsgespräch.",
+    "english": "I have a job interview tomorrow.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 527,
+    "german": "Viel Erfolg!",
+    "english": "Good luck!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 528,
+    "german": "Drück mir die Daumen!",
+    "english": "Keep your fingers crossed for me!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 529,
+    "german": "Wie ist es gelaufen?",
+    "english": "How did it go?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 530,
+    "german": "Es ist gut gelaufen.",
+    "english": "It went well.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 531,
+    "german": "Ich habe die Stelle bekommen!",
+    "english": "I got the job!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 532,
+    "german": "Gratuliere!",
+    "english": "Congratulations! (common in Austria)",
+    "section": "Work & Office"
+  },
+  {
+    "id": 533,
+    "german": "Mein Chef ist sehr nett.",
+    "english": "My boss is very nice.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 534,
+    "german": "Die Kollegen sind hilfsbereit.",
+    "english": "The colleagues are helpful.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 535,
+    "german": "Wir verstehen uns gut.",
+    "english": "We get along well.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 536,
+    "german": "Ich bin in der Probezeit.",
+    "english": "I'm in the probation period.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 537,
+    "german": "Ich arbeite Teilzeit.",
+    "english": "I work part-time.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 538,
+    "german": "Ich arbeite Vollzeit.",
+    "english": "I work full-time.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 539,
+    "german": "Ich mache eine Ausbildung.",
+    "english": "I'm doing vocational training.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 540,
+    "german": "Wann ist die Mittagspause?",
+    "english": "When is the lunch break?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 541,
+    "german": "Gehen wir gemeinsam essen?",
+    "english": "Shall we go eat together?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 542,
+    "german": "Ich bin heute krank.",
+    "english": "I'm sick today.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 543,
+    "german": "Ich melde mich krank.",
+    "english": "I'm calling in sick.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 544,
+    "german": "Ich brauche eine Krankmeldung.",
+    "english": "I need a sick note.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 545,
+    "german": "Gute Besserung!",
+    "english": "Get well soon!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 546,
+    "german": "Bist du wieder fit?",
+    "english": "Are you feeling better?",
+    "section": "Work & Office"
+  },
+  {
+    "id": 547,
+    "german": "Schicken Sie mir bitte die Unterlagen.",
+    "english": "Please send me the documents.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 548,
+    "german": "Ich melde mich morgen bei Ihnen.",
+    "english": "I'll get back to you tomorrow.",
+    "section": "Work & Office"
+  },
+  {
+    "id": 549,
+    "german": "Schönen Feierabend!",
+    "english": "Have a nice evening (after work)!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 550,
+    "german": "Endlich Feierabend!",
+    "english": "Finally done with work!",
+    "section": "Work & Office"
+  },
+  {
+    "id": 551,
+    "german": "Ich besuche einen Deutschkurs.",
+    "english": "I attend a German course.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 552,
+    "german": "Ich lerne Deutsch seit einem Jahr.",
+    "english": "I've been learning German for a year.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 553,
+    "german": "Deutsch ist schwer, aber schön.",
+    "english": "German is hard but beautiful.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 554,
+    "german": "Die Grammatik ist kompliziert.",
+    "english": "The grammar is complicated.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 555,
+    "german": "Die Artikel sind schwierig.",
+    "english": "The articles are difficult.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 556,
+    "german": "Heißt es der, die oder das?",
+    "english": "Is it der, die or das?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 557,
+    "german": "Wie schreibt man das?",
+    "english": "How do you spell that?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 558,
+    "german": "Können Sie das buchstabieren?",
+    "english": "Can you spell that?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 559,
+    "german": "Wie spricht man das aus?",
+    "english": "How do you pronounce that?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 560,
+    "german": "Was heißt das auf Englisch?",
+    "english": "What does that mean in English?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 561,
+    "german": "Ich habe ein neues Wort gelernt.",
+    "english": "I learned a new word.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 562,
+    "german": "Ich mache noch viele Fehler.",
+    "english": "I still make a lot of mistakes.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 563,
+    "german": "Fehler sind normal.",
+    "english": "Mistakes are normal.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 564,
+    "german": "Übung macht den Meister.",
+    "english": "Practice makes perfect.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 565,
+    "german": "Korrigier mich bitte!",
+    "english": "Please correct me!",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 566,
+    "german": "Du sprichst schon sehr gut.",
+    "english": "You already speak very well.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 567,
+    "german": "Dein Deutsch wird immer besser.",
+    "english": "Your German keeps getting better.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 568,
+    "german": "Ich verstehe den Dialekt nicht.",
+    "english": "I don't understand the dialect.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 569,
+    "german": "Die Wiener reden schnell.",
+    "english": "The Viennese talk fast.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 570,
+    "german": "Können Sie Hochdeutsch sprechen?",
+    "english": "Can you speak standard German?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 571,
+    "german": "Auf Wienerisch heißt das anders.",
+    "english": "In Viennese that's said differently.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 572,
+    "german": "Ich habe morgen eine Prüfung.",
+    "english": "I have an exam tomorrow.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 573,
+    "german": "Ich muss noch lernen.",
+    "english": "I still have to study.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 574,
+    "german": "Ich bereite mich auf die B1-Prüfung vor.",
+    "english": "I'm preparing for the B1 exam.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 575,
+    "german": "Ich habe die Prüfung bestanden!",
+    "english": "I passed the exam!",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 576,
+    "german": "Leider bin ich durchgefallen.",
+    "english": "Unfortunately I failed.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 577,
+    "german": "Beim nächsten Mal klappt es.",
+    "english": "It'll work out next time.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 578,
+    "german": "Welche Hausübung haben wir?",
+    "english": "What homework do we have? (Austrian: Hausübung)",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 579,
+    "german": "Ich habe die Hausübung gemacht.",
+    "english": "I did the homework.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 580,
+    "german": "Ich habe mein Heft vergessen.",
+    "english": "I forgot my notebook.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 581,
+    "german": "Kannst du mir einen Stift borgen?",
+    "english": "Can you lend me a pen? (Austrian: borgen)",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 582,
+    "german": "Schlagen Sie das Buch auf Seite zehn auf.",
+    "english": "Open the book to page ten.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 583,
+    "german": "Wiederholen Sie bitte nach mir.",
+    "english": "Please repeat after me.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 584,
+    "german": "Arbeiten Sie zu zweit.",
+    "english": "Work in pairs.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 585,
+    "german": "Haben Sie das verstanden?",
+    "english": "Did you understand that?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 586,
+    "german": "Können Sie das erklären?",
+    "english": "Can you explain that?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 587,
+    "german": "Noch einmal, bitte.",
+    "english": "Once more, please.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 588,
+    "german": "Langsamer, bitte.",
+    "english": "Slower, please.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 589,
+    "german": "Ich schaue im Wörterbuch nach.",
+    "english": "I'll look it up in the dictionary.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 590,
+    "german": "Ich lerne mit einer App.",
+    "english": "I'm learning with an app.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 591,
+    "german": "Ich schaue Filme auf Deutsch.",
+    "english": "I watch films in German.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 592,
+    "german": "Mit Untertiteln verstehe ich mehr.",
+    "english": "With subtitles I understand more.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 593,
+    "german": "Ich höre deutsche Podcasts.",
+    "english": "I listen to German podcasts.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 594,
+    "german": "Sprechen ist am schwierigsten.",
+    "english": "Speaking is the hardest.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 595,
+    "german": "Ich brauche mehr Übung.",
+    "english": "I need more practice.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 596,
+    "german": "Reden wir ein bisschen auf Deutsch?",
+    "english": "Shall we talk a bit in German?",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 597,
+    "german": "Keine Angst vor Fehlern!",
+    "english": "Don't be afraid of mistakes!",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 598,
+    "german": "Jeden Tag ein bisschen besser.",
+    "english": "A little better every day.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 599,
+    "german": "Die Pause ist vorbei.",
+    "english": "The break is over.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 600,
+    "german": "Der Kurs ist zu Ende.",
+    "english": "The course is over.",
+    "section": "Learning German & Class"
+  },
+  {
+    "id": 601,
+    "german": "Ich fühle mich nicht gut.",
+    "english": "I don't feel well.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 602,
+    "german": "Mir ist schlecht.",
+    "english": "I feel nauseous.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 603,
+    "german": "Mir ist schwindlig.",
+    "english": "I feel dizzy.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 604,
+    "german": "Ich habe Kopfweh.",
+    "english": "I have a headache. (Austrian: Kopfweh)",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 605,
+    "german": "Ich habe Bauchweh.",
+    "english": "I have a stomachache.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 606,
+    "german": "Ich habe Halsschmerzen.",
+    "english": "I have a sore throat.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 607,
+    "german": "Ich habe Fieber.",
+    "english": "I have a fever.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 608,
+    "german": "Ich bin verkühlt.",
+    "english": "I have a cold. (Austrian: verkühlt)",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 609,
+    "german": "Ich habe Schnupfen.",
+    "english": "I have a runny nose.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 610,
+    "german": "Ich huste seit Tagen.",
+    "english": "I've been coughing for days.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 611,
+    "german": "Gesundheit!",
+    "english": "Bless you!",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 612,
+    "german": "Ich brauche einen Termin beim Arzt.",
+    "english": "I need a doctor's appointment.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 613,
+    "german": "Haben Sie heute noch einen Termin frei?",
+    "english": "Do you have an appointment available today?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 614,
+    "german": "Es ist dringend.",
+    "english": "It's urgent.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 615,
+    "german": "Bitte nehmen Sie im Wartezimmer Platz.",
+    "english": "Please take a seat in the waiting room.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 616,
+    "german": "Haben Sie Ihre E-Card mit?",
+    "english": "Do you have your e-card with you? (Austrian insurance card)",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 617,
+    "german": "Der Nächste, bitte!",
+    "english": "Next, please!",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 618,
+    "german": "Was fehlt Ihnen?",
+    "english": "What seems to be the problem?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 619,
+    "german": "Wo tut es weh?",
+    "english": "Where does it hurt?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 620,
+    "german": "Hier tut es weh.",
+    "english": "It hurts here.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 621,
+    "german": "Seit wann haben Sie die Schmerzen?",
+    "english": "How long have you had the pain?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 622,
+    "german": "Seit drei Tagen.",
+    "english": "For three days.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 623,
+    "german": "Machen Sie bitte den Mund auf.",
+    "english": "Please open your mouth.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 624,
+    "german": "Atmen Sie tief ein.",
+    "english": "Breathe in deeply.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 625,
+    "german": "Ich verschreibe Ihnen ein Medikament.",
+    "english": "I'll prescribe you a medication.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 626,
+    "german": "Hier ist das Rezept.",
+    "english": "Here's the prescription.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 627,
+    "german": "Nehmen Sie die Tabletten dreimal täglich.",
+    "english": "Take the tablets three times a day.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 628,
+    "german": "Vor oder nach dem Essen?",
+    "english": "Before or after eating?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 629,
+    "german": "Bleiben Sie im Bett.",
+    "english": "Stay in bed.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 630,
+    "german": "Trinken Sie viel Wasser.",
+    "english": "Drink plenty of water.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 631,
+    "german": "Sie brauchen Ruhe.",
+    "english": "You need rest.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 632,
+    "german": "Kommen Sie nächste Woche wieder.",
+    "english": "Come back next week.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 633,
+    "german": "Ich brauche eine Überweisung.",
+    "english": "I need a referral.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 634,
+    "german": "Sind Sie versichert?",
+    "english": "Are you insured?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 635,
+    "german": "Ich gehe in die Apotheke.",
+    "english": "I'm going to the pharmacy.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 636,
+    "german": "Haben Sie etwas gegen Husten?",
+    "english": "Do you have something for a cough?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 637,
+    "german": "Ist das rezeptfrei?",
+    "english": "Is that available without a prescription?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 638,
+    "german": "Wie oft soll ich das nehmen?",
+    "english": "How often should I take this?",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 639,
+    "german": "Mir geht es schon besser.",
+    "english": "I'm feeling better already.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 640,
+    "german": "Ich bin wieder gesund.",
+    "english": "I'm healthy again.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 641,
+    "german": "Ich habe mich verletzt.",
+    "english": "I hurt myself.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 642,
+    "german": "Ich habe mir den Fuß verstaucht.",
+    "english": "I sprained my foot.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 643,
+    "german": "Wir müssen ins Spital.",
+    "english": "We have to go to the hospital. (Austrian: Spital)",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 644,
+    "german": "Rufen Sie die Rettung!",
+    "english": "Call the ambulance! (Austrian: Rettung)",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 645,
+    "german": "Der Notruf ist eins vier vier.",
+    "english": "The ambulance number is 144. (in Austria)",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 646,
+    "german": "Ich habe einen Termin beim Zahnarzt.",
+    "english": "I have a dentist appointment.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 647,
+    "german": "Mein Zahn tut weh.",
+    "english": "My tooth hurts.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 648,
+    "german": "Ich brauche eine neue Brille.",
+    "english": "I need new glasses.",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 649,
+    "german": "Schlaf dich gesund!",
+    "english": "Sleep it off, get healthy!",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 650,
+    "german": "Pass auf deine Gesundheit auf!",
+    "english": "Take care of your health!",
+    "section": "Health & Doctor"
+  },
+  {
+    "id": 651,
+    "german": "Hallo, wer spricht?",
+    "english": "Hello, who's speaking?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 652,
+    "german": "Hier spricht Frau Maier.",
+    "english": "This is Mrs. Maier speaking.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 653,
+    "german": "Kann ich bitte mit Herrn Gruber sprechen?",
+    "english": "May I speak with Mr. Gruber, please?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 654,
+    "german": "Er ist gerade nicht da.",
+    "english": "He's not here right now.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 655,
+    "german": "Kann ich etwas ausrichten?",
+    "english": "Can I take a message?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 656,
+    "german": "Ich rufe später noch einmal an.",
+    "english": "I'll call again later.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 657,
+    "german": "Können Sie mich zurückrufen?",
+    "english": "Can you call me back?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 658,
+    "german": "Ich verbinde Sie.",
+    "english": "I'll connect you.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 659,
+    "german": "Bleiben Sie bitte dran.",
+    "english": "Please hold the line.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 660,
+    "german": "Die Leitung ist besetzt.",
+    "english": "The line is busy.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 661,
+    "german": "Ich höre Sie schlecht.",
+    "english": "I can hardly hear you.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 662,
+    "german": "Die Verbindung ist schlecht.",
+    "english": "The connection is bad.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 663,
+    "german": "Mein Akku ist gleich leer.",
+    "english": "My battery is almost dead.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 664,
+    "german": "Mein Handy ist kaputt.",
+    "english": "My phone is broken.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 665,
+    "german": "Ich habe kein Guthaben mehr.",
+    "english": "I have no credit left.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 666,
+    "german": "Schick mir eine Nachricht.",
+    "english": "Send me a message.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 667,
+    "german": "Ich schreibe dir später.",
+    "english": "I'll text you later.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 668,
+    "german": "Hast du meine Nachricht bekommen?",
+    "english": "Did you get my message?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 669,
+    "german": "Ich möchte einen Termin vereinbaren.",
+    "english": "I'd like to make an appointment.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 670,
+    "german": "Geht es auch am Nachmittag?",
+    "english": "Is the afternoon possible too?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 671,
+    "german": "Ich muss den Termin leider absagen.",
+    "english": "Unfortunately I have to cancel the appointment.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 672,
+    "german": "Können wir den Termin verschieben?",
+    "english": "Can we postpone the appointment?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 673,
+    "german": "Ich muss aufs Amt.",
+    "english": "I have to go to the government office.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 674,
+    "german": "Ich muss mich anmelden.",
+    "english": "I have to register (my address).",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 675,
+    "german": "Wo bekomme ich den Meldezettel?",
+    "english": "Where do I get the registration form? (Austrian: Meldezettel)",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 676,
+    "german": "Ich brauche eine Bestätigung.",
+    "english": "I need a confirmation.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 677,
+    "german": "Welche Dokumente brauche ich?",
+    "english": "Which documents do I need?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 678,
+    "german": "Bringen Sie Ihren Reisepass mit.",
+    "english": "Bring your passport.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 679,
+    "german": "Füllen Sie bitte dieses Formular aus.",
+    "english": "Please fill out this form.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 680,
+    "german": "Unterschreiben Sie hier, bitte.",
+    "english": "Sign here, please.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 681,
+    "german": "Brauche ich einen Termin?",
+    "english": "Do I need an appointment?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 682,
+    "german": "Nur mit Termin, bitte.",
+    "english": "By appointment only, please.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 683,
+    "german": "Ziehen Sie eine Nummer.",
+    "english": "Take a number.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 684,
+    "german": "Warten Sie, bis Ihre Nummer aufgerufen wird.",
+    "english": "Wait until your number is called.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 685,
+    "german": "Das dauert ungefähr zwei Wochen.",
+    "english": "That takes about two weeks.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 686,
+    "german": "Ich möchte ein Konto eröffnen.",
+    "english": "I'd like to open a bank account.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 687,
+    "german": "Ich habe meine Karte verloren.",
+    "english": "I lost my card.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 688,
+    "german": "Ich möchte die Karte sperren lassen.",
+    "english": "I'd like to block the card.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 689,
+    "german": "Wie hoch sind die Gebühren?",
+    "english": "How high are the fees?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 690,
+    "german": "Ich möchte Geld überweisen.",
+    "english": "I'd like to transfer money.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 691,
+    "german": "Hier ist mein IBAN.",
+    "english": "Here's my IBAN.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 692,
+    "german": "Das Internet funktioniert nicht.",
+    "english": "The internet isn't working.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 693,
+    "german": "Ich möchte den Vertrag kündigen.",
+    "english": "I'd like to cancel the contract.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 694,
+    "german": "Wie lange ist die Kündigungsfrist?",
+    "english": "How long is the notice period?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 695,
+    "german": "Ich warte schon seit einer Stunde.",
+    "english": "I've been waiting for an hour.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 696,
+    "german": "Danke für Ihre Geduld.",
+    "english": "Thank you for your patience.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 697,
+    "german": "An wen kann ich mich wenden?",
+    "english": "Who can I turn to?",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 698,
+    "german": "Sie sind hier richtig.",
+    "english": "You're in the right place.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 699,
+    "german": "Sie müssen ins Zimmer drei.",
+    "english": "You need to go to room three.",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 700,
+    "german": "Alles erledigt!",
+    "english": "All done!",
+    "section": "Phone, Appointments & Bureaucracy"
+  },
+  {
+    "id": 701,
+    "german": "Ich bin glücklich.",
+    "english": "I'm happy.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 702,
+    "german": "Ich freue mich so!",
+    "english": "I'm so happy!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 703,
+    "german": "Ich bin traurig.",
+    "english": "I'm sad.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 704,
+    "german": "Ich bin müde.",
+    "english": "I'm tired.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 705,
+    "german": "Ich bin sauer.",
+    "english": "I'm angry.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 706,
+    "german": "Das ärgert mich.",
+    "english": "That annoys me.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 707,
+    "german": "Das nervt!",
+    "english": "That's annoying!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 708,
+    "german": "Ich bin nervös.",
+    "english": "I'm nervous.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 709,
+    "german": "Ich habe Angst.",
+    "english": "I'm afraid.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 710,
+    "german": "Keine Sorge!",
+    "english": "Don't worry!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 711,
+    "german": "Mach dir keine Sorgen.",
+    "english": "Don't worry about it.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 712,
+    "german": "Alles wird gut.",
+    "english": "Everything will be fine.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 713,
+    "german": "Ich bin stolz auf dich.",
+    "english": "I'm proud of you.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 714,
+    "german": "Ich vermisse dich.",
+    "english": "I miss you.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 715,
+    "german": "Ich hab dich lieb.",
+    "english": "I love you. (for family/friends)",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 716,
+    "german": "Ich liebe dich.",
+    "english": "I love you.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 717,
+    "german": "Du fehlst mir.",
+    "english": "I miss you.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 718,
+    "german": "Ich freue mich auf dich.",
+    "english": "I'm looking forward to seeing you.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 719,
+    "german": "Ich bin gespannt!",
+    "english": "I'm curious / can't wait!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 720,
+    "german": "Das überrascht mich.",
+    "english": "That surprises me.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 721,
+    "german": "Echt? Das gibt's ja nicht!",
+    "english": "Really? No way!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 722,
+    "german": "Wahnsinn!",
+    "english": "Crazy! / Amazing!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 723,
+    "german": "Das ist ja leiwand!",
+    "english": "That's awesome! (Viennese: leiwand)",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 724,
+    "german": "Super, das freut mich!",
+    "english": "Great, I'm glad!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 725,
+    "german": "Das tut mir leid für dich.",
+    "english": "I'm sorry for you.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 726,
+    "german": "Das ist schade.",
+    "english": "That's a pity.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 727,
+    "german": "Wie schade!",
+    "english": "What a shame!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 728,
+    "german": "Was denkst du darüber?",
+    "english": "What do you think about that?",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 729,
+    "german": "Meiner Meinung nach stimmt das.",
+    "english": "In my opinion that's true.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 730,
+    "german": "Ich finde das gut.",
+    "english": "I think that's good.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 731,
+    "german": "Ich finde das nicht okay.",
+    "english": "I don't think that's okay.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 732,
+    "german": "Da hast du recht.",
+    "english": "You're right.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 733,
+    "german": "Da bin ich anderer Meinung.",
+    "english": "I disagree.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 734,
+    "german": "Das sehe ich auch so.",
+    "english": "I see it the same way.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 735,
+    "german": "Das kommt darauf an.",
+    "english": "That depends.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 736,
+    "german": "Es ist mir egal.",
+    "english": "I don't care.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 737,
+    "german": "Das ist mir wichtig.",
+    "english": "That's important to me.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 738,
+    "german": "Das macht Sinn.",
+    "english": "That makes sense.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 739,
+    "german": "Das verstehe ich nicht ganz.",
+    "english": "I don't quite understand that.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 740,
+    "german": "Kannst du das genauer erklären?",
+    "english": "Can you explain that in more detail?",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 741,
+    "german": "Ich bin mir nicht sicher.",
+    "english": "I'm not sure.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 742,
+    "german": "Ich glaube schon.",
+    "english": "I think so.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 743,
+    "german": "Ich glaube nicht.",
+    "english": "I don't think so.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 744,
+    "german": "Hoffentlich!",
+    "english": "Hopefully!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 745,
+    "german": "Zum Glück!",
+    "english": "Luckily!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 746,
+    "german": "Leider nicht.",
+    "english": "Unfortunately not.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 747,
+    "german": "Es könnte schlimmer sein.",
+    "english": "It could be worse.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 748,
+    "german": "Kopf hoch!",
+    "english": "Chin up!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 749,
+    "german": "Du schaffst das!",
+    "english": "You can do it!",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 750,
+    "german": "Ich drücke dir die Daumen.",
+    "english": "I'm keeping my fingers crossed for you.",
+    "section": "Feelings & Opinions"
+  },
+  {
+    "id": 751,
+    "german": "Was machst du in deiner Freizeit?",
+    "english": "What do you do in your free time?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 752,
+    "german": "Ich treibe gern Sport.",
+    "english": "I like doing sports.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 753,
+    "german": "Ich gehe zweimal pro Woche laufen.",
+    "english": "I go running twice a week.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 754,
+    "german": "Ich gehe ins Fitnessstudio.",
+    "english": "I go to the gym.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 755,
+    "german": "Spielst du Fußball?",
+    "english": "Do you play soccer?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 756,
+    "german": "Wir schauen heute das Match.",
+    "english": "We're watching the match today. (Austrian: Match)",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 757,
+    "german": "Wer hat gewonnen?",
+    "english": "Who won?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 758,
+    "german": "Österreich hat zwei zu eins gewonnen.",
+    "english": "Austria won two to one.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 759,
+    "german": "Gehen wir am Wochenende wandern?",
+    "english": "Shall we go hiking on the weekend?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 760,
+    "german": "Die Aussicht ist wunderschön.",
+    "english": "The view is gorgeous.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 761,
+    "german": "Wir machen eine Radtour.",
+    "english": "We're going on a bike tour.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 762,
+    "german": "Fährst du gern Rad?",
+    "english": "Do you like cycling?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 763,
+    "german": "Im Winter gehe ich Schi fahren.",
+    "english": "In winter I go skiing.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 764,
+    "german": "Kannst du Schi fahren?",
+    "english": "Can you ski?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 765,
+    "german": "Ich lerne gerade Snowboarden.",
+    "english": "I'm learning to snowboard.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 766,
+    "german": "Gehen wir schwimmen?",
+    "english": "Shall we go swimming?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 767,
+    "german": "Das Bad hat schon offen.",
+    "english": "The swimming pool is already open.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 768,
+    "german": "Ich liege gern in der Sonne.",
+    "english": "I like lying in the sun.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 769,
+    "german": "Ich lese gern Krimis.",
+    "english": "I like reading crime novels.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 770,
+    "german": "Welches Buch liest du gerade?",
+    "english": "Which book are you reading right now?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 771,
+    "german": "Ich kann es dir borgen.",
+    "english": "I can lend it to you. (Austrian: borgen)",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 772,
+    "german": "Ich höre gern Musik.",
+    "english": "I like listening to music.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 773,
+    "german": "Welche Musik magst du?",
+    "english": "What music do you like?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 774,
+    "german": "Ich spiele Gitarre.",
+    "english": "I play the guitar.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 775,
+    "german": "Gehen wir auf ein Konzert?",
+    "english": "Shall we go to a concert?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 776,
+    "german": "Die Karten sind schon ausverkauft.",
+    "english": "The tickets are already sold out.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 777,
+    "german": "Was läuft im Kino?",
+    "english": "What's playing at the cinema?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 778,
+    "german": "Gehen wir ins Kino?",
+    "english": "Shall we go to the movies?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 779,
+    "german": "Der Film war richtig gut.",
+    "english": "The movie was really good.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 780,
+    "german": "Der Film war langweilig.",
+    "english": "The movie was boring.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 781,
+    "german": "Ich schaue gerade eine Serie.",
+    "english": "I'm watching a series at the moment.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 782,
+    "german": "Kennst du diese Serie?",
+    "english": "Do you know this series?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 783,
+    "german": "Nicht spoilern, bitte!",
+    "english": "No spoilers, please!",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 784,
+    "german": "Ich male gern.",
+    "english": "I like painting.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 785,
+    "german": "Ich fotografiere gern.",
+    "english": "I like taking photos.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 786,
+    "german": "Schau dir dieses Foto an!",
+    "english": "Look at this photo!",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 787,
+    "german": "Spielen wir Karten?",
+    "english": "Shall we play cards?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 788,
+    "german": "Wer ist dran?",
+    "english": "Whose turn is it?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 789,
+    "german": "Du bist dran.",
+    "english": "It's your turn.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 790,
+    "german": "Du schummelst!",
+    "english": "You're cheating!",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 791,
+    "german": "Noch eine Runde?",
+    "english": "Another round?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 792,
+    "german": "Ich habe gewonnen!",
+    "english": "I won!",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 793,
+    "german": "Gut gespielt!",
+    "english": "Well played!",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 794,
+    "german": "Treffen wir uns am Samstag?",
+    "english": "Shall we meet on Saturday?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 795,
+    "german": "Hast du am Abend Zeit?",
+    "english": "Do you have time in the evening?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 796,
+    "german": "Ich habe leider schon etwas vor.",
+    "english": "Unfortunately I already have plans.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 797,
+    "german": "Verschieben wir es auf Sonntag?",
+    "english": "Shall we move it to Sunday?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 798,
+    "german": "Was unternehmen wir heute?",
+    "english": "What shall we do today?",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 799,
+    "german": "Mir ist langweilig.",
+    "english": "I'm bored.",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 800,
+    "german": "Lass uns etwas Schönes machen!",
+    "english": "Let's do something nice!",
+    "section": "Hobbies & Free Time"
+  },
+  {
+    "id": 801,
+    "german": "Ich suche eine Wohnung.",
+    "english": "I'm looking for an apartment.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 802,
+    "german": "Die Wohnung ist zu vermieten.",
+    "english": "The apartment is for rent.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 803,
+    "german": "Wie hoch ist die Miete?",
+    "english": "How high is the rent?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 804,
+    "german": "Die Miete beträgt achthundert Euro.",
+    "english": "The rent is 800 euros.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 805,
+    "german": "Sind die Betriebskosten inklusive?",
+    "english": "Are utilities included? (Austrian: Betriebskosten)",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 806,
+    "german": "Wie viele Zimmer hat die Wohnung?",
+    "english": "How many rooms does the apartment have?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 807,
+    "german": "Es ist eine Zweizimmerwohnung.",
+    "english": "It's a two-room apartment.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 808,
+    "german": "Gibt es einen Balkon?",
+    "english": "Is there a balcony?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 809,
+    "german": "Die Wohnung hat viel Licht.",
+    "english": "The apartment gets a lot of light.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 810,
+    "german": "Wann kann ich sie besichtigen?",
+    "english": "When can I view it?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 811,
+    "german": "Die Besichtigung ist am Dienstag.",
+    "english": "The viewing is on Tuesday.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 812,
+    "german": "Ich brauche eine Kaution.",
+    "english": "I need a deposit.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 813,
+    "german": "Die Kaution beträgt drei Monatsmieten.",
+    "english": "The deposit is three months' rent.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 814,
+    "german": "Wann kann ich einziehen?",
+    "english": "When can I move in?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 815,
+    "german": "Wir ziehen nächste Woche um.",
+    "english": "We're moving next week.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 816,
+    "german": "Hilfst du mir beim Umzug?",
+    "english": "Will you help me move?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 817,
+    "german": "Die Kisten sind so schwer.",
+    "english": "The boxes are so heavy.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 818,
+    "german": "Wohin mit dem Sofa?",
+    "english": "Where should the sofa go?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 819,
+    "german": "Stell es bitte ins Wohnzimmer.",
+    "english": "Please put it in the living room.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 820,
+    "german": "Die Küche ist ganz neu.",
+    "english": "The kitchen is brand new.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 821,
+    "german": "Das Bad ist klein, aber fein.",
+    "english": "The bathroom is small but nice.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 822,
+    "german": "Das Schlafzimmer ist ruhig.",
+    "english": "The bedroom is quiet.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 823,
+    "german": "Der Keller gehört auch dazu.",
+    "english": "The cellar is included too.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 824,
+    "german": "Wo ist der Schlüssel?",
+    "english": "Where's the key?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 825,
+    "german": "Ich habe den Schlüssel vergessen.",
+    "english": "I forgot the key.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 826,
+    "german": "Ich habe mich ausgesperrt.",
+    "english": "I locked myself out.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 827,
+    "german": "Die Tür ist zugefallen.",
+    "english": "The door slammed shut.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 828,
+    "german": "Rufen wir den Schlüsseldienst.",
+    "english": "Let's call the locksmith.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 829,
+    "german": "Die Heizung funktioniert nicht.",
+    "english": "The heating isn't working.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 830,
+    "german": "Es ist kalt in der Wohnung.",
+    "english": "It's cold in the apartment.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 831,
+    "german": "Dreh die Heizung auf.",
+    "english": "Turn up the heating.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 832,
+    "german": "Das Licht ist kaputt.",
+    "english": "The light is broken.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 833,
+    "german": "Wir brauchen eine neue Glühbirne.",
+    "english": "We need a new lightbulb.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 834,
+    "german": "Der Wasserhahn tropft.",
+    "english": "The tap is dripping.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 835,
+    "german": "Ich rufe den Installateur.",
+    "english": "I'll call the plumber. (Austrian: Installateur)",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 836,
+    "german": "Der Hausmeister kümmert sich darum.",
+    "english": "The caretaker will take care of it.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 837,
+    "german": "Die Nachbarn sind sehr nett.",
+    "english": "The neighbors are very nice.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 838,
+    "german": "Die Nachbarn sind zu laut.",
+    "english": "The neighbors are too loud.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 839,
+    "german": "Ab zehn Uhr ist Nachtruhe.",
+    "english": "Quiet hours start at 10 p.m.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 840,
+    "german": "Bitte leiser, die Kinder schlafen.",
+    "english": "Quieter please, the children are sleeping.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 841,
+    "german": "Wer hat geläutet?",
+    "english": "Who rang the bell? (Austrian: läuten)",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 842,
+    "german": "Es hat an der Tür geklopft.",
+    "english": "Someone knocked on the door.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 843,
+    "german": "Machst du bitte die Tür auf?",
+    "english": "Will you open the door, please?",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 844,
+    "german": "Sperr die Tür zu!",
+    "english": "Lock the door! (Austrian: zusperren)",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 845,
+    "german": "Mach das Licht aus.",
+    "english": "Turn off the light.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 846,
+    "german": "Ich muss noch staubsaugen.",
+    "english": "I still have to vacuum.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 847,
+    "german": "Der Boden ist schmutzig.",
+    "english": "The floor is dirty.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 848,
+    "german": "Heute ist Putztag.",
+    "english": "Today is cleaning day.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 849,
+    "german": "Endlich ist alles sauber.",
+    "english": "Finally everything is clean.",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 850,
+    "german": "Fühl dich wie zu Hause!",
+    "english": "Make yourself at home!",
+    "section": "Home & Apartment"
+  },
+  {
+    "id": 851,
+    "german": "Das ist meine Familie.",
+    "english": "This is my family.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 852,
+    "german": "Das sind meine Eltern.",
+    "english": "These are my parents.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 853,
+    "german": "Meine Mutter heißt Anna.",
+    "english": "My mother's name is Anna.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 854,
+    "german": "Mein Vater arbeitet viel.",
+    "english": "My father works a lot.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 855,
+    "german": "Meine Oma backt den besten Kuchen.",
+    "english": "My grandma bakes the best cake.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 856,
+    "german": "Mein Opa erzählt gern Geschichten.",
+    "english": "My grandpa likes telling stories.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 857,
+    "german": "Meine Schwester ist jünger als ich.",
+    "english": "My sister is younger than me.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 858,
+    "german": "Mein Bruder ist älter als ich.",
+    "english": "My brother is older than me.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 859,
+    "german": "Wir besuchen am Sonntag die Oma.",
+    "english": "We're visiting grandma on Sunday.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 860,
+    "german": "Die ganze Familie kommt zusammen.",
+    "english": "The whole family is getting together.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 861,
+    "german": "Meine Tante wohnt in Graz.",
+    "english": "My aunt lives in Graz.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 862,
+    "german": "Mein Onkel hat einen Bauernhof.",
+    "english": "My uncle has a farm.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 863,
+    "german": "Meine Cousine heiratet im Mai.",
+    "english": "My cousin is getting married in May.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 864,
+    "german": "Wir sind zur Hochzeit eingeladen.",
+    "english": "We're invited to the wedding.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 865,
+    "german": "Herzlichen Glückwunsch!",
+    "english": "Congratulations!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 866,
+    "german": "Das Baby ist da!",
+    "english": "The baby is here!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 867,
+    "german": "Wie heißt das Baby?",
+    "english": "What's the baby's name?",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 868,
+    "german": "Sie ist so süß!",
+    "english": "She's so cute!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 869,
+    "german": "Die Kinder wachsen so schnell.",
+    "english": "The children grow up so fast.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 870,
+    "german": "Mein Sohn geht in den Kindergarten.",
+    "english": "My son goes to kindergarten.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 871,
+    "german": "Meine Tochter kommt in die Schule.",
+    "english": "My daughter is starting school.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 872,
+    "german": "Die Kinder spielen im Garten.",
+    "english": "The children are playing in the garden.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 873,
+    "german": "Kannst du auf die Kinder aufpassen?",
+    "english": "Can you watch the kids?",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 874,
+    "german": "Es ist Zeit fürs Bett.",
+    "english": "It's bedtime.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 875,
+    "german": "Räum bitte dein Zimmer auf.",
+    "english": "Please tidy your room.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 876,
+    "german": "Brav gemacht!",
+    "english": "Well done! (to kids, Austrian: brav)",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 877,
+    "german": "Sei brav!",
+    "english": "Be good!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 878,
+    "german": "Er ist mein bester Freund.",
+    "english": "He's my best friend.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 879,
+    "german": "Sie ist eine gute Freundin.",
+    "english": "She's a good friend.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 880,
+    "german": "Wir kennen uns seit der Schule.",
+    "english": "We've known each other since school.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 881,
+    "german": "Wir sind alte Freunde.",
+    "english": "We're old friends.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 882,
+    "german": "Ich habe neue Leute kennengelernt.",
+    "english": "I met new people.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 883,
+    "german": "Er ist sehr sympathisch.",
+    "english": "He's very likeable.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 884,
+    "german": "Auf dich kann man sich verlassen.",
+    "english": "You can be relied on.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 885,
+    "german": "Danke für deine Hilfe.",
+    "english": "Thanks for your help.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 886,
+    "german": "Ohne dich hätte ich das nicht geschafft.",
+    "english": "I wouldn't have managed without you.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 887,
+    "german": "Du kannst immer zu mir kommen.",
+    "english": "You can always come to me.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 888,
+    "german": "Melde dich, wenn du etwas brauchst.",
+    "english": "Get in touch if you need anything.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 889,
+    "german": "Wir müssen uns öfter sehen.",
+    "english": "We should see each other more often.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 890,
+    "german": "Lange nichts von dir gehört!",
+    "english": "Haven't heard from you in a while!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 891,
+    "german": "Wie geht es deiner Familie?",
+    "english": "How's your family?",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 892,
+    "german": "Allen geht es gut, danke.",
+    "english": "Everyone's fine, thanks.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 893,
+    "german": "Schöne Grüße an alle!",
+    "english": "Best regards to everyone!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 894,
+    "german": "Kommst du zu meiner Feier?",
+    "english": "Are you coming to my party?",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 895,
+    "german": "Ich bringe etwas zu essen mit.",
+    "english": "I'll bring something to eat.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 896,
+    "german": "Soll ich etwas mitbringen?",
+    "english": "Should I bring something?",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 897,
+    "german": "Bring gute Laune mit!",
+    "english": "Bring a good mood!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 898,
+    "german": "Es war ein schöner Abend.",
+    "english": "It was a lovely evening.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 899,
+    "german": "Danke für die Einladung.",
+    "english": "Thanks for the invitation.",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 900,
+    "german": "Kommt gut heim!",
+    "english": "Get home safe!",
+    "section": "Family & Friends"
+  },
+  {
+    "id": 901,
+    "german": "Passt schon.",
+    "english": "It's fine / No worries. (Austrian classic)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 902,
+    "german": "Geh bitte!",
+    "english": "Come on! / No way! (Austrian)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 903,
+    "german": "Na geh!",
+    "english": "Oh no! / Come on! (Austrian)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 904,
+    "german": "Oida, echt jetzt?",
+    "english": "Dude, seriously? (Viennese slang)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 905,
+    "german": "Des is wurscht.",
+    "english": "It doesn't matter. (dialect: wurscht)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 906,
+    "german": "Das ist mir wurscht.",
+    "english": "I don't care. (Austrian: wurscht)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 907,
+    "german": "Na servas!",
+    "english": "Well, hello! / Oh boy! (Austrian)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 908,
+    "german": "Schau ma mal.",
+    "english": "We'll see. (Austrian)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 909,
+    "german": "Schauen wir einmal.",
+    "english": "Let's see.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 910,
+    "german": "Passt das für dich?",
+    "english": "Does that work for you?",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 911,
+    "german": "Geht das für dich in Ordnung?",
+    "english": "Is that okay with you?",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 912,
+    "german": "Das ist ein Wahnsinn!",
+    "english": "That's crazy/incredible!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 913,
+    "german": "Das ist ur cool!",
+    "english": "That's super cool! (Viennese: ur = very)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 914,
+    "german": "Das war ur lustig.",
+    "english": "That was super funny.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 915,
+    "german": "Bist du deppert!",
+    "english": "Wow! / Unbelievable! (Austrian exclamation)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 916,
+    "german": "Sei nicht so heikel!",
+    "english": "Don't be so picky! (Austrian: heikel)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 917,
+    "german": "Er ist heute ein bisschen grantig.",
+    "english": "He's a bit grumpy today. (Austrian: grantig)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 918,
+    "german": "Sei nicht grantig!",
+    "english": "Don't be grumpy!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 919,
+    "german": "Ich bin heute ein bisschen marod.",
+    "english": "I'm feeling a bit under the weather. (Austrian: marod)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 920,
+    "german": "Das ist nur ein Schmäh.",
+    "english": "That's just a joke. (Austrian: Schmäh)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 921,
+    "german": "Er hat einen guten Schmäh.",
+    "english": "He's got good banter/charm.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 922,
+    "german": "Das ist ein Blödsinn.",
+    "english": "That's nonsense.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 923,
+    "german": "Red keinen Blödsinn!",
+    "english": "Don't talk nonsense!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 924,
+    "german": "Das geht sich aus.",
+    "english": "That will work out / There's enough time. (Austrian classic)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 925,
+    "german": "Das geht sich nie aus.",
+    "english": "That will never work out.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 926,
+    "german": "Machen wir es uns gemütlich.",
+    "english": "Let's get cozy.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 927,
+    "german": "Nur keine Hektik!",
+    "english": "No rush!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 928,
+    "german": "Immer mit der Ruhe.",
+    "english": "Take it easy.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 929,
+    "german": "Eile mit Weile.",
+    "english": "Haste makes waste.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 930,
+    "german": "Es ist, wie es ist.",
+    "english": "It is what it is.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 931,
+    "german": "Da kann man nichts machen.",
+    "english": "Nothing can be done about it.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 932,
+    "german": "Wird schon wieder.",
+    "english": "It'll be okay.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 933,
+    "german": "Halt die Ohren steif!",
+    "english": "Hang in there!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 934,
+    "german": "Hals- und Beinbruch!",
+    "english": "Break a leg!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 935,
+    "german": "Toi, toi, toi!",
+    "english": "Fingers crossed / Good luck!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 936,
+    "german": "Um Gottes willen!",
+    "english": "For God's sake!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 937,
+    "german": "Ach du liebe Zeit!",
+    "english": "Oh dear!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 938,
+    "german": "Das darf nicht wahr sein!",
+    "english": "That can't be true!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 939,
+    "german": "Jetzt aber schnell!",
+    "english": "Quick now!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 940,
+    "german": "Auf geht's!",
+    "english": "Let's go!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 941,
+    "german": "Gemma!",
+    "english": "Let's go! (Austrian dialect: gemma = gehen wir)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 942,
+    "german": "Gemma was essen?",
+    "english": "Shall we go eat something?",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 943,
+    "german": "Magst mitkommen?",
+    "english": "Want to come along? (Austrian casual)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 944,
+    "german": "Ich schau kurz vorbei.",
+    "english": "I'll drop by quickly.",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 945,
+    "german": "Bis nachher!",
+    "english": "See you in a bit!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 946,
+    "german": "Pfiat di!",
+    "english": "Bye! (Austrian dialect)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 947,
+    "german": "Habe die Ehre!",
+    "english": "Goodbye! (traditional Austrian greeting)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 948,
+    "german": "Küss die Hand!",
+    "english": "Old Viennese polite greeting (lit. \"kiss the hand\")",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 949,
+    "german": "Alles Liebe!",
+    "english": "All the best!",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 950,
+    "german": "Schau auf dich!",
+    "english": "Take care of yourself! (Austrian)",
+    "section": "Typical Austrian Expressions"
+  },
+  {
+    "id": 951,
+    "german": "Könntest du mir bitte helfen?",
+    "english": "Could you please help me?",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 952,
+    "german": "Wärst du so nett, das Fenster zu öffnen?",
+    "english": "Would you be so kind as to open the window?",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 953,
+    "german": "Ich hätte eine Bitte an dich.",
+    "english": "I have a favor to ask you.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 954,
+    "german": "Wenn ich Zeit habe, komme ich vorbei.",
+    "english": "If I have time, I'll drop by.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 955,
+    "german": "Wenn es regnet, bleiben wir daheim.",
+    "english": "If it rains, we'll stay home.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 956,
+    "german": "Ich weiß nicht, ob das stimmt.",
+    "english": "I don't know if that's true.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 957,
+    "german": "Ich glaube, dass er recht hat.",
+    "english": "I think that he's right.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 958,
+    "german": "Er sagt, dass er später kommt.",
+    "english": "He says that he's coming later.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 959,
+    "german": "Ich bin froh, dass du da bist.",
+    "english": "I'm glad that you're here.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 960,
+    "german": "Es ist wichtig, dass wir pünktlich sind.",
+    "english": "It's important that we're on time.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 961,
+    "german": "Ich rufe an, sobald ich da bin.",
+    "english": "I'll call as soon as I'm there.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 962,
+    "german": "Während ich koche, deckst du den Tisch.",
+    "english": "While I cook, you set the table.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 963,
+    "german": "Bevor wir gehen, müssen wir zahlen.",
+    "english": "Before we leave, we have to pay.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 964,
+    "german": "Nachdem ich gegessen habe, gehe ich spazieren.",
+    "english": "After I've eaten, I go for a walk.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 965,
+    "german": "Obwohl es regnet, gehen wir raus.",
+    "english": "Although it's raining, we're going out.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 966,
+    "german": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+    "english": "I'm learning German because I want to work here.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 967,
+    "german": "Ich bin müde, deshalb gehe ich früh schlafen.",
+    "english": "I'm tired, so I'm going to bed early.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 968,
+    "german": "Je mehr ich übe, desto besser werde ich.",
+    "english": "The more I practice, the better I get.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 969,
+    "german": "Ich habe vor, im Sommer zu verreisen.",
+    "english": "I plan to travel in summer.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 970,
+    "german": "Ich habe keine Lust, heute zu kochen.",
+    "english": "I don't feel like cooking today.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 971,
+    "german": "Es macht mir Spaß, Deutsch zu lernen.",
+    "english": "Learning German is fun for me.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 972,
+    "german": "Ich habe vergessen, die Tür zuzusperren.",
+    "english": "I forgot to lock the door. (Austrian: zusperren)",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 973,
+    "german": "Es ist verboten, hier zu parken.",
+    "english": "It's forbidden to park here.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 974,
+    "german": "Ich versuche, jeden Tag zu üben.",
+    "english": "I try to practice every day.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 975,
+    "german": "An deiner Stelle würde ich warten.",
+    "english": "If I were you, I'd wait.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 976,
+    "german": "Was würdest du machen?",
+    "english": "What would you do?",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 977,
+    "german": "Ich würde gern mitkommen.",
+    "english": "I'd like to come along.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 978,
+    "german": "Könnte ich bitte das Fenster aufmachen?",
+    "english": "Could I open the window, please?",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 979,
+    "german": "Dürfte ich kurz stören?",
+    "english": "May I interrupt for a moment?",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 980,
+    "german": "Das hätte ich nicht gedacht.",
+    "english": "I wouldn't have thought that.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 981,
+    "german": "Das wäre super!",
+    "english": "That would be great!",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 982,
+    "german": "Es wäre schön, wenn du kommst.",
+    "english": "It would be nice if you came.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 983,
+    "german": "Ich war noch nie in Salzburg.",
+    "english": "I've never been to Salzburg.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 984,
+    "german": "Warst du schon einmal in Innsbruck?",
+    "english": "Have you ever been to Innsbruck?",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 985,
+    "german": "Ich habe das schon oft gehört.",
+    "english": "I've heard that often.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 986,
+    "german": "Das habe ich noch nie probiert.",
+    "english": "I've never tried that.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 987,
+    "german": "Früher habe ich in Linz gewohnt.",
+    "english": "I used to live in Linz.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 988,
+    "german": "Als ich jung war, hatte ich mehr Zeit.",
+    "english": "When I was young, I had more time.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 989,
+    "german": "Das Auto wird gerade repariert.",
+    "english": "The car is being repaired.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 990,
+    "german": "Die Wohnung wurde renoviert.",
+    "english": "The apartment was renovated.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 991,
+    "german": "Mir wurde gesagt, dass es einfach ist.",
+    "english": "I was told that it's easy.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 992,
+    "german": "Lass uns das gemeinsam machen.",
+    "english": "Let's do that together.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 993,
+    "german": "Es kommt darauf an, wie viel es kostet.",
+    "english": "It depends on how much it costs.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 994,
+    "german": "Ich freue mich darauf, dich zu sehen.",
+    "english": "I'm looking forward to seeing you.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 995,
+    "german": "Ich bin daran gewöhnt, früh aufzustehen.",
+    "english": "I'm used to getting up early.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 996,
+    "german": "Ich kümmere mich darum.",
+    "english": "I'll take care of it.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 997,
+    "german": "Darauf kannst du dich verlassen.",
+    "english": "You can count on that.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 998,
+    "german": "Es hat sich gelohnt.",
+    "english": "It was worth it.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 999,
+    "german": "Am Ende wird alles gut.",
+    "english": "In the end, everything will be fine.",
+    "section": "Useful B1-Level Structures"
+  },
+  {
+    "id": 1000,
+    "german": "Du hast es fast geschafft",
+    "english": "weiter so! – You've almost made it – keep going!",
+    "section": "Useful B1-Level Structures"
+  }
+]
